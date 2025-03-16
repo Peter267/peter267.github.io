@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>周记     2024.9.2-2024.9.7</title>
+    <url>/2024/09/10/2024.9.2-9.7%E5%91%A8%E8%AE%B0/</url>
+    <content><![CDATA[<blockquote>
+<p>开学了，没时间写技术文章了，发点周记啥的吧。两周一更</p>
+</blockquote>
+<p>在这意义非凡的一周，我正式地告别了那充满童真与欢笑的小学生活，满心欢喜又略带忐忑地迎来了一段崭新且未知的生活 —— 初中生活。这是人生路上的新起点，就像开启了一扇通往新世界的大门。<br>当我怀着对未来的憧憬踏入初中校园的时候，周围的一切都是那么的陌生。新的校园环境、新的老师同学，这种陌生感让我在初期感到有些难以适应，于是……<br>开学第一天，我就迟到了。<br>我前一天晚上特意定了早上的闹钟，本想着能够早早起床，早早到校。可谁知道，闹钟响了之后，我却依然沉浸在睡梦之中，没有按时起来。等我猛地惊醒，一看时间已经很晚了，顿时心急如焚。在慌慌张张出门的那一刻，我竟然忘记了戴红领巾。无奈之下，我只能在路上的小卖部买了一条，就这样，因为这一连串的意外和耽搁，我迟到了。<br>事后，我反思了自己，因为我没有做好充足的准备，没有思想周全，再包括晚起床，就导致了我的迟到。<br>这一周，虽然有波折，但也充满了希望。它让我明白，每一个挑战都是成长的机会，而每一次尝试都将引领我走向成熟。带着这份领悟，我满怀信心地迎接接下来的日子。</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>周记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2024年度浏览器扩展推荐</title>
     <url>/2025/01/14/2024%E5%B9%B4%E5%BA%A6%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<p>2024年（好像）是我第3年使用Edge浏览器了，虽然Edge最近的行为有点恶心，但依然非常喜欢用。喜欢用的原因不仅是因为Edge好用，还有插件的功劳。在这篇文章，我来介绍下我在今年（2024年）中使用的扩展。</p>
@@ -131,21 +146,6 @@
       </tags>
   </entry>
   <entry>
-    <title>周记     2024.9.8-2024.9.22</title>
-    <url>/2024/09/27/2024.9.8-9.22%E5%91%A8%E8%AE%B0/</url>
-    <content><![CDATA[<p>这周，我去了一趟生物实验室，练习使用显微镜。刚听到这个消息时，我既激动又期待，虽然在课堂上听过显微镜的基本知识，但这次是我第一次亲手操作，感觉非常有趣。</p>
-<p>上课前，我兴致勃勃的冲向生物实验室，准备使用显微镜。一开始，老师为我们讲解了显微镜的基本构造和使用方法。我认真的听着，特别注意如何调整焦距和光源。之后，老师给我们分发了一个洋葱玻片标本，我把它小心翼翼的放在载物台上，开始操作显微镜。随着我慢慢调节焦距，洋葱表皮细胞的轮廓渐渐变得清晰起来。我看到了一些蜂窝状的小格子，这就是细胞。看到这些平时看不见的微小结构，我觉得特别神奇。</p>
-<p>接着，我又换了不同的放大倍数，细胞的细节变得更加明显，甚至可以看到细胞核。通过显微镜，我第一次真正看到了课本里见过的细胞，这种亲眼看到的感觉比单纯看书要更直观也更有意思。</p>
-<p>在这次练习中，我不仅学会了如何使用显微镜，还对微观世界有了新的认识。这次的体验让我觉得，动手实践确实是学习的一部分，只有亲自操作，才能真正体会到科学的乐趣。期待下一次的实验课，去发现更多的有趣世界！</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>周记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GithubModels：免费AI大模型</title>
     <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
     <content><![CDATA[<blockquote>
@@ -163,6 +163,33 @@
         <tag>AI纪元</tag>
         <tag>Github</tag>
         <tag>推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github强制用户开启2FA的临时解决办法</title>
+    <url>/2024/11/17/Github%E5%BC%BA%E5%88%B6%E7%94%A8%E6%88%B7%E5%BC%80%E5%90%AF2FA%E7%9A%84%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>最近看到了Github强制用户开启2FA验证的界面，还说如果不开启就会限制用户行为（我不知道这样理解对不对）</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739a3ff314fa.png" alt="Github界面"></p>
+<p>如图所示，就只剩一天了，赶快开了吧</p>
+<p>点击 Enable 2FA now后显示如下界面</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739a6be322b7.png" alt="屏幕截图 2024-11-17 16-17-24.png"></p>
+<p>问题是，我没有手机，扫不了二维码，接不了短信（本来也发不到中国），怎么办？直到看到了一个插件——Authenticator</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><blockquote>
+<p>温馨提示：这是个临时的解决办法，插件一卸密码就会消失</p>
+</blockquote>
+<p>不知道大家有没有弹出这个页面，如果没有弹出并且想开启，进入<a href="https://github.com/">Github</a>&#x3D;&gt;点击右上角头像&#x3D;&gt;Settings&#x3D;&gt; Password and authentication&#x3D;&gt;Two-factor authentication&#x3D;&gt;Enable two-factor authentication</p>
+<p>进入图一页面后，点击Enable 2FA now，下载<a href="https://c2.crxsoso.com/crx/blobs/AW50ZFshxyn5CNiNJJomJrwj4HNKeSVJcVdhWdO_kZk_h4YizZ06qLrOwN81-zIH0EDitbA23XVj9lsuTvV-s9CBxD5zqdTwFAG6JRH-kJ4zzR4mAj0Jkig1CKWSd3DwaGnrAMZSmuV_ckxUO4UUtxwMwzlZLOjZvhSrxA/BHGHOAMAPCDPBOHPHIGOOOADDINPKBAI_8_0_1_0.crx?ext=crx&filename=%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8%208.0.1&type=install">Authenticator</a>插件</p>
+<p>打开插件，点击右上角的二维码标，用鼠标框选二维码区域，将显示的密码填入即可。</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739aad47454d.png" alt="Authenticator"></p>
+<p>将这些密码保存在安全的位置即可</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739ab5bf0587.png" alt="下载密码"></p>
+<p>大功告成！</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
       </tags>
   </entry>
   <entry>
@@ -184,21 +211,6 @@
       <tags>
         <tag>AI纪元</tag>
         <tag>AI撰写</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>周记     2024.9.2-2024.9.7</title>
-    <url>/2024/09/10/2024.9.2-9.7%E5%91%A8%E8%AE%B0/</url>
-    <content><![CDATA[<blockquote>
-<p>开学了，没时间写技术文章了，发点周记啥的吧。两周一更</p>
-</blockquote>
-<p>在这意义非凡的一周，我正式地告别了那充满童真与欢笑的小学生活，满心欢喜又略带忐忑地迎来了一段崭新且未知的生活 —— 初中生活。这是人生路上的新起点，就像开启了一扇通往新世界的大门。<br>当我怀着对未来的憧憬踏入初中校园的时候，周围的一切都是那么的陌生。新的校园环境、新的老师同学，这种陌生感让我在初期感到有些难以适应，于是……<br>开学第一天，我就迟到了。<br>我前一天晚上特意定了早上的闹钟，本想着能够早早起床，早早到校。可谁知道，闹钟响了之后，我却依然沉浸在睡梦之中，没有按时起来。等我猛地惊醒，一看时间已经很晚了，顿时心急如焚。在慌慌张张出门的那一刻，我竟然忘记了戴红领巾。无奈之下，我只能在路上的小卖部买了一条，就这样，因为这一连串的意外和耽搁，我迟到了。<br>事后，我反思了自己，因为我没有做好充足的准备，没有思想周全，再包括晚起床，就导致了我的迟到。<br>这一周，虽然有波折，但也充满了希望。它让我明白，每一个挑战都是成长的机会，而每一次尝试都将引领我走向成熟。带着这份领悟，我满怀信心地迎接接下来的日子。</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>周记</tag>
       </tags>
   </entry>
   <entry>
@@ -550,6 +562,37 @@
       </tags>
   </entry>
   <entry>
+    <title>RSS是个甚么东东（文章损坏）</title>
+    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E4%B8%9C%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
+<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
+<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
+</blockquote>
+<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
+<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
+<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
+<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
+<ol>
+<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
+<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
+<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
+<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
+<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
+<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
+<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科普</category>
+      </categories>
+      <tags>
+        <tag>如何____</tag>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用MiniCover迅速制作文章封面</title>
     <url>/2025/02/23/%E4%BD%BF%E7%94%A8Mini-Cover%E8%BF%85%E9%80%9F%E5%88%B6%E4%BD%9C%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2/</url>
     <content><![CDATA[<p>相信很多博主都喜欢洪佬的博客封面，既简洁美观又富有个性。但是很多人不知道这样的封面如何制作，以下将使用Mini-Cover制作Heo风格的文章封面。</p>
@@ -631,6 +674,24 @@
         <tag>Github</tag>
         <tag>Serverless</tag>
         <tag>Vercel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>功成不必在我，功成必定有我</title>
+    <url>/2024/10/20/%E5%8A%9F%E6%88%90%E4%B8%8D%E5%BF%85%E5%9C%A8%E6%88%91%EF%BC%8C%E5%8A%9F%E6%88%90%E5%BF%85%E5%AE%9A%E6%9C%89%E6%88%91/</url>
+    <content><![CDATA[<p>在校运会练习走方队的过程中，我理解了“功成不必在我，功成必定有我”的真正含义。这让我懂得，一个集体的成功，靠的是每个人的小小的努力。</p>
+<p>初次练习时，我只想着自己能走得最好。但很快发现，方队的整齐划一取决于所有人的步调一致。即使某个人做得再好，如果不能与大家协调，整个方队的队形也会受到影响。我们需要关注身边的同学，互相配合，才能让方队在运动会开幕时展现出最佳效果。</p>
+<p>训练中，我学会了关注身边的同学，和大家保持步调一致。少了谁都不行，而我们的成功是大家共同努力得来的。</p>
+<p>这次经历让我明白，成功不一定是做那个最闪亮的人，而是在团队中做默默贡献的一份子。即便最终的荣誉不是个人的，但只要参与其中，贡献力量，就值得骄傲。</p>
+<p>在今后的学习和生活中，我也会继续努力，和大家一起合作，为班级、为学校做更多的贡献。我相信，每一个小小的努力，最终都会汇聚成胜利的一部分。</p>
+<p>我会把这种精神用在更多地方，不仅是为了自己的进步，更是为了我们集体的光荣。这样，功成的路上一定会有我的一份努力。</p>
+<p>功成不必在我，功成必定有我！</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>作文</tag>
       </tags>
   </entry>
   <entry>
@@ -767,37 +828,18 @@
       </tags>
   </entry>
   <entry>
-    <title>告别云担忧：手把手教你本地部署AI大模型</title>
-    <url>/2024/07/23/%E5%91%8A%E5%88%AB%E4%BA%91%E6%8B%85%E5%BF%A7%EF%BC%9A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2AI%E5%A4%A7%E6%A8%A1%E5%9E%8B/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>当我们想跟AI对话时，把一些文件发送到云端可能会不安全，这时候，就需要本地部署了。本地部署指的是AI会调用电脑本地的算力进行计算，所以，电脑的性能不可以太差。下面是本地部署大模型的教程。</p>
-<blockquote>
-<p>请务必<strong>看完全文后再进行操作</strong><br>本教程使用Win10，如果您是Mac用户，请参考<a href="https://www.bilibili.com/video/BV18E421N7d4/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">Mac本地部署教程</a></p>
-</blockquote>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>下载<a href="https://ollama.com/">Ollama</a>,进入主页点击Download，选择自己的操作系统，点击下载</p>
-<blockquote>
-<p>您无需点击下方的注册按钮<br>下载后，CMD窗口输入<code>ollama</code>，出现类似以下内容代表成功</p>
-</blockquote>
-<p><img src="https://wmimg.com/i/1169/2025/02/67a59fe71f3c3.png" alt="image-20250207135323252"></p>
-<h3 id="下载大模型"><a href="#下载大模型" class="headerlink" title="下载大模型"></a>下载大模型</h3><p>1.下载完成后点击Win+R，“打开”栏输入cmd，回车<br>2.打开 <a href="https://ollama.com/">Ollama官网</a>，点击右上角的 <code>Search models</code>，输入你想下载的开源模型名称。找到模型后，复制页面中提供的下载命令到CMD窗口，回车开始下载。<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/981f90b17ddb311752af3.png" alt="屏幕截图 2024-07-23 102305"><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/325cfadebe623c477210f.png" alt="屏幕截图 2024-07-23 103510"></p>
-<blockquote>
-<p>每个模型的代码不一样，上图使用Qwen2-72b演示，请根据电脑性能选择下载的模型。一般来说，7b左右的模型适合大部分的电脑，我2016年的显卡都带的动。72b左右的模型则需要强大性能的电脑，它的安装包就足有40GB！<br>建议选择qwen2，因为它是迄今为止<strong>最强大的开源大模型</strong>，具体可以看<a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard">🤗 Open LLM Leaderboard</a>，您也可以选择自己喜欢的大模型，方法相同<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/644f91b62d0ef700595a1.png" alt="屏幕截图 2024-07-23 104504"></p>
-</blockquote>
-<p>如果下载到最后越来越慢，按Ctrl+C停止，再次输入下载命令重新下载，多试几次。</p>
-<h3 id="使用大模型"><a href="#使用大模型" class="headerlink" title="使用大模型"></a>使用大模型</h3><p>完成下载后，你将看到类似以下界面，这意味着一切准备就绪！<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/5f1b697686252b89d2f67.png" alt="屏幕截图 2024-07-23 105346"><br>测试一下<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/9ac0834164d52c326e335.png" alt="屏幕截图 2024-07-23 110142"></p>
-<blockquote>
-<p>要再次使用模型，重复上述<strong>下载大模型的第1-2步</strong>，但这次回车后将启动而不是重新下载模型。请确保Ollama程序正在运行。<br>由于Ollama位于国外，国内用户可能会遇到下载速度缓慢的问题。为此，我已将下载链接上传至网盘，你可以直接从那里下载，无需注册。<br><a href="https://www.123pan.com/s/hoPKVv-RMB63.html">123网盘下载</a><br>请忽略下载页的广告，解压缩后下载</p>
-</blockquote>
-<p>附上个命令：<code>ollama list</code>，查看模型列表。再次使用时，输入ollama run+NAME（模型名称）即可。</p>
-<p>删除模型：<code>ollama rm</code>+NAME</p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>什么，界面不好看？<a href="/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/">下期博客</a>教大家获得更好地UI界面</p>
+    <title>周记     2024.9.8-2024.9.22</title>
+    <url>/2024/09/27/2024.9.8-9.22%E5%91%A8%E8%AE%B0/</url>
+    <content><![CDATA[<p>这周，我去了一趟生物实验室，练习使用显微镜。刚听到这个消息时，我既激动又期待，虽然在课堂上听过显微镜的基本知识，但这次是我第一次亲手操作，感觉非常有趣。</p>
+<p>上课前，我兴致勃勃的冲向生物实验室，准备使用显微镜。一开始，老师为我们讲解了显微镜的基本构造和使用方法。我认真的听着，特别注意如何调整焦距和光源。之后，老师给我们分发了一个洋葱玻片标本，我把它小心翼翼的放在载物台上，开始操作显微镜。随着我慢慢调节焦距，洋葱表皮细胞的轮廓渐渐变得清晰起来。我看到了一些蜂窝状的小格子，这就是细胞。看到这些平时看不见的微小结构，我觉得特别神奇。</p>
+<p>接着，我又换了不同的放大倍数，细胞的细节变得更加明显，甚至可以看到细胞核。通过显微镜，我第一次真正看到了课本里见过的细胞，这种亲眼看到的感觉比单纯看书要更直观也更有意思。</p>
+<p>在这次练习中，我不仅学会了如何使用显微镜，还对微观世界有了新的认识。这次的体验让我觉得，动手实践确实是学习的一部分，只有亲自操作，才能真正体会到科学的乐趣。期待下一次的实验课，去发现更多的有趣世界！</p>
 ]]></content>
       <categories>
-        <category>经验分享</category>
+        <category>闲聊杂谈</category>
       </categories>
       <tags>
-        <tag>AI纪元</tag>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
+        <tag>周记</tag>
       </tags>
   </entry>
   <entry>
@@ -1613,82 +1655,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Github强制用户开启2FA的临时解决办法</title>
-    <url>/2024/11/17/Github%E5%BC%BA%E5%88%B6%E7%94%A8%E6%88%B7%E5%BC%80%E5%90%AF2FA%E7%9A%84%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
-    <content><![CDATA[<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>最近看到了Github强制用户开启2FA验证的界面，还说如果不开启就会限制用户行为（我不知道这样理解对不对）</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739a3ff314fa.png" alt="Github界面"></p>
-<p>如图所示，就只剩一天了，赶快开了吧</p>
-<p>点击 Enable 2FA now后显示如下界面</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739a6be322b7.png" alt="屏幕截图 2024-11-17 16-17-24.png"></p>
-<p>问题是，我没有手机，扫不了二维码，接不了短信（本来也发不到中国），怎么办？直到看到了一个插件——Authenticator</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><blockquote>
-<p>温馨提示：这是个临时的解决办法，插件一卸密码就会消失</p>
-</blockquote>
-<p>不知道大家有没有弹出这个页面，如果没有弹出并且想开启，进入<a href="https://github.com/">Github</a>&#x3D;&gt;点击右上角头像&#x3D;&gt;Settings&#x3D;&gt; Password and authentication&#x3D;&gt;Two-factor authentication&#x3D;&gt;Enable two-factor authentication</p>
-<p>进入图一页面后，点击Enable 2FA now，下载<a href="https://c2.crxsoso.com/crx/blobs/AW50ZFshxyn5CNiNJJomJrwj4HNKeSVJcVdhWdO_kZk_h4YizZ06qLrOwN81-zIH0EDitbA23XVj9lsuTvV-s9CBxD5zqdTwFAG6JRH-kJ4zzR4mAj0Jkig1CKWSd3DwaGnrAMZSmuV_ckxUO4UUtxwMwzlZLOjZvhSrxA/BHGHOAMAPCDPBOHPHIGOOOADDINPKBAI_8_0_1_0.crx?ext=crx&filename=%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8%208.0.1&type=install">Authenticator</a>插件</p>
-<p>打开插件，点击右上角的二维码标，用鼠标框选二维码区域，将显示的密码填入即可。</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739aad47454d.png" alt="Authenticator"></p>
-<p>将这些密码保存在安全的位置即可</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739ab5bf0587.png" alt="下载密码"></p>
-<p>大功告成！</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>Github</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>RSS是个甚么东东（文章损坏）</title>
-    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E4%B8%9C%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
-<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
-<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
-</blockquote>
-<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
-<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
-<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
-<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
-<ol>
-<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
-<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
-<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
-<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
-<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
-<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
-<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科普</category>
-      </categories>
-      <tags>
-        <tag>如何____</tag>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>功成不必在我，功成必定有我</title>
-    <url>/2024/10/20/%E5%8A%9F%E6%88%90%E4%B8%8D%E5%BF%85%E5%9C%A8%E6%88%91%EF%BC%8C%E5%8A%9F%E6%88%90%E5%BF%85%E5%AE%9A%E6%9C%89%E6%88%91/</url>
-    <content><![CDATA[<p>在校运会练习走方队的过程中，我理解了“功成不必在我，功成必定有我”的真正含义。这让我懂得，一个集体的成功，靠的是每个人的小小的努力。</p>
-<p>初次练习时，我只想着自己能走得最好。但很快发现，方队的整齐划一取决于所有人的步调一致。即使某个人做得再好，如果不能与大家协调，整个方队的队形也会受到影响。我们需要关注身边的同学，互相配合，才能让方队在运动会开幕时展现出最佳效果。</p>
-<p>训练中，我学会了关注身边的同学，和大家保持步调一致。少了谁都不行，而我们的成功是大家共同努力得来的。</p>
-<p>这次经历让我明白，成功不一定是做那个最闪亮的人，而是在团队中做默默贡献的一份子。即便最终的荣誉不是个人的，但只要参与其中，贡献力量，就值得骄傲。</p>
-<p>在今后的学习和生活中，我也会继续努力，和大家一起合作，为班级、为学校做更多的贡献。我相信，每一个小小的努力，最终都会汇聚成胜利的一部分。</p>
-<p>我会把这种精神用在更多地方，不仅是为了自己的进步，更是为了我们集体的光荣。这样，功成的路上一定会有我的一份努力。</p>
-<p>功成不必在我，功成必定有我！</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>作文</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>开源模型比闭源强？Llama3.1-405b发布！</title>
     <url>/2024/07/26/%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AF%94%E9%97%AD%E6%BA%90%E5%BC%BA%EF%BC%9FLlama3.1-405b%E5%8F%91%E5%B8%83%EF%BC%81/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前天，MetaAI发布了超大尺寸的开源模型——Llama3.1-405b，使用Ollama就可以部署，教程参照上上期博客，在cmd窗口输入部署命令即可</p>
@@ -1746,31 +1712,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何流畅访问Github</title>
-    <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
-    <content><![CDATA[<blockquote>
-<p>水的一篇文，下周旅游更没时间写</p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>众所周知，Github是全球最大的<strong>同性交友平台</strong>，但还是众所周知，Github现在是处于一个半墙不墙的状态，有用户访问会特别快，有用户压根进不去，本篇博客教大家如何流畅访问Github！</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>打开微软应用商店，搜索Watt Toolkit，这是大名鼎鼎的Steam++，只不过是改名了。这是一个开源软件，你可以去<a href="https://github.com/liushiyangFrsan/GitHub_WattToolkit">Github</a>查看，并且此软件上架了微软应用商店，安全性不必担心，但仍然不建议你打开任何敏感网站，这可能是<strong>触犯法律的</strong><br>下载完成后找到网络加速，勾选需要加速的网站，点击一键加速即可<br>这个软件还能加速其它网站，比如Steam游戏商店，各大国外网盘等</p>
-<h2 id="合法性"><a href="#合法性" class="headerlink" title="合法性"></a>合法性</h2><p>这是大家最关注的问题，我问了问AI</p>
-<hr>
-<p>反向代理是指服务器代理网络上的客户机请求，将请求转达给内部真实服务器，然后将结果返回给 Internet 客户端，代理服务器上没有任何网页资料。其工作原理是当用户浏览器发出一个 HTTP 请求时，通过域名解析将请求定向到反向代理服务器（如果要实现多个 WEB 服务器的反向代理，需要将多个 WEB 服务器的域名都指向反向代理服务器），由反向代理服务器处理器请求。反向代理一般只缓存可缓冲的数据（比如 html 网页和图片等），而一些 CGI 脚本程序或者 ASP 之类的程序不缓存，它根据从 WEB 服务器返回的 HTTP 头标记来缓冲静态页面。</p>
-<p>关于使用本地反向代理软件是否合法，需要根据具体情况来判断。如果使用反向代理软件的目的是为了绕过封锁限制访问的行为，则属于违法行为。根据《中华人民共和国计算机信息网络国际联网管理暂行规定》第六条规定，计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。<strong>如果是为了提高网络访问速度、增强网络安全性等合法目的，并且遵守相关的法律法规和服务条款，那么使用反向代理软件是合法的。</strong></p>
-<p>总的来说，在使用反向代理软件时，建议仔细阅读软件的使用说明和相关的法律法规，以确保自己的行为合法合规。</p>
-<hr>
-<p><del>我觉得还是魔法好用</del></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>Github</tag>
-        <tag>如何____</tag>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何让本地部署的大模型有个优雅的界面</title>
     <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
@@ -1788,70 +1729,6 @@
         <tag>AI纪元</tag>
         <tag>如何____</tag>
         <tag>折腾</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站故障说明</title>
-    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
-<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
-<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
-<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
-<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
-<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
-<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
-<p>祝好</p>
-<p>[Peter267]</p>
-<ul>
-<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
-<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
-</ul>
-]]></content>
-      <categories>
-        <category>网站公告</category>
-      </categories>
-      <tags>
-        <tag>其他</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怎样才算见过世面？这是我听过最好的答案</title>
-    <url>/2024/11/30/%E6%80%8E%E6%A0%B7%E6%89%8D%E7%AE%97%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2%EF%BC%9F%E8%BF%99%E6%98%AF%E6%88%91%E5%90%AC%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E7%AD%94%E6%A1%88/</url>
-    <content><![CDATA[<blockquote>
-<p>本文转载自报刊《课外阅读》的2023年9月刊，由作家「蕊希」撰写。未在网络上找到原文。</p>
-</blockquote>
-<hr>
-<h2 id="怎样才算见过世面？这是我听过最好的答案"><a href="#怎样才算见过世面？这是我听过最好的答案" class="headerlink" title="怎样才算见过世面？这是我听过最好的答案"></a>怎样才算见过世面？这是我听过最好的答案</h2><p><strong>蕊希</strong></p>
-<p>网上有人提问：怎样才算见过世面？</p>
-<p>有人以为见世面，就是拥有奢侈的生活体验，住过五星级酒店，吃过米其林餐厅。但也有人说，见世面，就是见过世界的每一面。</p>
-<p>在网上看到一篇帖子，说我国有10亿人没坐过飞机和地铁，有12亿人没喝过星巴克，没吃过海底捞。评论区里有人评论：没坐过飞机还能理解，但没坐过地铁就真的离谱。</p>
-<p>没坐过地铁真的离谱吗？</p>
-<p>截至2021年，我国通地铁的城市只有51座。那些生活在县城、乡村的人，可能大半辈子都没有走出过他们生活的半径，更别提坐一次飞机去遥远的大城市，出行时买一张地铁票了。</p>
-<p>城里人分不清小麦和水稻，不知道农田一年收成几次；乡下人没坐过地铁，不知道如何换乘。所谓离谱，不过是没在那个环境下体验过生活。</p>
-<p>有人生活在城市，会用电脑和电梯，地铁高铁是最基本的出行工具，从小就逛大型超市和购物中心，吃连锁品牌的面包。</p>
-<p>有人生活在田间，走路就可以到学校，在白家的田地里玩耍，抬头就是晴空万里，低头知道几月份该种什么类型的作物，炒菜时就去自家地里现摘一把蔬菜。</p>
-<p>有人去过国外的大商场，分得清每个奢侈品牌子的标志，讲得出品牌的历史；有人只在集市上采买，但却会识别布料的优劣。有人知道几分熟的牛排最好吃；有人没吃过牛排，但却知道牛排长在牛的哪个部位。</p>
-<p>我们眼里的世面，不过是我们的认知对这个世界片面的理解。</p>
-<p>罗翔老师曾说过一句话：“读书是让我们知荣辱，明事理，而不是让你觉得自已认识几个字就高人一等。”深以为然。</p>
-<p>看过世界之前，以为自已所见所得就是全部，但凡自己不知道、不理解的就是不对的，于是总想以自己的认知判断外界的对错。</p>
-<p>但等你真的走出自己生活的圈子，认识了五湖四海的朋友，才发现原来大家因为成长环境不同，会有千差万别的习惯和想法。</p>
-<p>你进入了社会，见识了世界之大，发现有太多地方你没去过，有好多东西你不知道，有很多人和你不一样，你就会慢慢意识到自己的渺小。</p>
-<p>你不再像小孩子一样轻易为非黑即白站队，你不是正确答案的拥有者，也没有掌握评判对错的话语权。你知道所谓世面，就是见得越多越平静，不再因为差异大惊小怪，不再对别人的特殊指手画脚。</p>
-<p>纪录片《丁真的自然笔记》里，有一期嘉宾是中国人民大学毕业的法学生李浩源。</p>
-<p>两人见面后，丁真羡慕地说：“你读过很多书，上学很多年吧？”李浩源回答：“我读了17年书。”丁真忍不住感慨：“哇，17年，我没读过书。”李浩源没有产生被别人羡慕带来的优越感，反而安慰了有点自卑的丁真：“你在森林里待了这么长时间，读了很多森林的书。”</p>
-<p>真正的见过世面是不因自己有了什么就嘲笑别人没有，不把自己拥有的当作理所当然。</p>
-<p>真正的见过世面是不得意忘形，不狭隘，不通过拉踩别人获得优越感，反而是领略过万物之后更谦虚，是身处高处不自大，更是跌落谷底不自卑。</p>
-<p>我在二十出头的年纪，很喜欢凭着自己的见识给身边朋友出谋划策，帮助好朋友分析感情问题，拿我的标准和想法评判别人的对错。</p>
-<p>快到三十岁的现在，我很少给身边人提建议了，即便不认同别人的观点，也很少发言了。不是不关心朋友的处境，恰恰因为关心，所以更不敢妄下结论。我开始理解人生万般差异，每个人都有自己的苦衷，也不再执，拿着简单的标准为别人的人生打分。</p>
-<p>所谓世面，就是世界的每一面。不同人的不同人生，构成了世界的每一面。</p>
-<p>我们与他人之间，无上下之分，只有左右之别。</p>
-<p>所谓见世面，是向外对世界，即便不认同，也能尊重；是向内对自己，平和理性，淡定从容。</p>
-]]></content>
-      <categories>
-        <category>转载文章</category>
-      </categories>
-      <tags>
-        <tag>锵锵论道</tag>
       </tags>
   </entry>
   <entry>
@@ -1897,6 +1774,30 @@
       </tags>
   </entry>
   <entry>
+    <title>网站故障说明</title>
+    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
+<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
+<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
+<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
+<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
+<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
+<p>祝好</p>
+<p>[Peter267]</p>
+<ul>
+<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
+<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>网站公告</category>
+      </categories>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何查看答案圈隐藏的答案</title>
     <url>/2024/11/24/%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E7%AD%94%E6%A1%88%E5%9C%88%E9%9A%90%E8%97%8F%E7%9A%84%E7%AD%94%E6%A1%88/</url>
     <content><![CDATA[<div class="note warning flat"><p>本教程不是让你抄答案用的！</p>
@@ -1924,6 +1825,105 @@
       </categories>
       <tags>
         <tag>扒代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何流畅访问Github</title>
+    <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
+    <content><![CDATA[<blockquote>
+<p>水的一篇文，下周旅游更没时间写</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>众所周知，Github是全球最大的<strong>同性交友平台</strong>，但还是众所周知，Github现在是处于一个半墙不墙的状态，有用户访问会特别快，有用户压根进不去，本篇博客教大家如何流畅访问Github！</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>打开微软应用商店，搜索Watt Toolkit，这是大名鼎鼎的Steam++，只不过是改名了。这是一个开源软件，你可以去<a href="https://github.com/liushiyangFrsan/GitHub_WattToolkit">Github</a>查看，并且此软件上架了微软应用商店，安全性不必担心，但仍然不建议你打开任何敏感网站，这可能是<strong>触犯法律的</strong><br>下载完成后找到网络加速，勾选需要加速的网站，点击一键加速即可<br>这个软件还能加速其它网站，比如Steam游戏商店，各大国外网盘等</p>
+<h2 id="合法性"><a href="#合法性" class="headerlink" title="合法性"></a>合法性</h2><p>这是大家最关注的问题，我问了问AI</p>
+<hr>
+<p>反向代理是指服务器代理网络上的客户机请求，将请求转达给内部真实服务器，然后将结果返回给 Internet 客户端，代理服务器上没有任何网页资料。其工作原理是当用户浏览器发出一个 HTTP 请求时，通过域名解析将请求定向到反向代理服务器（如果要实现多个 WEB 服务器的反向代理，需要将多个 WEB 服务器的域名都指向反向代理服务器），由反向代理服务器处理器请求。反向代理一般只缓存可缓冲的数据（比如 html 网页和图片等），而一些 CGI 脚本程序或者 ASP 之类的程序不缓存，它根据从 WEB 服务器返回的 HTTP 头标记来缓冲静态页面。</p>
+<p>关于使用本地反向代理软件是否合法，需要根据具体情况来判断。如果使用反向代理软件的目的是为了绕过封锁限制访问的行为，则属于违法行为。根据《中华人民共和国计算机信息网络国际联网管理暂行规定》第六条规定，计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。<strong>如果是为了提高网络访问速度、增强网络安全性等合法目的，并且遵守相关的法律法规和服务条款，那么使用反向代理软件是合法的。</strong></p>
+<p>总的来说，在使用反向代理软件时，建议仔细阅读软件的使用说明和相关的法律法规，以确保自己的行为合法合规。</p>
+<hr>
+<p><del>我觉得还是魔法好用</del></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>如何____</tag>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎样才算见过世面？这是我听过最好的答案</title>
+    <url>/2024/11/30/%E6%80%8E%E6%A0%B7%E6%89%8D%E7%AE%97%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2%EF%BC%9F%E8%BF%99%E6%98%AF%E6%88%91%E5%90%AC%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E7%AD%94%E6%A1%88/</url>
+    <content><![CDATA[<blockquote>
+<p>本文转载自报刊《课外阅读》的2023年9月刊，由作家「蕊希」撰写。未在网络上找到原文。</p>
+</blockquote>
+<hr>
+<h2 id="怎样才算见过世面？这是我听过最好的答案"><a href="#怎样才算见过世面？这是我听过最好的答案" class="headerlink" title="怎样才算见过世面？这是我听过最好的答案"></a>怎样才算见过世面？这是我听过最好的答案</h2><p><strong>蕊希</strong></p>
+<p>网上有人提问：怎样才算见过世面？</p>
+<p>有人以为见世面，就是拥有奢侈的生活体验，住过五星级酒店，吃过米其林餐厅。但也有人说，见世面，就是见过世界的每一面。</p>
+<p>在网上看到一篇帖子，说我国有10亿人没坐过飞机和地铁，有12亿人没喝过星巴克，没吃过海底捞。评论区里有人评论：没坐过飞机还能理解，但没坐过地铁就真的离谱。</p>
+<p>没坐过地铁真的离谱吗？</p>
+<p>截至2021年，我国通地铁的城市只有51座。那些生活在县城、乡村的人，可能大半辈子都没有走出过他们生活的半径，更别提坐一次飞机去遥远的大城市，出行时买一张地铁票了。</p>
+<p>城里人分不清小麦和水稻，不知道农田一年收成几次；乡下人没坐过地铁，不知道如何换乘。所谓离谱，不过是没在那个环境下体验过生活。</p>
+<p>有人生活在城市，会用电脑和电梯，地铁高铁是最基本的出行工具，从小就逛大型超市和购物中心，吃连锁品牌的面包。</p>
+<p>有人生活在田间，走路就可以到学校，在白家的田地里玩耍，抬头就是晴空万里，低头知道几月份该种什么类型的作物，炒菜时就去自家地里现摘一把蔬菜。</p>
+<p>有人去过国外的大商场，分得清每个奢侈品牌子的标志，讲得出品牌的历史；有人只在集市上采买，但却会识别布料的优劣。有人知道几分熟的牛排最好吃；有人没吃过牛排，但却知道牛排长在牛的哪个部位。</p>
+<p>我们眼里的世面，不过是我们的认知对这个世界片面的理解。</p>
+<p>罗翔老师曾说过一句话：“读书是让我们知荣辱，明事理，而不是让你觉得自已认识几个字就高人一等。”深以为然。</p>
+<p>看过世界之前，以为自已所见所得就是全部，但凡自己不知道、不理解的就是不对的，于是总想以自己的认知判断外界的对错。</p>
+<p>但等你真的走出自己生活的圈子，认识了五湖四海的朋友，才发现原来大家因为成长环境不同，会有千差万别的习惯和想法。</p>
+<p>你进入了社会，见识了世界之大，发现有太多地方你没去过，有好多东西你不知道，有很多人和你不一样，你就会慢慢意识到自己的渺小。</p>
+<p>你不再像小孩子一样轻易为非黑即白站队，你不是正确答案的拥有者，也没有掌握评判对错的话语权。你知道所谓世面，就是见得越多越平静，不再因为差异大惊小怪，不再对别人的特殊指手画脚。</p>
+<p>纪录片《丁真的自然笔记》里，有一期嘉宾是中国人民大学毕业的法学生李浩源。</p>
+<p>两人见面后，丁真羡慕地说：“你读过很多书，上学很多年吧？”李浩源回答：“我读了17年书。”丁真忍不住感慨：“哇，17年，我没读过书。”李浩源没有产生被别人羡慕带来的优越感，反而安慰了有点自卑的丁真：“你在森林里待了这么长时间，读了很多森林的书。”</p>
+<p>真正的见过世面是不因自己有了什么就嘲笑别人没有，不把自己拥有的当作理所当然。</p>
+<p>真正的见过世面是不得意忘形，不狭隘，不通过拉踩别人获得优越感，反而是领略过万物之后更谦虚，是身处高处不自大，更是跌落谷底不自卑。</p>
+<p>我在二十出头的年纪，很喜欢凭着自己的见识给身边朋友出谋划策，帮助好朋友分析感情问题，拿我的标准和想法评判别人的对错。</p>
+<p>快到三十岁的现在，我很少给身边人提建议了，即便不认同别人的观点，也很少发言了。不是不关心朋友的处境，恰恰因为关心，所以更不敢妄下结论。我开始理解人生万般差异，每个人都有自己的苦衷，也不再执，拿着简单的标准为别人的人生打分。</p>
+<p>所谓世面，就是世界的每一面。不同人的不同人生，构成了世界的每一面。</p>
+<p>我们与他人之间，无上下之分，只有左右之别。</p>
+<p>所谓见世面，是向外对世界，即便不认同，也能尊重；是向内对自己，平和理性，淡定从容。</p>
+]]></content>
+      <categories>
+        <category>转载文章</category>
+      </categories>
+      <tags>
+        <tag>锵锵论道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>告别云担忧：手把手教你本地部署AI大模型</title>
+    <url>/2024/07/23/%E5%91%8A%E5%88%AB%E4%BA%91%E6%8B%85%E5%BF%A7%EF%BC%9A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2AI%E5%A4%A7%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>当我们想跟AI对话时，把一些文件发送到云端可能会不安全，这时候，就需要本地部署了。本地部署指的是AI会调用电脑本地的算力进行计算，所以，电脑的性能不可以太差。下面是本地部署大模型的教程。</p>
+<blockquote>
+<p>请务必<strong>看完全文后再进行操作</strong><br>本教程使用Win10，如果您是Mac用户，请参考<a href="https://www.bilibili.com/video/BV18E421N7d4/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">Mac本地部署教程</a></p>
+</blockquote>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>下载<a href="https://ollama.com/">Ollama</a>,进入主页点击Download，选择自己的操作系统，点击下载</p>
+<blockquote>
+<p>您无需点击下方的注册按钮<br>下载后，CMD窗口输入<code>ollama</code>，出现类似以下内容代表成功</p>
+</blockquote>
+<p><img src="https://wmimg.com/i/1169/2025/02/67a59fe71f3c3.png" alt="image-20250207135323252"></p>
+<h3 id="下载大模型"><a href="#下载大模型" class="headerlink" title="下载大模型"></a>下载大模型</h3><p>1.下载完成后点击Win+R，“打开”栏输入cmd，回车<br>2.打开 <a href="https://ollama.com/">Ollama官网</a>，点击右上角的 <code>Search models</code>，输入你想下载的开源模型名称。找到模型后，复制页面中提供的下载命令到CMD窗口，回车开始下载。<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/981f90b17ddb311752af3.png" alt="屏幕截图 2024-07-23 102305"><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/325cfadebe623c477210f.png" alt="屏幕截图 2024-07-23 103510"></p>
+<blockquote>
+<p>每个模型的代码不一样，上图使用Qwen2-72b演示，请根据电脑性能选择下载的模型。一般来说，7b左右的模型适合大部分的电脑，我2016年的显卡都带的动。72b左右的模型则需要强大性能的电脑，它的安装包就足有40GB！<br>建议选择qwen2，因为它是迄今为止<strong>最强大的开源大模型</strong>，具体可以看<a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard">🤗 Open LLM Leaderboard</a>，您也可以选择自己喜欢的大模型，方法相同<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/644f91b62d0ef700595a1.png" alt="屏幕截图 2024-07-23 104504"></p>
+</blockquote>
+<p>如果下载到最后越来越慢，按Ctrl+C停止，再次输入下载命令重新下载，多试几次。</p>
+<h3 id="使用大模型"><a href="#使用大模型" class="headerlink" title="使用大模型"></a>使用大模型</h3><p>完成下载后，你将看到类似以下界面，这意味着一切准备就绪！<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/5f1b697686252b89d2f67.png" alt="屏幕截图 2024-07-23 105346"><br>测试一下<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/9ac0834164d52c326e335.png" alt="屏幕截图 2024-07-23 110142"></p>
+<blockquote>
+<p>要再次使用模型，重复上述<strong>下载大模型的第1-2步</strong>，但这次回车后将启动而不是重新下载模型。请确保Ollama程序正在运行。<br>由于Ollama位于国外，国内用户可能会遇到下载速度缓慢的问题。为此，我已将下载链接上传至网盘，你可以直接从那里下载，无需注册。<br><a href="https://www.123pan.com/s/hoPKVv-RMB63.html">123网盘下载</a><br>请忽略下载页的广告，解压缩后下载</p>
+</blockquote>
+<p>附上个命令：<code>ollama list</code>，查看模型列表。再次使用时，输入ollama run+NAME（模型名称）即可。</p>
+<p>删除模型：<code>ollama rm</code>+NAME</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>什么，界面不好看？<a href="/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/">下期博客</a>教大家获得更好地UI界面</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
+        <tag>如何____</tag>
+        <tag>折腾</tag>
       </tags>
   </entry>
 </search>
