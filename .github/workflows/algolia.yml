@@ -1,0 +1,19 @@
+name: Algolia Upload Records
+on:
+  push:
+    branches
+      - main   # 替换为你的分支名
+jobs:
+  algolia:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - name: npm install
+        run: |
+          npm install hexo-cli && \
+          npm install hexo-algoliasearch && \
+          npx hexo generate && \
+          npx hexo algolia -n
