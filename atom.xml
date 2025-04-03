@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-03-08T08:36:02.367Z</updated>
+  <updated>2025-04-03T15:32:54.060Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Edge越用越慢，收下这份优化指南</title>
+    <link href="https://peter267.github.io/2025/04/03/Edge%20%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%8C%E6%94%B6%E4%B8%8B%E8%BF%99%E4%BB%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97/"/>
+    <id>https://peter267.github.io/2025/04/03/Edge%20%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%8C%E6%94%B6%E4%B8%8B%E8%BF%99%E4%BB%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97/</id>
+    <published>2025-04-03T15:40:00.000Z</published>
+    <updated>2025-04-03T15:32:54.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>作为Edge的老用户，我亲历了它从轻量化到功能丰富的演变过程。然而，随着版本迭代，越来越多的后台服务和无用功能被默认开启，导致我的低配电脑越来越卡顿。启动时间变长、页面加载卡顿、内存占用飙升……</p><p>经过一番设置调整后，浏览器的运行效率明显提升。本文将分享这些优化经验，帮助你的Edge重获流畅体验。</p><hr><h2 id="浏览器设置-没用的全关"><a href="#浏览器设置-没用的全关" class="headerlink" title="浏览器设置 - 没用的全关"></a>浏览器设置 - 没用的全关</h2><h3 id="隐私、搜索和服务"><a href="#隐私、搜索和服务" class="headerlink" title="隐私、搜索和服务"></a>隐私、搜索和服务</h3><p>网址：<a href="edge://settings/privacy">edge:&#x2F;&#x2F;settings&#x2F;privacy</a></p><p>点击“<strong>跟踪防护</strong>”，设置为平衡，关闭“浏览 InPrivate 时始终使用“严格”跟踪防护“。</p><p>点击“<strong>安全性</strong>”，关闭“恶意软件阻止程序”、“Microsoft Defender Smartscreen”、“阻止可能不需要的应用”、“网站拼写错误保护”、“增强 Web 安全性”、“Microsoft Edge 安全网络”。</p><p>点击“<strong>搜索和链接体验</strong>”，关闭“使用 Web 服务帮助解决导航错误”、“找不到网站时建议类似的站点”、“在 Microsoft Edge 中购物，节省时间和金钱”、“在Microsoft Edge 中使用集锦保存内容”、“获取有关使用’发现‘浏览相关内容的通知”、“让 Microsoft Edge 帮助保持标签页井然有序”、“保存历史记录网站的屏幕截图”。</p><h3 id="外观"><a href="#外观" class="headerlink" title="外观"></a>外观</h3><p>网址：<a href="edge://settings/appearance">edge:&#x2F;&#x2F;settings&#x2F;appearance</a></p><p>关闭“仅在开启高对比度主题时应用页面颜色”。</p><p>对于Windows10的界面风格来说，不建议启用“试用 Microsoft Edge 的全新外观”，因为这会显着与系统格格不入。</p><h3 id="侧栏"><a href="#侧栏" class="headerlink" title="侧栏"></a>侧栏</h3><p>网址：<a href="edge://settings/sidebar">edge:&#x2F;&#x2F;settings&#x2F;sidebar</a></p><p>关闭“显示‘边栏’按钮”、“启用 Edge 栏”。在“应用和通知设置”中点击“Copilot”（如果有），关闭“显示工具栏上的 Copilot 按钮”。</p><h3 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h3><p>网址：<a href="edge://settings/languages">edge:&#x2F;&#x2F;settings&#x2F;languages</a></p><p>关闭“在 Web 上编写时与 Copilot 协作”、“使用文本预测”、“启用语法和拼写检查帮助“。</p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>网址：<a href="edge://settings/downloads">edge:&#x2F;&#x2F;settings&#x2F;downloads</a></p><p>将“位置”更改为除C盘外的任何盘。</p><p>其他根据自己实际需要设置。</p><h3 id="辅助功能"><a href="#辅助功能" class="headerlink" title="辅助功能"></a>辅助功能</h3><p>网址：<a href="edge://settings/accessibility">edge:&#x2F;&#x2F;settings&#x2F;accessibility</a></p><p>关闭“在页面上的焦点区域周围显示高可见性大纲”、“仅在开启高对比度主题时应用页面颜色”、“从 Microsoft 获取屏幕阅读器的图像说明”、“在支持的菜单中添加辅助功能操作”。</p><h3 id="系统和性能"><a href="#系统和性能" class="headerlink" title="系统和性能"></a>系统和性能</h3><p>网址：<a href="edge://settings/system">edge:&#x2F;&#x2F;settings&#x2F;system</a></p><p>点击“<strong>系统</strong>”，关闭“启动增强”、“在 Microsoft Edge 关闭后继续运行后台扩展和应用”、“增强 Microsoft Edge 中的视频”。开启“在可用时使用图形加速”（重要）。</p><p>点击“性能”，关闭“效率模式”、“使用效率模式改善电脑游戏体验”、“性能检测器”、“资源控制”。</p><p>“在指定一段时间后，将非活动标签页置于睡眠状态”可根据自己实际需要设置。建议将网盘类站点加入白名单，否则可能会因为标签页休眠导致上传中断。</p><hr><p>到这，“设置”的部分已经全部完成，您的浏览器运行速度理论上会得到提升。注意，请<strong>根据自己的需求结合本教程</strong>来进行设置，平常不用的功能就关掉。</p><h2 id="扩展-没用的全删"><a href="#扩展-没用的全删" class="headerlink" title="扩展 - 没用的全删"></a>扩展 - 没用的全删</h2><p>浏览器用久后，安装的扩展渐渐多了起来，这些扩展很大程度上拖慢了浏览器的运行效率。</p><p>在安装扩展时，可以选择内存占用较低的扩展。例如“uBlock Origin”内存占用相对之前推荐的“AD Guard”低，所以我现在使用“uBlock Origin”。</p><p>请一定根据自己的需求来安装扩展，不要安装没用的、功能重复的扩展。仅建议保留“<strong>广告拦截类</strong>”、“<strong>首页类</strong>”、“<strong>翻译类</strong>”扩展和“<strong>Tampermonkey（篡改猴）</strong>“。</p><p>其实，很多简单的扩展都可以通过脚本实现，但本文并不是推荐脚本的，故不做推荐。如果想安装脚本，可以看看<a href="https://greasyfork.org/">GreasyFork</a>这个网站，里面有很多实用的扩展。</p><hr><p>另外，推荐一个浏览器测速网站，也是<a href="https://dusays.com/790/">杜老师</a>曾经推荐过的<strong>Speedometer 3.1</strong>。</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://browserbench.org/Speedometer3.1">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Speedometer 3.1</div>            <div class="tag-link-sitename"> 浏览器测速网站</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>到此为止，您的浏览器速度应该有了提升。可以打开任务管理器看看占用资源有没有下降。其实，本文并不仅适用于Edge，所有浏览器都是这个道理：<strong>设置——没用的全关，扩展——没用的全删</strong>。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="浏览器" scheme="https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>如何更好地提问：提问的智慧</title>
@@ -178,9 +205,9 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="浏览器" scheme="https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
     <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="浏览器" scheme="https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
     
   </entry>
   
@@ -342,9 +369,9 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Windows系统" scheme="https://peter267.github.io/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -516,9 +543,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -547,9 +574,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -663,9 +690,9 @@
     <category term="科普" scheme="https://peter267.github.io/categories/%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
