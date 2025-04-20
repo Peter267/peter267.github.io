@@ -16,6 +16,21 @@
       </tags>
   </entry>
   <entry>
+    <title>周记     2024.9.8-2024.9.22</title>
+    <url>/2024/09/27/2024.9.8-9.22%E5%91%A8%E8%AE%B0/</url>
+    <content><![CDATA[<p>这周，我去了一趟生物实验室，练习使用显微镜。刚听到这个消息时，我既激动又期待，虽然在课堂上听过显微镜的基本知识，但这次是我第一次亲手操作，感觉非常有趣。</p>
+<p>上课前，我兴致勃勃的冲向生物实验室，准备使用显微镜。一开始，老师为我们讲解了显微镜的基本构造和使用方法。我认真的听着，特别注意如何调整焦距和光源。之后，老师给我们分发了一个洋葱玻片标本，我把它小心翼翼的放在载物台上，开始操作显微镜。随着我慢慢调节焦距，洋葱表皮细胞的轮廓渐渐变得清晰起来。我看到了一些蜂窝状的小格子，这就是细胞。看到这些平时看不见的微小结构，我觉得特别神奇。</p>
+<p>接着，我又换了不同的放大倍数，细胞的细节变得更加明显，甚至可以看到细胞核。通过显微镜，我第一次真正看到了课本里见过的细胞，这种亲眼看到的感觉比单纯看书要更直观也更有意思。</p>
+<p>在这次练习中，我不仅学会了如何使用显微镜，还对微观世界有了新的认识。这次的体验让我觉得，动手实践确实是学习的一部分，只有亲自操作，才能真正体会到科学的乐趣。期待下一次的实验课，去发现更多的有趣世界！</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>周记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2024年7月科技新闻亮点</title>
     <url>/2024/07/30/2024%E5%B9%B47%E6%9C%88%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB%E4%BA%AE%E7%82%B9/</url>
     <content><![CDATA[<p>随着技术的飞速发展，2024年7月见证了数码设备和人工智能领域的一些令人兴奋的进展。从新的移动设备到人工智能技术的应用，这个月充满了创新和惊喜。让我们一起来看看本月的科技新闻亮点。</p>
@@ -34,166 +49,6 @@
       <tags>
         <tag>AI纪元</tag>
         <tag>AI撰写</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Edge越用越慢，收下这份优化指南</title>
-    <url>/2025/04/03/Edge%20%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%8C%E6%94%B6%E4%B8%8B%E8%BF%99%E4%BB%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<p>作为Edge的老用户，我亲历了它从轻量化到功能丰富的演变过程。然而，随着版本迭代，越来越多的后台服务和无用功能被默认开启，导致我的低配电脑越来越卡顿。启动时间变长、页面加载卡顿、内存占用飙升……</p>
-<p>经过一番设置调整后，浏览器的运行效率明显提升。本文将分享这些优化经验，帮助你的Edge重获流畅体验。</p>
-<hr>
-<h2 id="浏览器设置-没用的全关"><a href="#浏览器设置-没用的全关" class="headerlink" title="浏览器设置 - 没用的全关"></a>浏览器设置 - 没用的全关</h2><h3 id="隐私、搜索和服务"><a href="#隐私、搜索和服务" class="headerlink" title="隐私、搜索和服务"></a>隐私、搜索和服务</h3><p>网址：<a href="edge://settings/privacy">edge:&#x2F;&#x2F;settings&#x2F;privacy</a></p>
-<p>点击“<strong>跟踪防护</strong>”，设置为平衡，关闭“浏览 InPrivate 时始终使用“严格”跟踪防护“。</p>
-<p>点击“<strong>安全性</strong>”，关闭“恶意软件阻止程序”、“Microsoft Defender Smartscreen”、“阻止可能不需要的应用”、“网站拼写错误保护”、“增强 Web 安全性”、“Microsoft Edge 安全网络”。</p>
-<p>点击“<strong>搜索和链接体验</strong>”，关闭“使用 Web 服务帮助解决导航错误”、“找不到网站时建议类似的站点”、“在 Microsoft Edge 中购物，节省时间和金钱”、“在Microsoft Edge 中使用集锦保存内容”、“获取有关使用’发现‘浏览相关内容的通知”、“让 Microsoft Edge 帮助保持标签页井然有序”、“保存历史记录网站的屏幕截图”。</p>
-<h3 id="外观"><a href="#外观" class="headerlink" title="外观"></a>外观</h3><p>网址：<a href="edge://settings/appearance">edge:&#x2F;&#x2F;settings&#x2F;appearance</a></p>
-<p>关闭“仅在开启高对比度主题时应用页面颜色”。</p>
-<p>对于Windows10的界面风格来说，不建议启用“试用 Microsoft Edge 的全新外观”，因为这会显着与系统格格不入。</p>
-<h3 id="侧栏"><a href="#侧栏" class="headerlink" title="侧栏"></a>侧栏</h3><p>网址：<a href="edge://settings/sidebar">edge:&#x2F;&#x2F;settings&#x2F;sidebar</a></p>
-<p>关闭“显示‘边栏’按钮”、“启用 Edge 栏”。在“应用和通知设置”中点击“Copilot”（如果有），关闭“显示工具栏上的 Copilot 按钮”。</p>
-<h3 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h3><p>网址：<a href="edge://settings/languages">edge:&#x2F;&#x2F;settings&#x2F;languages</a></p>
-<p>关闭“在 Web 上编写时与 Copilot 协作”、“使用文本预测”、“启用语法和拼写检查帮助“。</p>
-<h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>网址：<a href="edge://settings/downloads">edge:&#x2F;&#x2F;settings&#x2F;downloads</a></p>
-<p>将“位置”更改为除C盘外的任何盘。</p>
-<p>其他根据自己实际需要设置。</p>
-<h3 id="辅助功能"><a href="#辅助功能" class="headerlink" title="辅助功能"></a>辅助功能</h3><p>网址：<a href="edge://settings/accessibility">edge:&#x2F;&#x2F;settings&#x2F;accessibility</a></p>
-<p>关闭“在页面上的焦点区域周围显示高可见性大纲”、“仅在开启高对比度主题时应用页面颜色”、“从 Microsoft 获取屏幕阅读器的图像说明”、“在支持的菜单中添加辅助功能操作”。</p>
-<h3 id="系统和性能"><a href="#系统和性能" class="headerlink" title="系统和性能"></a>系统和性能</h3><p>网址：<a href="edge://settings/system">edge:&#x2F;&#x2F;settings&#x2F;system</a></p>
-<p>点击“<strong>系统</strong>”，关闭“启动增强”、“在 Microsoft Edge 关闭后继续运行后台扩展和应用”、“增强 Microsoft Edge 中的视频”。开启“在可用时使用图形加速”（重要）。</p>
-<p>点击“性能”，关闭“效率模式”、“使用效率模式改善电脑游戏体验”、“性能检测器”、“资源控制”。</p>
-<p>“在指定一段时间后，将非活动标签页置于睡眠状态”可根据自己实际需要设置。建议将网盘类站点加入白名单，否则可能会因为标签页休眠导致上传中断。</p>
-<hr>
-<p>到这，“设置”的部分已经全部完成，您的浏览器运行速度理论上会得到提升。注意，请<strong>根据自己的需求结合本教程</strong>来进行设置，平常不用的功能就关掉。</p>
-<h2 id="扩展-没用的全删"><a href="#扩展-没用的全删" class="headerlink" title="扩展 - 没用的全删"></a>扩展 - 没用的全删</h2><p>浏览器用久后，安装的扩展渐渐多了起来，这些扩展很大程度上拖慢了浏览器的运行效率。</p>
-<p>在安装扩展时，可以选择内存占用较低的扩展。例如“uBlock Origin”内存占用相对之前推荐的“AD Guard”低，所以我现在使用“uBlock Origin”。</p>
-<p>请一定根据自己的需求来安装扩展，不要安装没用的、功能重复的扩展。仅建议保留“<strong>广告拦截类</strong>”、“<strong>首页类</strong>”、“<strong>翻译类</strong>”扩展和“<strong>Tampermonkey（篡改猴）</strong>“。</p>
-<p>其实，很多简单的扩展都可以通过脚本实现，但本文并不是推荐脚本的，故不做推荐。如果想安装脚本，可以看看<a href="https://greasyfork.org/">GreasyFork</a>这个网站，里面有很多实用的扩展。</p>
-<hr>
-<p>另外，推荐一个浏览器测速网站，也是<a href="https://dusays.com/790/">杜老师</a>曾经推荐过的<strong>Speedometer 3.1</strong>。</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://browserbench.org/Speedometer3.1">
-    <div class="tag-link-tips">引用站外地址</div>
-    <div class="tag-link-bottom">
-        <div class="tag-link-left" style="">
-          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
-        </div>
-        <div class="tag-link-right">
-            <div class="tag-link-title">Speedometer 3.1</div>
-            <div class="tag-link-sitename"> 浏览器测速网站</div>
-        </div>
-        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
-    </div>
-    </a></div>
-
-<p>到此为止，您的浏览器速度应该有了提升。可以打开任务管理器看看占用资源有没有下降。其实，本文并不仅适用于Edge，所有浏览器都是这个道理：<strong>设置——没用的全关，扩展——没用的全删</strong>。</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>浏览器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Everything文件搜索：秒杀文件管理器</title>
-    <url>/2024/10/12/Everything%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%EF%BC%9A%E7%A7%92%E6%9D%80%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</url>
-    <content><![CDATA[<p>大家都用过系统自带的文件管理器的搜索功能吧，是不是慢的一批，本文介绍的工具就是专门来解决这个问题的，让你的搜索速度提升200％！</p>
-<h2 id="关于Everything"><a href="#关于Everything" class="headerlink" title="关于Everything"></a>关于Everything</h2><p><strong>Everything</strong> 是一款轻量级的文件搜索工具，专为 Windows 系统设计。它可以实时索引你电脑上的所有文件和文件夹，帮助你几乎瞬间找到目标文件。与传统的文件搜索工具不同，Everything 通过创建文件索引的方式来加速搜索过程，因此它能非常高效地完成任务，数万文件1秒完成！</p>
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>这里是软件官网，你可以从这里下载</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.voidtools.com/zh-cn/">
-    <div class="tag-link-tips">引用站外地址</div>
-    <div class="tag-link-bottom">
-        <div class="tag-link-left" style="">
-          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
-        </div>
-        <div class="tag-link-right">
-            <div class="tag-link-title">Everything官网</div>
-            <div class="tag-link-sitename"> 下载任意版本均可</div>
-        </div>
-        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
-    </div>
-    </a></div>
-
-<p>也可以到我的文件站进行下载，点击左上角的六个点即可看到网站</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>安装完成后，打开 Everything，它会开始自动索引你的文件系统。首次索引可能需要一些时间，具体时间取决于你硬盘文件的数量和大小。不过一旦索引完成，后续的文件搜索几乎是<strong>瞬时完成</strong>的，无需再等待。</p>
-<p><img src="https://wmimg.com/i/1169/2024/10/670a744cb7a8c.png" alt="软件截图"></p>
-<p>搜索真的比自带的快n倍</p>
-]]></content>
-      <categories>
-        <category>软件推荐</category>
-      </categories>
-      <tags>
-        <tag>Windows系统</tag>
-        <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GithubModels：免费AI大模型</title>
-    <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
-    <content><![CDATA[<blockquote>
-<p>真写不出啥来了，凑合看吧😪</p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在国内，当我们想跟GPT-4o聊天时，并且还是多次的，简直是<del>想peach</del>，几乎没有什么平台能让你每天多次跟GPT聊天的，可现在，<strong>它来了</strong>！<br><img src="https://peterimg.pages.dev/file/587e048f9b4c5f7337d83.png" alt="image"></p>
-<h2 id="申请资格"><a href="#申请资格" class="headerlink" title="申请资格"></a>申请资格</h2><p>GithubModels 是一个大模型测试平台，需要加入等待列表等待审批后使用的，如果你还没有申请，<a href="https://github.com/marketplace/models/waitlist/join">点击申请</a>，我从申请到通过花了3周左右</p>
-<h2 id="食用"><a href="#食用" class="headerlink" title="食用"></a>食用</h2><p>好的，你已经申请成功了！现在来聊天吧，<a href="https://github.com/marketplace?type=models">点击这里</a>来聊天吧！<br><img src="https://peterimg.pages.dev/file/0bfde365f399d48428f36.png" alt="一如既往"><br>你也可以在左侧调整模型的参数，如下<br><img src="https://peterimg.pages.dev/file/6bbbfb9b02700ab169f26.png" alt="image"></p>
-<h2 id="限制"><a href="#限制" class="headerlink" title="限制"></a>限制</h2><p>不同型号的模型有着不同的限制，分为Low、High、Embedding，你可以在这里查看模型的种类<br><img src="https://peterimg.pages.dev/file/4af9b9dcec36c8774537f.png" alt="image"><br>相关限制如下：<br><img src="https://peterimg.pages.dev/file/c3aac4f69887a6872ac0c.png" alt="image"></p>
-]]></content>
-      <categories>
-        <category>服务推荐</category>
-      </categories>
-      <tags>
-        <tag>AI纪元</tag>
-        <tag>Github</tag>
-        <tag>推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Github强制用户开启2FA的临时解决办法</title>
-    <url>/2024/11/17/Github%E5%BC%BA%E5%88%B6%E7%94%A8%E6%88%B7%E5%BC%80%E5%90%AF2FA%E7%9A%84%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
-    <content><![CDATA[<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>最近看到了Github强制用户开启2FA验证的界面，还说如果不开启就会限制用户行为（我不知道这样理解对不对）</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739a3ff314fa.png" alt="Github界面"></p>
-<p>如图所示，就只剩一天了，赶快开了吧</p>
-<p>点击 Enable 2FA now后显示如下界面</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739a6be322b7.png" alt="屏幕截图 2024-11-17 16-17-24.png"></p>
-<p>问题是，我没有手机，扫不了二维码，接不了短信（本来也发不到中国），怎么办？直到看到了一个插件——Authenticator</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><blockquote>
-<p>温馨提示：这是个临时的解决办法，插件一卸密码就会消失</p>
-</blockquote>
-<p>不知道大家有没有弹出这个页面，如果没有弹出并且想开启，进入<a href="https://github.com/">Github</a>&#x3D;&gt;点击右上角头像&#x3D;&gt;Settings&#x3D;&gt; Password and authentication&#x3D;&gt;Two-factor authentication&#x3D;&gt;Enable two-factor authentication</p>
-<p>进入图一页面后，点击Enable 2FA now，下载<a href="https://c2.crxsoso.com/crx/blobs/AW50ZFshxyn5CNiNJJomJrwj4HNKeSVJcVdhWdO_kZk_h4YizZ06qLrOwN81-zIH0EDitbA23XVj9lsuTvV-s9CBxD5zqdTwFAG6JRH-kJ4zzR4mAj0Jkig1CKWSd3DwaGnrAMZSmuV_ckxUO4UUtxwMwzlZLOjZvhSrxA/BHGHOAMAPCDPBOHPHIGOOOADDINPKBAI_8_0_1_0.crx?ext=crx&filename=%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8%208.0.1&type=install">Authenticator</a>插件</p>
-<p>打开插件，点击右上角的二维码标，用鼠标框选二维码区域，将显示的密码填入即可。</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739aad47454d.png" alt="Authenticator"></p>
-<p>将这些密码保存在安全的位置即可</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6739ab5bf0587.png" alt="下载密码"></p>
-<p>大功告成！</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>Github</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024年总结</title>
-    <url>/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>首先祝大家新年快乐！</p>
-<p>最近更新较少，主要原因有三：</p>
-<ol>
-<li><p>学业任务繁重</p>
-</li>
-<li><p>身体抱恙</p>
-</li>
-<li><p>个人状态调整</p>
-</li>
-</ol>
-<p>虽然文章更新频率有所下降，但我们一直在默默优化用户体验：<br>• 新增友链朋友圈功能<br>• 完善安全跳转机制<br>• 持续优化系统性能</p>
-<p>这篇文章还没写完</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>水</tag>
       </tags>
   </entry>
   <entry>
@@ -268,6 +123,411 @@
       <tags>
         <tag>浏览器</tag>
         <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024年总结</title>
+    <url>/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>首先祝大家新年快乐！</p>
+<p>最近更新较少，主要原因有三：</p>
+<ol>
+<li><p>学业任务繁重</p>
+</li>
+<li><p>身体抱恙</p>
+</li>
+<li><p>个人状态调整</p>
+</li>
+</ol>
+<p>虽然文章更新频率有所下降，但我们一直在默默优化用户体验：<br>• 新增友链朋友圈功能<br>• 完善安全跳转机制<br>• 持续优化系统性能</p>
+<p>这篇文章还没写完</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>水</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Everything文件搜索：秒杀文件管理器</title>
+    <url>/2024/10/12/Everything%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%EF%BC%9A%E7%A7%92%E6%9D%80%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</url>
+    <content><![CDATA[<p>大家都用过系统自带的文件管理器的搜索功能吧，是不是慢的一批，本文介绍的工具就是专门来解决这个问题的，让你的搜索速度提升200％！</p>
+<h2 id="关于Everything"><a href="#关于Everything" class="headerlink" title="关于Everything"></a>关于Everything</h2><p><strong>Everything</strong> 是一款轻量级的文件搜索工具，专为 Windows 系统设计。它可以实时索引你电脑上的所有文件和文件夹，帮助你几乎瞬间找到目标文件。与传统的文件搜索工具不同，Everything 通过创建文件索引的方式来加速搜索过程，因此它能非常高效地完成任务，数万文件1秒完成！</p>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>这里是软件官网，你可以从这里下载</p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.voidtools.com/zh-cn/">
+    <div class="tag-link-tips">引用站外地址</div>
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="">
+          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
+        </div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">Everything官网</div>
+            <div class="tag-link-sitename"> 下载任意版本均可</div>
+        </div>
+        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
+    </div>
+    </a></div>
+
+<p>也可以到我的文件站进行下载，点击左上角的六个点即可看到网站</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>安装完成后，打开 Everything，它会开始自动索引你的文件系统。首次索引可能需要一些时间，具体时间取决于你硬盘文件的数量和大小。不过一旦索引完成，后续的文件搜索几乎是<strong>瞬时完成</strong>的，无需再等待。</p>
+<p><img src="https://wmimg.com/i/1169/2024/10/670a744cb7a8c.png" alt="软件截图"></p>
+<p>搜索真的比自带的快n倍</p>
+]]></content>
+      <categories>
+        <category>软件推荐</category>
+      </categories>
+      <tags>
+        <tag>软件</tag>
+        <tag>Windows系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Edge越用越慢，收下这份优化指南</title>
+    <url>/2025/04/03/Edge%20%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%8C%E6%94%B6%E4%B8%8B%E8%BF%99%E4%BB%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<p>作为Edge的老用户，我亲历了它从轻量化到功能丰富的演变过程。然而，随着版本迭代，越来越多的后台服务和无用功能被默认开启，导致我的低配电脑越来越卡顿。启动时间变长、页面加载卡顿、内存占用飙升……</p>
+<p>经过一番设置调整后，浏览器的运行效率明显提升。本文将分享这些优化经验，帮助你的Edge重获流畅体验。</p>
+<hr>
+<h2 id="浏览器设置-没用的全关"><a href="#浏览器设置-没用的全关" class="headerlink" title="浏览器设置 - 没用的全关"></a>浏览器设置 - 没用的全关</h2><h3 id="隐私、搜索和服务"><a href="#隐私、搜索和服务" class="headerlink" title="隐私、搜索和服务"></a>隐私、搜索和服务</h3><p>网址：<a href="edge://settings/privacy">edge:&#x2F;&#x2F;settings&#x2F;privacy</a></p>
+<p>点击“<strong>跟踪防护</strong>”，设置为平衡，关闭“浏览 InPrivate 时始终使用“严格”跟踪防护“。</p>
+<p>点击“<strong>安全性</strong>”，关闭“恶意软件阻止程序”、“Microsoft Defender Smartscreen”、“阻止可能不需要的应用”、“网站拼写错误保护”、“增强 Web 安全性”、“Microsoft Edge 安全网络”。</p>
+<p>点击“<strong>搜索和链接体验</strong>”，关闭“使用 Web 服务帮助解决导航错误”、“找不到网站时建议类似的站点”、“在 Microsoft Edge 中购物，节省时间和金钱”、“在Microsoft Edge 中使用集锦保存内容”、“获取有关使用’发现‘浏览相关内容的通知”、“让 Microsoft Edge 帮助保持标签页井然有序”、“保存历史记录网站的屏幕截图”。</p>
+<h3 id="外观"><a href="#外观" class="headerlink" title="外观"></a>外观</h3><p>网址：<a href="edge://settings/appearance">edge:&#x2F;&#x2F;settings&#x2F;appearance</a></p>
+<p>关闭“仅在开启高对比度主题时应用页面颜色”。</p>
+<p>对于Windows10的界面风格来说，不建议启用“试用 Microsoft Edge 的全新外观”，因为这会显着与系统格格不入。</p>
+<h3 id="侧栏"><a href="#侧栏" class="headerlink" title="侧栏"></a>侧栏</h3><p>网址：<a href="edge://settings/sidebar">edge:&#x2F;&#x2F;settings&#x2F;sidebar</a></p>
+<p>关闭“显示‘边栏’按钮”、“启用 Edge 栏”。在“应用和通知设置”中点击“Copilot”（如果有），关闭“显示工具栏上的 Copilot 按钮”。</p>
+<h3 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h3><p>网址：<a href="edge://settings/languages">edge:&#x2F;&#x2F;settings&#x2F;languages</a></p>
+<p>关闭“在 Web 上编写时与 Copilot 协作”、“使用文本预测”、“启用语法和拼写检查帮助“。</p>
+<h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>网址：<a href="edge://settings/downloads">edge:&#x2F;&#x2F;settings&#x2F;downloads</a></p>
+<p>将“位置”更改为除C盘外的任何盘。</p>
+<p>其他根据自己实际需要设置。</p>
+<h3 id="辅助功能"><a href="#辅助功能" class="headerlink" title="辅助功能"></a>辅助功能</h3><p>网址：<a href="edge://settings/accessibility">edge:&#x2F;&#x2F;settings&#x2F;accessibility</a></p>
+<p>关闭“在页面上的焦点区域周围显示高可见性大纲”、“仅在开启高对比度主题时应用页面颜色”、“从 Microsoft 获取屏幕阅读器的图像说明”、“在支持的菜单中添加辅助功能操作”。</p>
+<h3 id="系统和性能"><a href="#系统和性能" class="headerlink" title="系统和性能"></a>系统和性能</h3><p>网址：<a href="edge://settings/system">edge:&#x2F;&#x2F;settings&#x2F;system</a></p>
+<p>点击“<strong>系统</strong>”，关闭“启动增强”、“在 Microsoft Edge 关闭后继续运行后台扩展和应用”、“增强 Microsoft Edge 中的视频”。开启“在可用时使用图形加速”（重要）。</p>
+<p>点击“性能”，关闭“效率模式”、“使用效率模式改善电脑游戏体验”、“性能检测器”、“资源控制”。</p>
+<p>“在指定一段时间后，将非活动标签页置于睡眠状态”可根据自己实际需要设置。建议将网盘类站点加入白名单，否则可能会因为标签页休眠导致上传中断。</p>
+<hr>
+<p>到这，“设置”的部分已经全部完成，您的浏览器运行速度理论上会得到提升。注意，请<strong>根据自己的需求结合本教程</strong>来进行设置，平常不用的功能就关掉。</p>
+<h2 id="扩展-没用的全删"><a href="#扩展-没用的全删" class="headerlink" title="扩展 - 没用的全删"></a>扩展 - 没用的全删</h2><p>浏览器用久后，安装的扩展渐渐多了起来，这些扩展很大程度上拖慢了浏览器的运行效率。</p>
+<p>在安装扩展时，可以选择内存占用较低的扩展。例如“uBlock Origin”内存占用相对之前推荐的“AD Guard”低，所以我现在使用“uBlock Origin”。</p>
+<p>请一定根据自己的需求来安装扩展，不要安装没用的、功能重复的扩展。仅建议保留“<strong>广告拦截类</strong>”、“<strong>首页类</strong>”、“<strong>翻译类</strong>”扩展和“<strong>Tampermonkey（篡改猴）</strong>“。</p>
+<p>其实，很多简单的扩展都可以通过脚本实现，但本文并不是推荐脚本的，故不做推荐。如果想安装脚本，可以看看<a href="https://greasyfork.org/">GreasyFork</a>这个网站，里面有很多实用的扩展。</p>
+<hr>
+<p>另外，推荐一个浏览器测速网站，也是<a href="https://dusays.com/790/">杜老师</a>曾经推荐过的<strong>Speedometer 3.1</strong>。</p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://browserbench.org/Speedometer3.1">
+    <div class="tag-link-tips">引用站外地址</div>
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="">
+          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
+        </div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">Speedometer 3.1</div>
+            <div class="tag-link-sitename"> 浏览器测速网站</div>
+        </div>
+        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
+    </div>
+    </a></div>
+
+<p>到此为止，您的浏览器速度应该有了提升。可以打开任务管理器看看占用资源有没有下降。其实，本文并不仅适用于Edge，所有浏览器都是这个道理：<strong>设置——没用的全关，扩展——没用的全删</strong>。</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>浏览器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github强制用户开启2FA的临时解决办法</title>
+    <url>/2024/11/17/Github%E5%BC%BA%E5%88%B6%E7%94%A8%E6%88%B7%E5%BC%80%E5%90%AF2FA%E7%9A%84%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>最近看到了Github强制用户开启2FA验证的界面，还说如果不开启就会限制用户行为（我不知道这样理解对不对）</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739a3ff314fa.png" alt="Github界面"></p>
+<p>如图所示，就只剩一天了，赶快开了吧</p>
+<p>点击 Enable 2FA now后显示如下界面</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739a6be322b7.png" alt="屏幕截图 2024-11-17 16-17-24.png"></p>
+<p>问题是，我没有手机，扫不了二维码，接不了短信（本来也发不到中国），怎么办？直到看到了一个插件——Authenticator</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><blockquote>
+<p>温馨提示：这是个临时的解决办法，插件一卸密码就会消失</p>
+</blockquote>
+<p>不知道大家有没有弹出这个页面，如果没有弹出并且想开启，进入<a href="https://github.com/">Github</a>&#x3D;&gt;点击右上角头像&#x3D;&gt;Settings&#x3D;&gt; Password and authentication&#x3D;&gt;Two-factor authentication&#x3D;&gt;Enable two-factor authentication</p>
+<p>进入图一页面后，点击Enable 2FA now，下载<a href="https://c2.crxsoso.com/crx/blobs/AW50ZFshxyn5CNiNJJomJrwj4HNKeSVJcVdhWdO_kZk_h4YizZ06qLrOwN81-zIH0EDitbA23XVj9lsuTvV-s9CBxD5zqdTwFAG6JRH-kJ4zzR4mAj0Jkig1CKWSd3DwaGnrAMZSmuV_ckxUO4UUtxwMwzlZLOjZvhSrxA/BHGHOAMAPCDPBOHPHIGOOOADDINPKBAI_8_0_1_0.crx?ext=crx&filename=%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8%208.0.1&type=install">Authenticator</a>插件</p>
+<p>打开插件，点击右上角的二维码标，用鼠标框选二维码区域，将显示的密码填入即可。</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739aad47454d.png" alt="Authenticator"></p>
+<p>将这些密码保存在安全的位置即可</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6739ab5bf0587.png" alt="下载密码"></p>
+<p>大功告成！</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GithubModels：免费AI大模型</title>
+    <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
+    <content><![CDATA[<blockquote>
+<p>真写不出啥来了，凑合看吧😪</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在国内，当我们想跟GPT-4o聊天时，并且还是多次的，简直是<del>想peach</del>，几乎没有什么平台能让你每天多次跟GPT聊天的，可现在，<strong>它来了</strong>！<br><img src="https://peterimg.pages.dev/file/587e048f9b4c5f7337d83.png" alt="image"></p>
+<h2 id="申请资格"><a href="#申请资格" class="headerlink" title="申请资格"></a>申请资格</h2><p>GithubModels 是一个大模型测试平台，需要加入等待列表等待审批后使用的，如果你还没有申请，<a href="https://github.com/marketplace/models/waitlist/join">点击申请</a>，我从申请到通过花了3周左右</p>
+<h2 id="食用"><a href="#食用" class="headerlink" title="食用"></a>食用</h2><p>好的，你已经申请成功了！现在来聊天吧，<a href="https://github.com/marketplace?type=models">点击这里</a>来聊天吧！<br><img src="https://peterimg.pages.dev/file/0bfde365f399d48428f36.png" alt="一如既往"><br>你也可以在左侧调整模型的参数，如下<br><img src="https://peterimg.pages.dev/file/6bbbfb9b02700ab169f26.png" alt="image"></p>
+<h2 id="限制"><a href="#限制" class="headerlink" title="限制"></a>限制</h2><p>不同型号的模型有着不同的限制，分为Low、High、Embedding，你可以在这里查看模型的种类<br><img src="https://peterimg.pages.dev/file/4af9b9dcec36c8774537f.png" alt="image"><br>相关限制如下：<br><img src="https://peterimg.pages.dev/file/c3aac4f69887a6872ac0c.png" alt="image"></p>
+]]></content>
+      <categories>
+        <category>服务推荐</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
+        <tag>Github</tag>
+        <tag>推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Gmeek框架：18秒拥有属于自己的个人博客！</title>
+    <url>/2024/08/20/Gmeek%E6%A1%86%E6%9E%B6%EF%BC%9A18%E7%A7%92%E6%8B%A5%E6%9C%89%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
+    <content><![CDATA[<blockquote>
+<p>温馨提示，本文章转载自<a href="https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html">Meekdai-Gmeek快速上手</a>，但我认为本文比原文更加细致</p>
+</blockquote>
+<p><a href="https://github.com/Meekdai/Gmeek">Gmeek</a> 是一个博客框架，超轻量级个人博客模板，完全基于<code>Github Pages</code> 、 <code>Github Issues</code> 和 <code>Github Actions</code>，可以称作<code>All in Github</code>。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。</p>
+<h2 id="一、安装"><a href="#一、安装" class="headerlink" title="一、安装"></a>一、安装</h2><blockquote>
+<p>安装及其简单，但是也要认真看下面的步骤，一步一步来。</p>
+</blockquote>
+<p>【创建仓库】点击<a href="https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai">通过模板创建仓库</a>，建议仓库名称为<code>XXX.github.io</code>，其中<code>XXX</code>为你的github用户名。（例如我的名字是Peter267，则我的仓库名称应为peter267.github.io，全部小写）</p>
+<p>【启用Pages】在仓库的设置<code>Setting</code>s中<code>Pages-&gt;Build and deployment-&gt;Source</code>下面选择<code>Github Actions</code>。<br>  <img src="https://s21.ax1x.com/2024/08/20/pAPIwgU.png" alt="pAPIwgU.png"></p>
+<p>【开始写作】打开一篇issue，开始写作，并且必须添加一个标签Label（至少添加一个），再保存issue（点击Submit new issue）后会自动创建博客内容，片刻后可通过<a href="https://xxx.github.io/">https://xxx.github.io/</a> 访问（可进入Actions页面查看构建进度）。</p>
+<p> <img src="https://s21.ax1x.com/2024/08/20/pAPI6ER.png" alt="pAPI6ER.png"></p>
+<p> <img src="https://s21.ax1x.com/2024/08/20/pAPIRC6.png" alt="pAPIRC6.png"><br><img src="https://s21.ax1x.com/2024/08/20/pAPokGV.png" alt="pAPokGV.png"></p>
+<p>【手动全局生成】这个步骤只有在修改config.json 文件或者出现奇怪问题的时候，需要执行。</p>
+<p><img src="https://s21.ax1x.com/2024/08/20/pAPouZ9.png" alt="pAPouZ9.png"></p>
+<h2 id="二、配置文件"><a href="#二、配置文件" class="headerlink" title="二、配置文件"></a>二、配置文件</h2><blockquote>
+<p>按照安装步骤成功搭建好后，就可以阅读下面的内容修改配置文件啦。<br>注意修改配置文件后一定要手动全局生成一次，不然会报错。<br>如果对<code>json</code>格式不熟悉，建议先简单学习一下。</p>
+</blockquote>
+<p><code>config.json</code> 文件就是配置文件，在创建的仓库内可以找到，对应修改为自己的即可。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Meekdai&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;童话是一种生活态度，仅此而已。&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://github.githubassets.com/favicons/favicon.svg&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>以上是必须的字段，下面是可以自定义字段的描述，可以选择加入到<code>config.json</code>中。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&quot;displayTitle&quot;:&quot;Meekdai&quot;,</span><br><span class="line">&quot;homeUrl&quot;:&quot;http://blog.meekdai.com&quot;,</span><br><span class="line">&quot;faviconUrl&quot;:&quot;https://github.githubassets.com/favicons/favicon.svg&quot;,</span><br><span class="line">&quot;email&quot;:&quot;meekdai@163.com&quot;,</span><br><span class="line">&quot;startSite&quot;:&quot;02/16/2015&quot;,</span><br><span class="line">&quot;filingNum&quot;:&quot;浙ICP备20023628号&quot;,</span><br><span class="line">&quot;onePageListNum&quot;:15,</span><br><span class="line">&quot;singlePage&quot;:[&quot;about&quot;],</span><br><span class="line">&quot;iconList&quot;:&#123;&quot;music&quot;:&quot;M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z&quot;&#125;,</span><br><span class="line">&quot;exlink&quot;:&#123;&quot;music&quot;:&quot;https://music.meekdai.com&quot;&#125;,</span><br><span class="line">&quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">&quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">&quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">&quot;UTC&quot;:8,</span><br><span class="line">&quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">&quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">&quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">&quot;urlMode&quot;:&quot;pinyin&quot;,</span><br><span class="line">&quot;style&quot;:&quot;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&quot;,</span><br><span class="line">&quot;head&quot;:&quot;&quot;,</span><br><span class="line">&quot;allHead&quot;:&quot;&quot;,</span><br><span class="line">&quot;indexStyle&quot;:&quot;&quot;,</span><br><span class="line">&quot;indexScript&quot;:&quot;&quot;,</span><br><span class="line">&quot;showPostSource&quot;:1,</span><br><span class="line">&quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">&quot;bottomText&quot;:&quot;转载请注明出处&quot;,</span><br><span class="line">&quot;ogImage&quot;:&quot;https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg&quot;,</span><br><span class="line">&quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">&quot;needComment&quot;:0,</span><br></pre></td></tr></table></figure>
+<p> <img src="https://s21.ax1x.com/2024/08/20/pAPoTQU.png" alt="pAPoTQU.png"></p>
+<table>
+<thead>
+<tr>
+<th>配置参数</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>title</td>
+<td>【必填】博客标题</td>
+</tr>
+<tr>
+<td>subTitle</td>
+<td>【必填】博客描述&amp;自述</td>
+</tr>
+<tr>
+<td>avatarUrl</td>
+<td>【必填】博客头像</td>
+</tr>
+<tr>
+<td>GMEEK_VERSION</td>
+<td>【必填】Gmeek版本，一般写last也可以用具体tag版本</td>
+</tr>
+<tr>
+<td>displayTitle</td>
+<td>用于头像后面的标题展示，如果和<code>title</code>一致则不用添加</td>
+</tr>
+<tr>
+<td>homeUrl</td>
+<td>博客的主页地址，自定义域名时需要配置</td>
+</tr>
+<tr>
+<td>faviconUrl</td>
+<td>页面的favicon地址，如果和<code>avatarUrl</code>一致则不用添加</td>
+</tr>
+<tr>
+<td>email</td>
+<td>用于自动提交仓库时用，不添加也可以</td>
+</tr>
+<tr>
+<td>startSite</td>
+<td>用于页面底部显示网站运行天数</td>
+</tr>
+<tr>
+<td>filingNum</td>
+<td>用于页面底部显示备案信息（未备案请不要添加）</td>
+</tr>
+<tr>
+<td>onePageListNum</td>
+<td>用于首页每页展示的文章数量</td>
+</tr>
+<tr>
+<td>singlePage</td>
+<td>自定义独立页面，例如<code>about</code>或者<code>link</code>等</td>
+</tr>
+<tr>
+<td>iconList</td>
+<td>用于定义singlePage按钮展示的<a href="https://primer.style/foundations/icons/#16px">SVG图标</a> (16px)，<code>about</code>和<code>link</code>内置无需定义</td>
+</tr>
+<tr>
+<td>exlink</td>
+<td>用于自定义首页右上角圆形按钮到外部链接功能，按钮图标定义在iconList中</td>
+</tr>
+<tr>
+<td>commentLabelColor</td>
+<td>用于自定义显示评论数量标签的颜色</td>
+</tr>
+<tr>
+<td>yearColorList</td>
+<td>用于自定义显示不同年份标签的颜色</td>
+</tr>
+<tr>
+<td>i18n</td>
+<td>用于定义博客语言，目前支持<code>EN</code>&#x2F;<code>CN</code>&#x2F;<code>RU</code>   （英文&#x2F;中文&#x2F;俄文）</td>
+</tr>
+<tr>
+<td>themeMode</td>
+<td>用于定义主题模式，默认为<code>manual</code>，也可选择<code>fix</code><a href="https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-liang-an-zhu-ti-pei-zhi-fang-shi.html">详细说明</a></td>
+</tr>
+<tr>
+<td>dayTheme</td>
+<td>用于定义<a href="https://github.com/settings/appearance">亮主题</a></td>
+</tr>
+<tr>
+<td>nightTheme</td>
+<td>用于定义<a href="https://github.com/settings/appearance">暗主题</a></td>
+</tr>
+<tr>
+<td>urlMode</td>
+<td>用于定义文章链接生成模式，目前支持<code>pinyin</code>&#x2F;<code>issue</code>&#x2F;<code>ru_translit</code>  （文章标题拼音&#x2F;issue序号（例：post7））&#x2F;俄文</td>
+</tr>
+<tr>
+<td>style</td>
+<td>用于自定义文章页CSS</td>
+</tr>
+<tr>
+<td>script</td>
+<td>用于自定义文章页JavaScript</td>
+</tr>
+<tr>
+<td>head</td>
+<td>用于自定义文章页head内容</td>
+</tr>
+<tr>
+<td>allHead</td>
+<td>用于自定义所有页面head内容</td>
+</tr>
+<tr>
+<td>indexStyle</td>
+<td>用于自定义首页CSS</td>
+</tr>
+<tr>
+<td>indexScript</td>
+<td>用于自定义首页JavaScript</td>
+</tr>
+<tr>
+<td>showPostSource</td>
+<td>设置为1则在文章页显示issue链接按钮，设置为0则不显示</td>
+</tr>
+<tr>
+<td>rssSplit</td>
+<td>设置RSS输出的截断符号，默认<code>sentence</code>为第一句话，可配置其他特殊符号</td>
+</tr>
+<tr>
+<td>bottomText</td>
+<td>用于设置文章页面右下角显示的内容</td>
+</tr>
+<tr>
+<td>ogImage</td>
+<td>用于设置Open Graph协议展示的图片</td>
+</tr>
+<tr>
+<td>primerCSS</td>
+<td>用于设置primer.css的CDN地址，默认使用<a href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css">南科大</a></td>
+</tr>
+<tr>
+<td>needComment</td>
+<td>用于设置是否需要评论功能，1开启评论，0关闭（如果想使用评论，请<a href="https://github.com/apps/utterances">下载utterances评论</a>）</td>
+</tr>
+</tbody></table>
+<h2 id="三、代码示范"><a href="#三、代码示范" class="headerlink" title="三、代码示范"></a>三、代码示范</h2><h3 id="✅-正确代码"><a href="#✅-正确代码" class="headerlink" title="✅ 正确代码"></a>✅ 正确代码</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">    &quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">    &quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">    &quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">    &quot;UTC&quot;:8,</span><br><span class="line">    &quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">    &quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">    &quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">    &quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">    &quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">    &quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">    &quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">    &quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">    &quot;needComment&quot;:1,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>代码开头结尾应该有 “{” 和 “}” 符号</li>
+<li>每行代码后方有个英文逗号（,），最后一行代码除外</li>
+<li>每行代码开头空四格（ “{”和 “}”除外）</li>
+</ul>
+<h3 id="❌-错误代码"><a href="#❌-错误代码" class="headerlink" title="❌ 错误代码"></a>❌ 错误代码</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">&#125;</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">    &quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">    &quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">    &quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">    &quot;UTC&quot;:8,</span><br><span class="line">    &quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">    &quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">    &quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">    &quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">    &quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">    &quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">    &quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">    &quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">    &quot;needComment&quot;:1,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br></pre></td></tr></table></figure>
+<p>问题原因：格式错误</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">&#125;</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">&quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">&quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">&quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">&quot;UTC&quot;:8,</span><br><span class="line">&quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">&quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">&quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">&quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">&quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">&quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">&quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">&quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">&quot;needComment&quot;:1,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">&quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">&quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br></pre></td></tr></table></figure>
+<p>问题原因：缩进错误</p>
+<h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><h3 id="1-搭建不成功"><a href="#1-搭建不成功" class="headerlink" title="1. 搭建不成功"></a>1. 搭建不成功</h3><p>多半是没有按照安装步骤来，其实搭建就这2步，不要自己乱点乱设置，就不会有问题。</p>
+<ul>
+<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/14">https://github.com/Meekdai/Gmeek/issues/14</a></li>
+<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/18">https://github.com/Meekdai/Gmeek/issues/18</a></li>
+<li>案例三：<a href="https://github.com/Meekdai/Gmeek/issues/20">https://github.com/Meekdai/Gmeek/issues/20</a></li>
+</ul>
+<h3 id="2-Actions执行失败"><a href="#2-Actions执行失败" class="headerlink" title="2. Actions执行失败"></a>2. Actions执行失败</h3><p>修改了<code>config.json</code>配置文件后，需要全局生成。另外label标签没有打会出现这个问题。<br>建议通过Actions-&gt;build Gmeek-&gt;Run workflow-&gt;里面的按钮全局重新生成一次</p>
+<ul>
+<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/1">https://github.com/Meekdai/Gmeek/issues/1</a></li>
+<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/10">https://github.com/Meekdai/Gmeek/issues/10</a></li>
+</ul>
+<h3 id="3-导入以前的文章"><a href="#3-导入以前的文章" class="headerlink" title="3. 导入以前的文章"></a>3. 导入以前的文章</h3><p>如需修改发布时间，可以在文章最后一行添加如下代码。里面的时间是采用时间戳的形式，可以用如下<a href="https://tool.lu/timestamp">网站</a>转换。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;timestamp&quot;:1490764800&#125;## --&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="4-自定义单篇文章参数"><a href="#4-自定义单篇文章参数" class="headerlink" title="4. 自定义单篇文章参数"></a>4. 自定义单篇文章参数</h3><p>自定义单篇文章页面的<code>style</code>和<code>script</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;&#125;## --&gt;</span><br></pre></td></tr></table></figure>
+
+<!-- ##{"script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"}## -->
+<h3 id="5-多种自定义参数"><a href="#5-多种自定义参数" class="headerlink" title="5. 多种自定义参数"></a>5. 多种自定义参数</h3><p>可同时一起添加多种自定义参数：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;script&quot;:&quot;&lt;script async src=&#x27;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&#x27;&gt;&lt;/script&gt;&quot;,&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;,&quot;timestamp&quot;:1490764800&#125;## --&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="6-自定义全局文章参数"><a href="#6-自定义全局文章参数" class="headerlink" title="6. 自定义全局文章参数"></a>6. 自定义全局文章参数</h3><p>添加全局文章页面的<code>style</code>和<code>script</code>，在<code>config.json</code>文件中添加</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script async src=&#x27;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br></pre></td></tr></table></figure>
+
+<h3 id="7-置顶博客文章"><a href="#7-置顶博客文章" class="headerlink" title="7. 置顶博客文章"></a>7. 置顶博客文章</h3><p>只需要<code>Pin issue</code>后，手动全局生成一次即可。</p>
+<h3 id="8-utteranc报错"><a href="#8-utteranc报错" class="headerlink" title="8. utteranc报错"></a>8. utteranc报错</h3><p>如果在评论里面登录后评论报错，可直接按照提示安装utteranc app即可</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: utterances is not installed on xxx/xxx.github.io. If you own this repo, install the app. Read more about this change in the PR.</span><br></pre></td></tr></table></figure>
+
+<h3 id="9-删除文章"><a href="#9-删除文章" class="headerlink" title="9. 删除文章"></a>9. 删除文章</h3><p>只需要Close issue或者Delete issue后，再手动全局生成一次即可。</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>博客</tag>
+        <tag>如何____</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSS是个甚么东东（文章损坏）</title>
+    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E4%B8%9C/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
+<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
+<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
+</blockquote>
+<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
+<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
+<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
+<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
+<ol>
+<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
+<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
+<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
+<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
+<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
+<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
+<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科普</category>
+      </categories>
+      <tags>
+        <tag>如何____</tag>
+        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
@@ -507,37 +767,6 @@
       </tags>
   </entry>
   <entry>
-    <title>RSS是个甚么东东（文章损坏）</title>
-    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E4%B8%9C/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
-<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
-<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
-</blockquote>
-<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
-<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
-<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
-<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
-<ol>
-<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
-<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
-<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
-<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
-<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
-<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
-<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科普</category>
-      </categories>
-      <tags>
-        <tag>科普</tag>
-        <tag>如何____</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>勇气：雷军与小米的非凡旅程</title>
     <url>/2024/07/20/%E5%8B%87%E6%B0%94%EF%BC%9A%E9%9B%B7%E5%86%9B%E4%B8%8E%E5%B0%8F%E7%B1%B3%E7%9A%84%E9%9D%9E%E5%87%A1%E6%97%85%E7%A8%8B/</url>
     <content><![CDATA[<p>在科技行业，每一次跨越都是一次勇气的考验。202󠇔󠆭󠆌󠇘󠅰󠅵󠇟󠆬󠆊󠅀󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄐󠄐󠇖󠆍󠆕󠇖󠆪󠆀󠇕󠆌󠆠󠇕󠆍󠅰󠇟󠆬󠆊󠅘󠅤󠅤󠅠󠅣󠄪󠄟󠄟󠅠󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄞󠅪󠅕󠅑󠅒󠅥󠅢󠄞󠅑󠅠󠅠4年的盛夏，小米集团的创始人、董事长兼C󠇔󠆭󠆌󠇘󠅰󠅵󠇟󠆬󠆊󠅀󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄐󠄐󠇖󠆍󠆕󠇖󠆪󠆀󠇕󠆌󠆠󠇕󠆍󠅰󠇟󠆬󠆊󠅘󠅤󠅤󠅠󠅣󠄪󠄟󠄟󠅠󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄞󠅪󠅕󠅑󠅒󠅥󠅢󠄞󠅑󠅠󠅠EO雷军，站在一年一度的个人演讲舞台上，用󠇔󠆭󠆌󠇘󠅰󠅵󠇟󠆬󠆊󠅀󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄐󠄐󠇖󠆍󠆕󠇖󠆪󠆀󠇕󠆌󠆠󠇕󠆍󠅰󠇟󠆬󠆊󠅘󠅤󠅤󠅠󠅣󠄪󠄟󠄟󠅠󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄞󠅪󠅕󠅑󠅒󠅥󠅢󠄞󠅑󠅠󠅠“勇气”二字串联起了过去与未来，科技与梦想，以及个人与品牌的壮󠇔󠆭󠆌󠇘󠅰󠅵󠇟󠆬󠆊󠅀󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄐󠄐󠇖󠆍󠆕󠇖󠆪󠆀󠇕󠆌󠆠󠇕󠆍󠅰󠇟󠆬󠆊󠅘󠅤󠅤󠅠󠅣󠄪󠄟󠄟󠅠󠅕󠅤󠅕󠅢󠄢󠄦󠄧󠄞󠅪󠅕󠅑󠅒󠅥󠅢󠄞󠅑󠅠󠅠丽篇章。</p>
@@ -554,40 +783,6 @@
       </categories>
       <tags>
         <tag>发布会</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>告别云担忧：手把手教你本地部署AI大模型</title>
-    <url>/2024/07/23/%E5%91%8A%E5%88%AB%E4%BA%91%E6%8B%85%E5%BF%A7%EF%BC%9A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2AI%E5%A4%A7%E6%A8%A1%E5%9E%8B/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>当我们想跟AI对话时，把一些文件发送到云端可能会不安全，这时候，就需要本地部署了。本地部署指的是AI会调用电脑本地的算力进行计算，所以，电脑的性能不可以太差。下面是本地部署大模型的教程。</p>
-<blockquote>
-<p>请务必<strong>看完全文后再进行操作</strong><br>本教程使用Win10，如果您是Mac用户，请参考<a href="https://www.bilibili.com/video/BV18E421N7d4/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">Mac本地部署教程</a></p>
-</blockquote>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>下载<a href="https://ollama.com/">Ollama</a>,进入主页点击Download，选择自己的操作系统，点击下载</p>
-<blockquote>
-<p>您无需点击下方的注册按钮<br>下载后，CMD窗口输入<code>ollama</code>，出现类似以下内容代表成功</p>
-</blockquote>
-<p><img src="https://wmimg.com/i/1169/2025/02/67a59fe71f3c3.png" alt="image-20250207135323252"></p>
-<h3 id="下载大模型"><a href="#下载大模型" class="headerlink" title="下载大模型"></a>下载大模型</h3><p>1.下载完成后点击Win+R，“打开”栏输入cmd，回车<br>2.打开 <a href="https://ollama.com/">Ollama官网</a>，点击右上角的 <code>Search models</code>，输入你想下载的开源模型名称。找到模型后，复制页面中提供的下载命令到CMD窗口，回车开始下载。<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/981f90b17ddb311752af3.png" alt="屏幕截图 2024-07-23 102305"><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/325cfadebe623c477210f.png" alt="屏幕截图 2024-07-23 103510"></p>
-<blockquote>
-<p>每个模型的代码不一样，上图使用Qwen2-72b演示，请根据电脑性能选择下载的模型。一般来说，7b左右的模型适合大部分的电脑，我2016年的显卡都带的动。72b左右的模型则需要强大性能的电脑，它的安装包就足有40GB！<br>建议选择qwen2，因为它是迄今为止<strong>最强大的开源大模型</strong>，具体可以看<a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard">🤗 Open LLM Leaderboard</a>，您也可以选择自己喜欢的大模型，方法相同<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/644f91b62d0ef700595a1.png" alt="屏幕截图 2024-07-23 104504"></p>
-</blockquote>
-<p>如果下载到最后越来越慢，按Ctrl+C停止，再次输入下载命令重新下载，多试几次。</p>
-<h3 id="使用大模型"><a href="#使用大模型" class="headerlink" title="使用大模型"></a>使用大模型</h3><p>完成下载后，你将看到类似以下界面，这意味着一切准备就绪！<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/5f1b697686252b89d2f67.png" alt="屏幕截图 2024-07-23 105346"><br>测试一下<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/9ac0834164d52c326e335.png" alt="屏幕截图 2024-07-23 110142"></p>
-<blockquote>
-<p>要再次使用模型，重复上述<strong>下载大模型的第1-2步</strong>，但这次回车后将启动而不是重新下载模型。请确保Ollama程序正在运行。<br>由于Ollama位于国外，国内用户可能会遇到下载速度缓慢的问题。为此，我已将下载链接上传至网盘，你可以直接从那里下载，无需注册。<br><a href="https://www.123pan.com/s/hoPKVv-RMB63.html">123网盘下载</a><br>请忽略下载页的广告，解压缩后下载</p>
-</blockquote>
-<p>附上个命令：<code>ollama list</code>，查看模型列表。再次使用时，输入ollama run+NAME（模型名称）即可。</p>
-<p>删除模型：<code>ollama rm</code>+NAME</p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>什么，界面不好看？<a href="/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/">下期博客</a>教大家获得更好地UI界面</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>AI纪元</tag>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
       </tags>
   </entry>
   <entry>
@@ -1039,18 +1234,171 @@
       </tags>
   </entry>
   <entry>
-    <title>周记     2024.9.8-2024.9.22</title>
-    <url>/2024/09/27/2024.9.8-9.22%E5%91%A8%E8%AE%B0/</url>
-    <content><![CDATA[<p>这周，我去了一趟生物实验室，练习使用显微镜。刚听到这个消息时，我既激动又期待，虽然在课堂上听过显微镜的基本知识，但这次是我第一次亲手操作，感觉非常有趣。</p>
-<p>上课前，我兴致勃勃的冲向生物实验室，准备使用显微镜。一开始，老师为我们讲解了显微镜的基本构造和使用方法。我认真的听着，特别注意如何调整焦距和光源。之后，老师给我们分发了一个洋葱玻片标本，我把它小心翼翼的放在载物台上，开始操作显微镜。随着我慢慢调节焦距，洋葱表皮细胞的轮廓渐渐变得清晰起来。我看到了一些蜂窝状的小格子，这就是细胞。看到这些平时看不见的微小结构，我觉得特别神奇。</p>
-<p>接着，我又换了不同的放大倍数，细胞的细节变得更加明显，甚至可以看到细胞核。通过显微镜，我第一次真正看到了课本里见过的细胞，这种亲眼看到的感觉比单纯看书要更直观也更有意思。</p>
-<p>在这次练习中，我不仅学会了如何使用显微镜，还对微观世界有了新的认识。这次的体验让我觉得，动手实践确实是学习的一部分，只有亲自操作，才能真正体会到科学的乐趣。期待下一次的实验课，去发现更多的有趣世界！</p>
+    <title>博客图床新方案——自部署LightPicture</title>
+    <url>/2024/09/22/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E6%96%B0%E6%96%B9%E6%A1%88%E2%80%94%E2%80%94%E8%87%AA%E9%83%A8%E7%BD%B2LightPicture/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近我苦于寻找一个可以永久使用的图床，看了看，好像只能是自己部署，那就来吧。本期博客教大家使用小皮面板本地部署图床。</p>
+<h2 id="为什么是LightPicture"><a href="#为什么是LightPicture" class="headerlink" title="为什么是LightPicture"></a>为什么是LightPicture</h2><blockquote>
+<p>其实很想用兰空，但我不会啊</p>
+</blockquote>
+<p>LightPicture是开源免费的图床工具，界面颜值很高，同时支持多用户，使用邮箱发送验证码注册等。</p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><h3 id="Lightpicture文件"><a href="#Lightpicture文件" class="headerlink" title="Lightpicture文件"></a>Lightpicture文件</h3><p>不知道为啥，LightPicture官方下载地址没了，我把文件放在网盘里了，文末自取</p>
+<h3 id="PhpStudy"><a href="#PhpStudy" class="headerlink" title="PhpStudy"></a>PhpStudy</h3><p>您需要下载<a href="https://old.xp.cn/">PhpStudy（小皮面板）</a>，并将下载好并解压的LightPicture文件放到小皮的<code>WWW</code>文件夹下，如下图<img src="https://wmimg.com/i/1169/2024/09/66efe72bbcbd6.png" alt="image-20240921144204946.png"></p>
+<p>打开小皮，启动小皮面板，打开软件管理&#x3D;&gt;php，安装7.2~7.4版本的php，其他配置（如MySQL和Nginx）同理（Mysql版本 ≥ 5.5）<img src="https://wmimg.com/i/1169/2024/09/66efe7a3910ed.png" alt="圈出来的都可以"></p>
+<p>现在您已经准备完成，来看看怎么部署</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>打开小皮，启动MySQL和Nginx，进入网站&#x3D;&gt;创建网站</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe7e4e21e1.png" alt="image-20240921145703229.png"></p>
+<p>点击后相关配置如下<img src="https://wmimg.com/i/1169/2024/09/66efe802a588c.png" alt="image-20240921150157196.png"></p>
+<p>完成后点击确认。点击管理&#x3D;&gt;网站首页设置，填入以下内容，点击确认。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">index.html error index.html index.php</span><br></pre></td></tr></table></figure>
+
+<p>接着，我们还需要修改一些文件</p>
+<p>找到lightpicture文件夹，点击public,找到名称为<code>nginx.htaccess</code>的文件，用记事本打开，输入以下内容保存即可</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">location / &#123; </span><br><span class="line">   if (!-e $request_filename) &#123;</span><br><span class="line">   		rewrite  ^(.*)$  /index.php?s=/$1  last;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>浏览器输入<code>localhost:端口号/install</code>，进入安装界面。举个例子，我填入的端口号是<code>82</code>，我就需要在浏览器输入<code>localhost:82/install</code></p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe823dab22.png" alt="image-20240922113925332.png"></p>
+<p>在创建数据时填入您创建数据库时的<code>数据库名</code>，<code>数据库用户名</code>，<code>数据库密码</code>；<code>服务器</code>，<code>端口</code>不用设置。完成后点击确认</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe843e74bf.png" alt="image-20240922114131153.png"></p>
+<p>请记住默认管理员账号，并及时<strong>修改密码，以防被盗</strong></p>
+<ul>
+<li>默认管理员账号：<code>admin</code></li>
+<li>默认管理员密码：<code>123456</code></li>
+</ul>
+<p>点击右上角头像，修改密码，当前密码就是<code>123456</code>，如果运营，请一定设定一个<strong>强力密码</strong></p>
+<p>到现在，您已经在本地搭建了LightPicture</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe8ac3bcf7.png" alt="image-20240922114346783.png"></p>
+<p>如果您没有发布到公网的需求，仅需个人本地使用，建议在小皮面板设置开机自启，这样，您随时可以访问到网站</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe8c973f35.png" alt="image-20240922114642191.png"></p>
+<h2 id="LightPicture配置"><a href="#LightPicture配置" class="headerlink" title="LightPicture配置"></a>LightPicture配置</h2><h3 id="账户篇"><a href="#账户篇" class="headerlink" title="账户篇"></a>账户篇</h3><p>使用默认管理员账户，会导致部分功能（配置邮箱发送验证码）无法使用，所以，再注册一个管理员账户是很有必要的</p>
+<p>点击系统管理&#x3D;&gt;团队成员&#x3D;&gt;新增，按照我的样子配置就可以，很简单，记得保存</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efe8e84d801.png" alt="image-20240922115110663.png"></p>
+<p>邮箱一定要设置个能用的，角色组必须设置超级管理员，联系电话自愿</p>
+<p>接着，编辑您创建的成员，在操作栏点击编辑，勾选上<code>重置密码</code>，保存</p>
+<p>点击右上角头像，退出登录。点击右上角登录&#x2F;注册，输入新增成员时的邮箱，密码是默认密码<code>123456</code>，登录。记得<strong>修改默认密码</strong></p>
+<h3 id="存储桶篇"><a href="#存储桶篇" class="headerlink" title="存储桶篇"></a>存储桶篇</h3><p>目前市面上没有什么好的对象存储，要么要钱（这也很正常，但我没钱），要么测试域名30天有效期，要么没https访问。你以为绑定域名就能解决吗，确实是，但域名要<strong>备案</strong>，这就劝退了99％的人</p>
+<p>除付费OSS外，我从七牛和又拍中选择了<a href="https://console.upyun.com/">又拍云</a>，原因很简单，它的测试域名免费（但是仍然没有https访问）！如果您不使用又拍云，那么其他服务也大同小异</p>
+<p>账号注册和实名我就不多说了，非常简单，我们从创建服务开始</p>
+<p>进入控制台，选择创建云存储。请注意，接下来您填写的所有内容都会用到，请务必<strong>记牢</strong></p>
+<p>服务名称自愿，应用场景自愿，存储类型为标准，国内加速。新建一个操作员，记住操作员名称和密码（密码不可找回只能重置），权限全选</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efea2613005.png" alt="image-20240922130545303.png"></p>
+<p>创建服务后进入配置界面</p>
+<p>接着，打开LightPicture，系统管理&#x3D;&gt;存储桶&#x3D;&gt;新建桶。存储源选择又拍云USS。桶名称自定义，其他配置见下图</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efea43d9c41.png" alt="image-20240922135243666.png"></p>
+<p><code>OperatorName</code>和<code>OperatorPwd</code>为您创建的操作员信息，<code>Name</code>为操作员，<code>Pwd</code>为密码，如果您忘了，请看以下操作</p>
+<p>点击右上角名称&#x3D;&gt;账号管理&#x3D;&gt;操作员，找到创建服务时创建的操作员，点击编辑。操作员内容填入<code>OperatorName</code>，密码重新生成并复制，填入<code>OperatorPwd</code>，在又拍云和LightPicture的界面点击确定，尤其是又拍云，不保存的话生成的密码无效。</p>
+<p>在保存后，在LightPicture界面点击系统管理&#x3D;&gt;角色组&#x3D;&gt;编辑，存储桶选择新创建的又拍云存储桶，确定</p>
+<p>这时候，您可以在主页上传一张图片试试，成功就没问题了</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efea5bc30f1.png" alt="image-20240922140910588.png"></p>
+<h3 id="设置头像篇"><a href="#设置头像篇" class="headerlink" title="设置头像篇"></a>设置头像篇</h3><p>先把头像通过LightPicture上传，在图库找到这张照片，点击详情，设为头像即可</p>
+<h3 id="设置上传格式篇"><a href="#设置上传格式篇" class="headerlink" title="设置上传格式篇"></a>设置上传格式篇</h3><p>当我们上传一些格式不常见的图片或者其他文件时会遇到“不支持的格式”的提示，如何解决呢</p>
+<p>点击右上角头像&#x3D;&gt;个人资料&#x3D;&gt;左侧栏系统设置&#x3D;&gt;允许上传后缀中添加上您需要的后缀，用英文逗号（<code>,</code>）连接，记得保存</p>
+<h3 id="多用户篇"><a href="#多用户篇" class="headerlink" title="多用户篇"></a>多用户篇</h3><p>找到系统设置（上面有讲）勾上开放注册，把用户出示配额和上传最大尺寸改为合适的值，勾掉<code>展示存储桶</code>，<code>展示角色组</code>和<code>展示团队成员</code>，当然，你不想弄也没事，记得保存。</p>
+<p>找到邮箱配置，我以<a href="https://mail.163.com/">163邮箱</a>演示</p>
+<p>进入<a href="https://mail.163.com/">163邮箱</a>，点击设置&#x3D;&gt;常规设置&#x3D;&gt;POP3&#x2F;SMTP&#x2F;IMAP,用手机发个验证码通过验证后复制授权密码后开启服务。复制提示栏里的SMTP服务器地址（smtp.163.com）到LightPicture的SMTP服务器框里，端口输入<code>465</code>，邮箱账号为自己的邮箱，密码为刚才复制的授权密码保存后点击发送测试邮件，在新增用户时填入的邮箱里查收信息，收到说明配置成功！</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efea790413f.png" alt="image-20240922142911712.png"></p>
+<p>您可以退出当前的账号后重新注册一个，看看能不能收到验证码</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66efea94c57a0.png" alt="image-20240922143249337.png"></p>
+<p>新增一个角色组并设为注册默认</p>
+<p>点击角色组&#x3D;&gt;新增，分组名称自定义，存储桶选择又拍云的桶，分组权限勾选<code>允许其成员上传图片</code>和<code>允许其成员删除自己上传的图片</code>，勾选<code>注册默认</code>其他酌情勾选</p>
+<p>这时候，您的网站就支持了多用户</p>
+<h2 id="公开到公网"><a href="#公开到公网" class="headerlink" title="公开到公网"></a>公开到公网</h2><p>如果您想自己使用，完全不需要这步，这反而会增加风险，如果想要运营，其实也不建议你用LightPicture，兰空图床是更好的选择，如果您就想，那就继续往下看</p>
+<p>本教程使用<a href="https://www.cpolar.com/">Cpolar内网穿透</a>来使LightPicture公开到公网</p>
+<p>进入<a href="https://www.cpolar.com/">官网</a>，如果没有账号就右上角注册一个，不用实名。注册完后点击下载，选择适合自己电脑版本的Cpolar的软件，下载，下载后解压并后缀为<code>msi</code>的文件。</p>
+<p>在登陆窗口输入自己的账密登录</p>
+<p>进入后打开左侧的隧道管理&#x3D;&gt;创建隧道。隧道名称填<code>lightpicture</code>,协议为<code>http</code>，本地地址填在小皮面板配置的端口，我的是<code>82</code>。域名选择随机域名（其他都要钱），ChinaVIP,点击创建。</p>
+<p><img src="https://wmimg.com/i/1169/2024/09/66f006fb6407f.png" alt="1727006457097.png"></p>
+<p>左侧栏点击状态&#x3D;&gt;在线隧道列表，找到刚才创建的隧道，用协议为<code>https</code>的（不会被浏览器打上“不安全”的标志）到此为止，您的网站已经成功发布！</p>
+<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><h3 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h3><p>不容易啊，终于搞完了，如果你想在线体验，可以用我创建的网站，请注意，<strong>仅供体验</strong>，您上传的文件<strong>得不到永久保存</strong>！</p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://53769dff.r21.vip.cpolar.cn/">
+    <div class="tag-link-tips">引用站外地址</div>
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="background-image: url(https://wmimg.com/i/1169/2024/09/66f008f6026cc.png)">
+          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>
+        </div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">在线体验LightPicture</div>
+            <div class="tag-link-sitename"> 仅供体验</div>
+        </div>
+        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
+    </div>
+    </a></div>
+
+<h3 id="获取所有文件"><a href="#获取所有文件" class="headerlink" title="获取所有文件"></a>获取所有文件</h3><p>包含LightPicture部署文件，PhpStudy(小皮面板)，Cpolar（Windows端）</p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://peterwu.lanzout.com/b00uygd0fa">
+    <div class="tag-link-tips">引用站外地址</div>
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="">
+          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
+        </div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">一键获取所有文件</div>
+            <div class="tag-link-sitename"> 密码：1711</div>
+        </div>
+        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
+    </div>
+    </a></div>
 ]]></content>
       <categories>
-        <category>闲聊杂谈</category>
+        <category>经验分享</category>
       </categories>
       <tags>
-        <tag>周记</tag>
+        <tag>如何____</tag>
+        <tag>PHP</tag>
+        <tag>折腾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>告别云担忧：手把手教你本地部署AI大模型</title>
+    <url>/2024/07/23/%E5%91%8A%E5%88%AB%E4%BA%91%E6%8B%85%E5%BF%A7%EF%BC%9A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2AI%E5%A4%A7%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>当我们想跟AI对话时，把一些文件发送到云端可能会不安全，这时候，就需要本地部署了。本地部署指的是AI会调用电脑本地的算力进行计算，所以，电脑的性能不可以太差。下面是本地部署大模型的教程。</p>
+<blockquote>
+<p>请务必<strong>看完全文后再进行操作</strong><br>本教程使用Win10，如果您是Mac用户，请参考<a href="https://www.bilibili.com/video/BV18E421N7d4/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">Mac本地部署教程</a></p>
+</blockquote>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>下载<a href="https://ollama.com/">Ollama</a>,进入主页点击Download，选择自己的操作系统，点击下载</p>
+<blockquote>
+<p>您无需点击下方的注册按钮<br>下载后，CMD窗口输入<code>ollama</code>，出现类似以下内容代表成功</p>
+</blockquote>
+<p><img src="https://wmimg.com/i/1169/2025/02/67a59fe71f3c3.png" alt="image-20250207135323252"></p>
+<h3 id="下载大模型"><a href="#下载大模型" class="headerlink" title="下载大模型"></a>下载大模型</h3><p>1.下载完成后点击Win+R，“打开”栏输入cmd，回车<br>2.打开 <a href="https://ollama.com/">Ollama官网</a>，点击右上角的 <code>Search models</code>，输入你想下载的开源模型名称。找到模型后，复制页面中提供的下载命令到CMD窗口，回车开始下载。<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/981f90b17ddb311752af3.png" alt="屏幕截图 2024-07-23 102305"><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/325cfadebe623c477210f.png" alt="屏幕截图 2024-07-23 103510"></p>
+<blockquote>
+<p>每个模型的代码不一样，上图使用Qwen2-72b演示，请根据电脑性能选择下载的模型。一般来说，7b左右的模型适合大部分的电脑，我2016年的显卡都带的动。72b左右的模型则需要强大性能的电脑，它的安装包就足有40GB！<br>建议选择qwen2，因为它是迄今为止<strong>最强大的开源大模型</strong>，具体可以看<a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard">🤗 Open LLM Leaderboard</a>，您也可以选择自己喜欢的大模型，方法相同<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/644f91b62d0ef700595a1.png" alt="屏幕截图 2024-07-23 104504"></p>
+</blockquote>
+<p>如果下载到最后越来越慢，按Ctrl+C停止，再次输入下载命令重新下载，多试几次。</p>
+<h3 id="使用大模型"><a href="#使用大模型" class="headerlink" title="使用大模型"></a>使用大模型</h3><p>完成下载后，你将看到类似以下界面，这意味着一切准备就绪！<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/5f1b697686252b89d2f67.png" alt="屏幕截图 2024-07-23 105346"><br>测试一下<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/9ac0834164d52c326e335.png" alt="屏幕截图 2024-07-23 110142"></p>
+<blockquote>
+<p>要再次使用模型，重复上述<strong>下载大模型的第1-2步</strong>，但这次回车后将启动而不是重新下载模型。请确保Ollama程序正在运行。<br>由于Ollama位于国外，国内用户可能会遇到下载速度缓慢的问题。为此，我已将下载链接上传至网盘，你可以直接从那里下载，无需注册。<br><a href="https://www.123pan.com/s/hoPKVv-RMB63.html">123网盘下载</a><br>请忽略下载页的广告，解压缩后下载</p>
+</blockquote>
+<p>附上个命令：<code>ollama list</code>，查看模型列表。再次使用时，输入ollama run+NAME（模型名称）即可。</p>
+<p>删除模型：<code>ollama rm</code>+NAME</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>什么，界面不好看？<a href="/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/">下期博客</a>教大家获得更好地UI界面</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
+        <tag>如何____</tag>
+        <tag>折腾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何让本地部署的大模型有个优雅的界面</title>
+    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
+<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
+<h2 id="2025-2-7补充"><a href="#2025-2-7补充" class="headerlink" title="2025&#x2F;2&#x2F;7补充"></a>2025&#x2F;2&#x2F;7补充</h2><p>看到<a href="https://www.bilibili.com/video/BV1eHNpeREt6/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">这个视频</a>，这个浏览器扩展也值得推荐</p>
+<p><a href="https://www.crxsoso.com/webstore/detail/jfgfiigpkhlkbnfnbobbkinehhfdhndo">Page Assist - 本地 AI 模型的 Web UI | Chrome扩展 - Crx搜搜</a></p>
+<p><img src="https://wmimg.com/i/1169/2025/02/67a5a58e131dc.png" alt="Page Assist 界面"></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
+        <tag>如何____</tag>
+        <tag>折腾</tag>
       </tags>
   </entry>
   <entry>
@@ -1081,6 +1429,88 @@
       </categories>
       <tags>
         <tag>扒代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何流畅访问Github</title>
+    <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
+    <content><![CDATA[<blockquote>
+<p>水的一篇文，下周旅游更没时间写</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>众所周知，Github是全球最大的<strong>同性交友平台</strong>，但还是众所周知，Github现在是处于一个半墙不墙的状态，有用户访问会特别快，有用户压根进不去，本篇博客教大家如何流畅访问Github！</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>打开微软应用商店，搜索Watt Toolkit，这是大名鼎鼎的Steam++，只不过是改名了。这是一个开源软件，你可以去<a href="https://github.com/liushiyangFrsan/GitHub_WattToolkit">Github</a>查看，并且此软件上架了微软应用商店，安全性不必担心，但仍然不建议你打开任何敏感网站，这可能是<strong>触犯法律的</strong><br>下载完成后找到网络加速，勾选需要加速的网站，点击一键加速即可<br>这个软件还能加速其它网站，比如Steam游戏商店，各大国外网盘等</p>
+<h2 id="合法性"><a href="#合法性" class="headerlink" title="合法性"></a>合法性</h2><p>这是大家最关注的问题，我问了问AI</p>
+<hr>
+<p>反向代理是指服务器代理网络上的客户机请求，将请求转达给内部真实服务器，然后将结果返回给 Internet 客户端，代理服务器上没有任何网页资料。其工作原理是当用户浏览器发出一个 HTTP 请求时，通过域名解析将请求定向到反向代理服务器（如果要实现多个 WEB 服务器的反向代理，需要将多个 WEB 服务器的域名都指向反向代理服务器），由反向代理服务器处理器请求。反向代理一般只缓存可缓冲的数据（比如 html 网页和图片等），而一些 CGI 脚本程序或者 ASP 之类的程序不缓存，它根据从 WEB 服务器返回的 HTTP 头标记来缓冲静态页面。</p>
+<p>关于使用本地反向代理软件是否合法，需要根据具体情况来判断。如果使用反向代理软件的目的是为了绕过封锁限制访问的行为，则属于违法行为。根据《中华人民共和国计算机信息网络国际联网管理暂行规定》第六条规定，计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。<strong>如果是为了提高网络访问速度、增强网络安全性等合法目的，并且遵守相关的法律法规和服务条款，那么使用反向代理软件是合法的。</strong></p>
+<p>总的来说，在使用反向代理软件时，建议仔细阅读软件的使用说明和相关的法律法规，以确保自己的行为合法合规。</p>
+<hr>
+<p><del>我觉得还是魔法好用</del></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>如何____</tag>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开源模型比闭源强？Llama3.1-405b发布！</title>
+    <url>/2024/07/26/%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AF%94%E9%97%AD%E6%BA%90%E5%BC%BA%EF%BC%9FLlama3.1-405b%E5%8F%91%E5%B8%83%EF%BC%81/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前天，MetaAI发布了超大尺寸的开源模型——Llama3.1-405b，使用Ollama就可以部署，教程参照上上期博客，在cmd窗口输入部署命令即可</p>
+<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><table>
+<thead>
+<tr>
+<th>模型尺寸</th>
+<th>模型大小</th>
+<th>部署命令</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>llama3.1-8b</td>
+<td>4.7GB</td>
+<td><code>ollama run llama3.1:8b</code></td>
+</tr>
+<tr>
+<td>llama3.1-70b</td>
+<td>40GB</td>
+<td><code>ollama run llama3.1:70b</code></td>
+</tr>
+<tr>
+<td>llama3.1-405b</td>
+<td>231GB</td>
+<td><code>ollama run llama3.1:405b</code></td>
+</tr>
+</tbody></table>
+<h2 id="官方描述"><a href="#官方描述" class="headerlink" title="官方描述"></a>官方描述</h2><h3 id="Meta-Llama-3-1"><a href="#Meta-Llama-3-1" class="headerlink" title="Meta Llama 3.1"></a>Meta Llama 3.1</h3><p><img src="https://s21.ax1x.com/2024/08/21/pAieXKf.png" alt="4d0cab8e-952b-4c75-b110-1514d8db8fae"><br><strong>Llama 3.1</strong>模型系列可用： </p>
+<ul>
+<li><strong>8B</strong></li>
+<li><strong>70B</strong></li>
+<li><strong>405B</strong></li>
+</ul>
+<p>Llama 3.1 405B 是首个公开可用的模型，在常识、可操控性、数学、工具使用和多语言翻译等方面的先进能力上可与顶级人工智能模型相媲美。<br>8B 和 70B 模型的升级版本是多语言的，并且具有 128K 的显著更长的上下文长度、先进的工具使用能力和更强的整体推理能力。这使得 Meta 的最新模型能够支持高级用例，例如长篇文本摘要、多语言会话代理和编码助手。<br>Meta 还对其许可证进行了更改，允许开发人员使用 Llama 模型（包括 405B 模型）的输出以改进其他模型。</p>
+<p>对于此次发布，Meta 已在涵盖多种语言的 150 多个基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在一系列任务上与领先的基础模型（包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet）具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。 </p>
+<h4 id="模型评估"><a href="#模型评估" class="headerlink" title="模型评估"></a>模型评估</h4><p>对于此次发布，Meta 已在超过 150 个涵盖多种语言的基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet 在内的一系列任务中与领先的基础模型具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。<br><img src="https://s21.ax1x.com/2024/08/21/pAiejr8.png" alt="73b11a5e-84e9-4397-9d47-f0299a6294b3"></p>
+<p><img src="https://s21.ax1x.com/2024/08/21/pAievqS.png" alt="ad042a1c-bbc7-47de-bbbf-78a3cfc13485"></p>
+<p><img src="https://s21.ax1x.com/2024/08/21/pAiezVg.png" alt="2d582df5-ce45-4326-85c5-254c917554b2"></p>
+<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><ul>
+<li><a href="https://ai.meta.com/blog/meta-llama-3-1/">Meta AI Llama 3.1 launch blog post</a></li>
+</ul>
+<p>由<strong>豆包</strong>翻译</p>
+<hr>
+<p>什么，你想说你要在自己电脑上部署405b，很遗憾，<strong>你的电脑几乎不支持运转如此大规格的模型</strong>，你可以继续玩上次部署的Qwen2<br>我问了问通义千问，这是它说的<br>Ask：模型尺寸为405b的开源模型需要怎样的电脑可以部署<br>Answer：对于一个拥有4050亿参数的大规模语言模型，如Meta即将发布的Llama 3-405B模型，部署这样的模型需要非常强大的计算资源。以下是一些推荐的硬件配置要求：</p>
+<p>CPU<br>处理器: 高性能多核心处理器，例如Intel Xeon或AMD EPYC系列。这些处理器通常具有较多的核心数和较高的时钟速度，适合处理并行计算任务。<br>核心数量: 至少16核心，32核心或更多将更为理想。<br>缓存: 大量的三级缓存有助于提高性能。<br>GPU<br>显卡: 高端的专业级GPU，例如NVIDIA A100、H100或类似的高性能GPU。<br>显存: 至少32GB或更高，考虑到模型的大小，可能需要更大的显存。<br>CUDA核心数量: 越多越好，以支持并行处理能力。<br>内存 (RAM)<br>系统内存: 至少128GB或更高，以便能够存储模型和其他相关数据。<br>存储<br>SSD: 快速NVMe SSD用于操作系统和应用程序安装。<br>额外存储: 可能需要TB级别的存储空间来存放模型文件和其他相关数据。<br>其他组件<br>电源供应器 (PSU): 高功率且高效的电源供应器，至少850W以上。<br>冷却系统: 高效的散热解决方案，包括水冷系统。<br>主板: 支持所需CPU和GPU的高端主板，带有足够的PCI-E插槽。<br>网络连接<br>高速网络接口: 为了数据传输，可能需要10Gbps或更快的网络接口卡。<br>软件环境<br>操作系统: Linux发行版，比如Ubuntu Server，因为大多数深度学习框架都针对Linux进行了优化。<br>编程框架: PyTorch或其他支持大规模模型的框架。<br>驱动程序: 最新的GPU驱动程序以获得最佳性能。<br>请注意，<strong>上述配置是非常高端的，并且成本极高。部署这样规模的模型通常是在数据中心或云环境中进行的，而不是个人电脑。如果是在本地部署，那么这将是一个相当昂贵的投资。</strong>另外，由于模型的复杂性和计算需求，可能还需要分布式计算技术来分摊处理负载。</p>
+<h2 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h2><p>虽然不能本地部署，但可以线上体验呀（都需要魔法）</p>
+<h3 id="方式1：优先使用HuggingFace"><a href="#方式1：优先使用HuggingFace" class="headerlink" title="方式1：优先使用HuggingFace"></a>方式1：优先使用<a href="https://huggingface.co/">HuggingFace</a></h3><p>进入主页往下滑，找到“Trending on this week”→“Spaces”→“Llama3.1-405B”，点击后无需注册即可聊天，需要先调教下让它说中文。虽然加载进页面慢，但回复真的炒鸡快！<br><img src="https://github.com/user-attachments/assets/20099c67-9d6d-4b76-9eeb-50913a27405f" alt="屏幕截图_26-7-2024_17583_huggingface co"></p>
+<h3 id="方式2：使用MetaAI"><a href="#方式2：使用MetaAI" class="headerlink" title="方式2：使用MetaAI"></a>方式2：使用<a href="https://www.meta.ai/">MetaAI</a></h3><p>注册后即可使用</p>
+]]></content>
+      <categories>
+        <category>科技新闻</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
       </tags>
   </entry>
   <entry>
@@ -1449,346 +1879,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何流畅访问Github</title>
-    <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
-    <content><![CDATA[<blockquote>
-<p>水的一篇文，下周旅游更没时间写</p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>众所周知，Github是全球最大的<strong>同性交友平台</strong>，但还是众所周知，Github现在是处于一个半墙不墙的状态，有用户访问会特别快，有用户压根进不去，本篇博客教大家如何流畅访问Github！</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>打开微软应用商店，搜索Watt Toolkit，这是大名鼎鼎的Steam++，只不过是改名了。这是一个开源软件，你可以去<a href="https://github.com/liushiyangFrsan/GitHub_WattToolkit">Github</a>查看，并且此软件上架了微软应用商店，安全性不必担心，但仍然不建议你打开任何敏感网站，这可能是<strong>触犯法律的</strong><br>下载完成后找到网络加速，勾选需要加速的网站，点击一键加速即可<br>这个软件还能加速其它网站，比如Steam游戏商店，各大国外网盘等</p>
-<h2 id="合法性"><a href="#合法性" class="headerlink" title="合法性"></a>合法性</h2><p>这是大家最关注的问题，我问了问AI</p>
-<hr>
-<p>反向代理是指服务器代理网络上的客户机请求，将请求转达给内部真实服务器，然后将结果返回给 Internet 客户端，代理服务器上没有任何网页资料。其工作原理是当用户浏览器发出一个 HTTP 请求时，通过域名解析将请求定向到反向代理服务器（如果要实现多个 WEB 服务器的反向代理，需要将多个 WEB 服务器的域名都指向反向代理服务器），由反向代理服务器处理器请求。反向代理一般只缓存可缓冲的数据（比如 html 网页和图片等），而一些 CGI 脚本程序或者 ASP 之类的程序不缓存，它根据从 WEB 服务器返回的 HTTP 头标记来缓冲静态页面。</p>
-<p>关于使用本地反向代理软件是否合法，需要根据具体情况来判断。如果使用反向代理软件的目的是为了绕过封锁限制访问的行为，则属于违法行为。根据《中华人民共和国计算机信息网络国际联网管理暂行规定》第六条规定，计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。<strong>如果是为了提高网络访问速度、增强网络安全性等合法目的，并且遵守相关的法律法规和服务条款，那么使用反向代理软件是合法的。</strong></p>
-<p>总的来说，在使用反向代理软件时，建议仔细阅读软件的使用说明和相关的法律法规，以确保自己的行为合法合规。</p>
-<hr>
-<p><del>我觉得还是魔法好用</del></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>Github</tag>
-        <tag>科普</tag>
-        <tag>如何____</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何让本地部署的大模型有个优雅的界面</title>
-    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
-<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
-<h2 id="2025-2-7补充"><a href="#2025-2-7补充" class="headerlink" title="2025&#x2F;2&#x2F;7补充"></a>2025&#x2F;2&#x2F;7补充</h2><p>看到<a href="https://www.bilibili.com/video/BV1eHNpeREt6/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">这个视频</a>，这个浏览器扩展也值得推荐</p>
-<p><a href="https://www.crxsoso.com/webstore/detail/jfgfiigpkhlkbnfnbobbkinehhfdhndo">Page Assist - 本地 AI 模型的 Web UI | Chrome扩展 - Crx搜搜</a></p>
-<p><img src="https://wmimg.com/i/1169/2025/02/67a5a58e131dc.png" alt="Page Assist 界面"></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>AI纪元</tag>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Gmeek框架：18秒拥有属于自己的个人博客！</title>
-    <url>/2024/08/20/Gmeek%E6%A1%86%E6%9E%B6%EF%BC%9A18%E7%A7%92%E6%8B%A5%E6%9C%89%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
-    <content><![CDATA[<blockquote>
-<p>温馨提示，本文章转载自<a href="https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html">Meekdai-Gmeek快速上手</a>，但我认为本文比原文更加细致</p>
-</blockquote>
-<p><a href="https://github.com/Meekdai/Gmeek">Gmeek</a> 是一个博客框架，超轻量级个人博客模板，完全基于<code>Github Pages</code> 、 <code>Github Issues</code> 和 <code>Github Actions</code>，可以称作<code>All in Github</code>。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。</p>
-<h2 id="一、安装"><a href="#一、安装" class="headerlink" title="一、安装"></a>一、安装</h2><blockquote>
-<p>安装及其简单，但是也要认真看下面的步骤，一步一步来。</p>
-</blockquote>
-<p>【创建仓库】点击<a href="https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai">通过模板创建仓库</a>，建议仓库名称为<code>XXX.github.io</code>，其中<code>XXX</code>为你的github用户名。（例如我的名字是Peter267，则我的仓库名称应为peter267.github.io，全部小写）</p>
-<p>【启用Pages】在仓库的设置<code>Setting</code>s中<code>Pages-&gt;Build and deployment-&gt;Source</code>下面选择<code>Github Actions</code>。<br>  <img src="https://s21.ax1x.com/2024/08/20/pAPIwgU.png" alt="pAPIwgU.png"></p>
-<p>【开始写作】打开一篇issue，开始写作，并且必须添加一个标签Label（至少添加一个），再保存issue（点击Submit new issue）后会自动创建博客内容，片刻后可通过<a href="https://xxx.github.io/">https://xxx.github.io/</a> 访问（可进入Actions页面查看构建进度）。</p>
-<p> <img src="https://s21.ax1x.com/2024/08/20/pAPI6ER.png" alt="pAPI6ER.png"></p>
-<p> <img src="https://s21.ax1x.com/2024/08/20/pAPIRC6.png" alt="pAPIRC6.png"><br><img src="https://s21.ax1x.com/2024/08/20/pAPokGV.png" alt="pAPokGV.png"></p>
-<p>【手动全局生成】这个步骤只有在修改config.json 文件或者出现奇怪问题的时候，需要执行。</p>
-<p><img src="https://s21.ax1x.com/2024/08/20/pAPouZ9.png" alt="pAPouZ9.png"></p>
-<h2 id="二、配置文件"><a href="#二、配置文件" class="headerlink" title="二、配置文件"></a>二、配置文件</h2><blockquote>
-<p>按照安装步骤成功搭建好后，就可以阅读下面的内容修改配置文件啦。<br>注意修改配置文件后一定要手动全局生成一次，不然会报错。<br>如果对<code>json</code>格式不熟悉，建议先简单学习一下。</p>
-</blockquote>
-<p><code>config.json</code> 文件就是配置文件，在创建的仓库内可以找到，对应修改为自己的即可。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Meekdai&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;童话是一种生活态度，仅此而已。&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://github.githubassets.com/favicons/favicon.svg&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>以上是必须的字段，下面是可以自定义字段的描述，可以选择加入到<code>config.json</code>中。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&quot;displayTitle&quot;:&quot;Meekdai&quot;,</span><br><span class="line">&quot;homeUrl&quot;:&quot;http://blog.meekdai.com&quot;,</span><br><span class="line">&quot;faviconUrl&quot;:&quot;https://github.githubassets.com/favicons/favicon.svg&quot;,</span><br><span class="line">&quot;email&quot;:&quot;meekdai@163.com&quot;,</span><br><span class="line">&quot;startSite&quot;:&quot;02/16/2015&quot;,</span><br><span class="line">&quot;filingNum&quot;:&quot;浙ICP备20023628号&quot;,</span><br><span class="line">&quot;onePageListNum&quot;:15,</span><br><span class="line">&quot;singlePage&quot;:[&quot;about&quot;],</span><br><span class="line">&quot;iconList&quot;:&#123;&quot;music&quot;:&quot;M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z&quot;&#125;,</span><br><span class="line">&quot;exlink&quot;:&#123;&quot;music&quot;:&quot;https://music.meekdai.com&quot;&#125;,</span><br><span class="line">&quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">&quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">&quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">&quot;UTC&quot;:8,</span><br><span class="line">&quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">&quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">&quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">&quot;urlMode&quot;:&quot;pinyin&quot;,</span><br><span class="line">&quot;style&quot;:&quot;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&quot;,</span><br><span class="line">&quot;head&quot;:&quot;&quot;,</span><br><span class="line">&quot;allHead&quot;:&quot;&quot;,</span><br><span class="line">&quot;indexStyle&quot;:&quot;&quot;,</span><br><span class="line">&quot;indexScript&quot;:&quot;&quot;,</span><br><span class="line">&quot;showPostSource&quot;:1,</span><br><span class="line">&quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">&quot;bottomText&quot;:&quot;转载请注明出处&quot;,</span><br><span class="line">&quot;ogImage&quot;:&quot;https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg&quot;,</span><br><span class="line">&quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">&quot;needComment&quot;:0,</span><br></pre></td></tr></table></figure>
-<p> <img src="https://s21.ax1x.com/2024/08/20/pAPoTQU.png" alt="pAPoTQU.png"></p>
-<table>
-<thead>
-<tr>
-<th>配置参数</th>
-<th>说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>title</td>
-<td>【必填】博客标题</td>
-</tr>
-<tr>
-<td>subTitle</td>
-<td>【必填】博客描述&amp;自述</td>
-</tr>
-<tr>
-<td>avatarUrl</td>
-<td>【必填】博客头像</td>
-</tr>
-<tr>
-<td>GMEEK_VERSION</td>
-<td>【必填】Gmeek版本，一般写last也可以用具体tag版本</td>
-</tr>
-<tr>
-<td>displayTitle</td>
-<td>用于头像后面的标题展示，如果和<code>title</code>一致则不用添加</td>
-</tr>
-<tr>
-<td>homeUrl</td>
-<td>博客的主页地址，自定义域名时需要配置</td>
-</tr>
-<tr>
-<td>faviconUrl</td>
-<td>页面的favicon地址，如果和<code>avatarUrl</code>一致则不用添加</td>
-</tr>
-<tr>
-<td>email</td>
-<td>用于自动提交仓库时用，不添加也可以</td>
-</tr>
-<tr>
-<td>startSite</td>
-<td>用于页面底部显示网站运行天数</td>
-</tr>
-<tr>
-<td>filingNum</td>
-<td>用于页面底部显示备案信息（未备案请不要添加）</td>
-</tr>
-<tr>
-<td>onePageListNum</td>
-<td>用于首页每页展示的文章数量</td>
-</tr>
-<tr>
-<td>singlePage</td>
-<td>自定义独立页面，例如<code>about</code>或者<code>link</code>等</td>
-</tr>
-<tr>
-<td>iconList</td>
-<td>用于定义singlePage按钮展示的<a href="https://primer.style/foundations/icons/#16px">SVG图标</a> (16px)，<code>about</code>和<code>link</code>内置无需定义</td>
-</tr>
-<tr>
-<td>exlink</td>
-<td>用于自定义首页右上角圆形按钮到外部链接功能，按钮图标定义在iconList中</td>
-</tr>
-<tr>
-<td>commentLabelColor</td>
-<td>用于自定义显示评论数量标签的颜色</td>
-</tr>
-<tr>
-<td>yearColorList</td>
-<td>用于自定义显示不同年份标签的颜色</td>
-</tr>
-<tr>
-<td>i18n</td>
-<td>用于定义博客语言，目前支持<code>EN</code>&#x2F;<code>CN</code>&#x2F;<code>RU</code>   （英文&#x2F;中文&#x2F;俄文）</td>
-</tr>
-<tr>
-<td>themeMode</td>
-<td>用于定义主题模式，默认为<code>manual</code>，也可选择<code>fix</code><a href="https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-liang-an-zhu-ti-pei-zhi-fang-shi.html">详细说明</a></td>
-</tr>
-<tr>
-<td>dayTheme</td>
-<td>用于定义<a href="https://github.com/settings/appearance">亮主题</a></td>
-</tr>
-<tr>
-<td>nightTheme</td>
-<td>用于定义<a href="https://github.com/settings/appearance">暗主题</a></td>
-</tr>
-<tr>
-<td>urlMode</td>
-<td>用于定义文章链接生成模式，目前支持<code>pinyin</code>&#x2F;<code>issue</code>&#x2F;<code>ru_translit</code>  （文章标题拼音&#x2F;issue序号（例：post7））&#x2F;俄文</td>
-</tr>
-<tr>
-<td>style</td>
-<td>用于自定义文章页CSS</td>
-</tr>
-<tr>
-<td>script</td>
-<td>用于自定义文章页JavaScript</td>
-</tr>
-<tr>
-<td>head</td>
-<td>用于自定义文章页head内容</td>
-</tr>
-<tr>
-<td>allHead</td>
-<td>用于自定义所有页面head内容</td>
-</tr>
-<tr>
-<td>indexStyle</td>
-<td>用于自定义首页CSS</td>
-</tr>
-<tr>
-<td>indexScript</td>
-<td>用于自定义首页JavaScript</td>
-</tr>
-<tr>
-<td>showPostSource</td>
-<td>设置为1则在文章页显示issue链接按钮，设置为0则不显示</td>
-</tr>
-<tr>
-<td>rssSplit</td>
-<td>设置RSS输出的截断符号，默认<code>sentence</code>为第一句话，可配置其他特殊符号</td>
-</tr>
-<tr>
-<td>bottomText</td>
-<td>用于设置文章页面右下角显示的内容</td>
-</tr>
-<tr>
-<td>ogImage</td>
-<td>用于设置Open Graph协议展示的图片</td>
-</tr>
-<tr>
-<td>primerCSS</td>
-<td>用于设置primer.css的CDN地址，默认使用<a href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css">南科大</a></td>
-</tr>
-<tr>
-<td>needComment</td>
-<td>用于设置是否需要评论功能，1开启评论，0关闭（如果想使用评论，请<a href="https://github.com/apps/utterances">下载utterances评论</a>）</td>
-</tr>
-</tbody></table>
-<h2 id="三、代码示范"><a href="#三、代码示范" class="headerlink" title="三、代码示范"></a>三、代码示范</h2><h3 id="✅-正确代码"><a href="#✅-正确代码" class="headerlink" title="✅ 正确代码"></a>✅ 正确代码</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">    &quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">    &quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">    &quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">    &quot;UTC&quot;:8,</span><br><span class="line">    &quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">    &quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">    &quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">    &quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">    &quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">    &quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">    &quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">    &quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">    &quot;needComment&quot;:1,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>代码开头结尾应该有 “{” 和 “}” 符号</li>
-<li>每行代码后方有个英文逗号（,），最后一行代码除外</li>
-<li>每行代码开头空四格（ “{”和 “}”除外）</li>
-</ul>
-<h3 id="❌-错误代码"><a href="#❌-错误代码" class="headerlink" title="❌ 错误代码"></a>❌ 错误代码</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">&#125;</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">    &quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">    &quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">    &quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">    &quot;UTC&quot;:8,</span><br><span class="line">    &quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">    &quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">    &quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">    &quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">    &quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">    &quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">    &quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">    &quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">    &quot;needComment&quot;:1,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">    &quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br></pre></td></tr></table></figure>
-<p>问题原因：格式错误</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;title&quot;:&quot;Peter&#x27;s Blog&quot;,</span><br><span class="line">    &quot;subTitle&quot;:&quot;无限进步！&quot;,</span><br><span class="line">    &quot;avatarUrl&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg&quot;,</span><br><span class="line">    &quot;faviconUrl&quot;:&quot;https://vip.helloimg.com/i/2024/07/31/66aa2568dfba1.png&quot;,</span><br><span class="line">&#125;</span><br><span class="line">    &quot;displayTitle&quot;:&quot;Peter Tech&quot;,</span><br><span class="line">    &quot;singlePage&quot;:[&quot;link&quot;,&quot;about&quot;,&quot;thinkbox&quot;],</span><br><span class="line">    &quot;iconList&quot;:&#123;&quot;thinkbox&quot;:&quot;m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z&quot;&#125;,</span><br><span class="line">    &quot;homeUrl&quot;:&quot;https://peter267.github.io/&quot;,</span><br><span class="line">    &quot;email&quot;:&quot;miaomiaoweiqi@163.com&quot;,</span><br><span class="line">    &quot;startSite&quot;:&quot;07/18/2024&quot;,</span><br><span class="line">    &quot;onePageListNum&quot;:15,</span><br><span class="line">&quot;commentLabelColor&quot;:&quot;#006b75&quot;,</span><br><span class="line">&quot;yearColorList&quot;:[&quot;#bc4c00&quot;, &quot;#0969da&quot;, &quot;#1f883d&quot;, &quot;#A333D0&quot;],</span><br><span class="line">&quot;i18n&quot;:&quot;CN&quot;,</span><br><span class="line">&quot;UTC&quot;:8,</span><br><span class="line">&quot;themeMode&quot;:&quot;manual&quot;,</span><br><span class="line">&quot;dayTheme&quot;:&quot;light&quot;,</span><br><span class="line">&quot;nightTheme&quot;:&quot;dark_colorblind&quot;,</span><br><span class="line">&quot;urlMode&quot;:&quot;issue&quot;,</span><br><span class="line">&quot;rssSplit&quot;:&quot;sentence&quot;,</span><br><span class="line">&quot;bottomText&quot;:&quot;❤️ 转载文章请注明出处，谢谢！❤️&quot;,</span><br><span class="line">&quot;ogImage&quot;:&quot;https://i1.hdslb.com/bfs/face/4963f665e12a4703a1c54adc252fcae4b7e93005.jpg@240w_240h_1c_1s_!web-avatar-nav.avif&quot;,</span><br><span class="line">&quot;primerCSS&quot;:&quot;&lt;link href=&#x27;https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css&#x27; rel=&#x27;stylesheet&#x27; /&gt;&quot;,</span><br><span class="line">&quot;needComment&quot;:1,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script&gt;document.getElementById(&#x27;cmButton&#x27;).click();&lt;/script&gt;&quot;,</span><br><span class="line">&quot;allHead&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/assets/GmeekVercount.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js&#x27;&gt;&lt;/script&gt;&lt;script src=&#x27;https://blog.meekdai.com/Gmeek/plugins/lightbox.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br><span class="line">&quot;GMEEK_VERSION&quot;:&quot;last&quot;</span><br></pre></td></tr></table></figure>
-<p>问题原因：缩进错误</p>
-<h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><h3 id="1-搭建不成功"><a href="#1-搭建不成功" class="headerlink" title="1. 搭建不成功"></a>1. 搭建不成功</h3><p>多半是没有按照安装步骤来，其实搭建就这2步，不要自己乱点乱设置，就不会有问题。</p>
-<ul>
-<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/14">https://github.com/Meekdai/Gmeek/issues/14</a></li>
-<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/18">https://github.com/Meekdai/Gmeek/issues/18</a></li>
-<li>案例三：<a href="https://github.com/Meekdai/Gmeek/issues/20">https://github.com/Meekdai/Gmeek/issues/20</a></li>
-</ul>
-<h3 id="2-Actions执行失败"><a href="#2-Actions执行失败" class="headerlink" title="2. Actions执行失败"></a>2. Actions执行失败</h3><p>修改了<code>config.json</code>配置文件后，需要全局生成。另外label标签没有打会出现这个问题。<br>建议通过Actions-&gt;build Gmeek-&gt;Run workflow-&gt;里面的按钮全局重新生成一次</p>
-<ul>
-<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/1">https://github.com/Meekdai/Gmeek/issues/1</a></li>
-<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/10">https://github.com/Meekdai/Gmeek/issues/10</a></li>
-</ul>
-<h3 id="3-导入以前的文章"><a href="#3-导入以前的文章" class="headerlink" title="3. 导入以前的文章"></a>3. 导入以前的文章</h3><p>如需修改发布时间，可以在文章最后一行添加如下代码。里面的时间是采用时间戳的形式，可以用如下<a href="https://tool.lu/timestamp">网站</a>转换。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;timestamp&quot;:1490764800&#125;## --&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="4-自定义单篇文章参数"><a href="#4-自定义单篇文章参数" class="headerlink" title="4. 自定义单篇文章参数"></a>4. 自定义单篇文章参数</h3><p>自定义单篇文章页面的<code>style</code>和<code>script</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;&#125;## --&gt;</span><br></pre></td></tr></table></figure>
-
-<!-- ##{"script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"}## -->
-<h3 id="5-多种自定义参数"><a href="#5-多种自定义参数" class="headerlink" title="5. 多种自定义参数"></a>5. 多种自定义参数</h3><p>可同时一起添加多种自定义参数：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ##&#123;&quot;script&quot;:&quot;&lt;script async src=&#x27;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&#x27;&gt;&lt;/script&gt;&quot;,&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;,&quot;timestamp&quot;:1490764800&#125;## --&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="6-自定义全局文章参数"><a href="#6-自定义全局文章参数" class="headerlink" title="6. 自定义全局文章参数"></a>6. 自定义全局文章参数</h3><p>添加全局文章页面的<code>style</code>和<code>script</code>，在<code>config.json</code>文件中添加</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&quot;style&quot;:&quot;&lt;style&gt;#postBody&#123;font-size:20px&#125;&lt;/style&gt;&quot;,</span><br><span class="line">&quot;script&quot;:&quot;&lt;script async src=&#x27;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&#x27;&gt;&lt;/script&gt;&quot;,</span><br></pre></td></tr></table></figure>
-
-<h3 id="7-置顶博客文章"><a href="#7-置顶博客文章" class="headerlink" title="7. 置顶博客文章"></a>7. 置顶博客文章</h3><p>只需要<code>Pin issue</code>后，手动全局生成一次即可。</p>
-<h3 id="8-utteranc报错"><a href="#8-utteranc报错" class="headerlink" title="8. utteranc报错"></a>8. utteranc报错</h3><p>如果在评论里面登录后评论报错，可直接按照提示安装utteranc app即可</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: utterances is not installed on xxx/xxx.github.io. If you own this repo, install the app. Read more about this change in the PR.</span><br></pre></td></tr></table></figure>
-
-<h3 id="9-删除文章"><a href="#9-删除文章" class="headerlink" title="9. 删除文章"></a>9. 删除文章</h3><p>只需要Close issue或者Delete issue后，再手动全局生成一次即可。</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>Github</tag>
-        <tag>如何____</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>开源模型比闭源强？Llama3.1-405b发布！</title>
-    <url>/2024/07/26/%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AF%94%E9%97%AD%E6%BA%90%E5%BC%BA%EF%BC%9FLlama3.1-405b%E5%8F%91%E5%B8%83%EF%BC%81/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前天，MetaAI发布了超大尺寸的开源模型——Llama3.1-405b，使用Ollama就可以部署，教程参照上上期博客，在cmd窗口输入部署命令即可</p>
-<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><table>
-<thead>
-<tr>
-<th>模型尺寸</th>
-<th>模型大小</th>
-<th>部署命令</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>llama3.1-8b</td>
-<td>4.7GB</td>
-<td><code>ollama run llama3.1:8b</code></td>
-</tr>
-<tr>
-<td>llama3.1-70b</td>
-<td>40GB</td>
-<td><code>ollama run llama3.1:70b</code></td>
-</tr>
-<tr>
-<td>llama3.1-405b</td>
-<td>231GB</td>
-<td><code>ollama run llama3.1:405b</code></td>
-</tr>
-</tbody></table>
-<h2 id="官方描述"><a href="#官方描述" class="headerlink" title="官方描述"></a>官方描述</h2><h3 id="Meta-Llama-3-1"><a href="#Meta-Llama-3-1" class="headerlink" title="Meta Llama 3.1"></a>Meta Llama 3.1</h3><p><img src="https://s21.ax1x.com/2024/08/21/pAieXKf.png" alt="4d0cab8e-952b-4c75-b110-1514d8db8fae"><br><strong>Llama 3.1</strong>模型系列可用： </p>
-<ul>
-<li><strong>8B</strong></li>
-<li><strong>70B</strong></li>
-<li><strong>405B</strong></li>
-</ul>
-<p>Llama 3.1 405B 是首个公开可用的模型，在常识、可操控性、数学、工具使用和多语言翻译等方面的先进能力上可与顶级人工智能模型相媲美。<br>8B 和 70B 模型的升级版本是多语言的，并且具有 128K 的显著更长的上下文长度、先进的工具使用能力和更强的整体推理能力。这使得 Meta 的最新模型能够支持高级用例，例如长篇文本摘要、多语言会话代理和编码助手。<br>Meta 还对其许可证进行了更改，允许开发人员使用 Llama 模型（包括 405B 模型）的输出以改进其他模型。</p>
-<p>对于此次发布，Meta 已在涵盖多种语言的 150 多个基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在一系列任务上与领先的基础模型（包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet）具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。 </p>
-<h4 id="模型评估"><a href="#模型评估" class="headerlink" title="模型评估"></a>模型评估</h4><p>对于此次发布，Meta 已在超过 150 个涵盖多种语言的基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet 在内的一系列任务中与领先的基础模型具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。<br><img src="https://s21.ax1x.com/2024/08/21/pAiejr8.png" alt="73b11a5e-84e9-4397-9d47-f0299a6294b3"></p>
-<p><img src="https://s21.ax1x.com/2024/08/21/pAievqS.png" alt="ad042a1c-bbc7-47de-bbbf-78a3cfc13485"></p>
-<p><img src="https://s21.ax1x.com/2024/08/21/pAiezVg.png" alt="2d582df5-ce45-4326-85c5-254c917554b2"></p>
-<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><ul>
-<li><a href="https://ai.meta.com/blog/meta-llama-3-1/">Meta AI Llama 3.1 launch blog post</a></li>
-</ul>
-<p>由<strong>豆包</strong>翻译</p>
-<hr>
-<p>什么，你想说你要在自己电脑上部署405b，很遗憾，<strong>你的电脑几乎不支持运转如此大规格的模型</strong>，你可以继续玩上次部署的Qwen2<br>我问了问通义千问，这是它说的<br>Ask：模型尺寸为405b的开源模型需要怎样的电脑可以部署<br>Answer：对于一个拥有4050亿参数的大规模语言模型，如Meta即将发布的Llama 3-405B模型，部署这样的模型需要非常强大的计算资源。以下是一些推荐的硬件配置要求：</p>
-<p>CPU<br>处理器: 高性能多核心处理器，例如Intel Xeon或AMD EPYC系列。这些处理器通常具有较多的核心数和较高的时钟速度，适合处理并行计算任务。<br>核心数量: 至少16核心，32核心或更多将更为理想。<br>缓存: 大量的三级缓存有助于提高性能。<br>GPU<br>显卡: 高端的专业级GPU，例如NVIDIA A100、H100或类似的高性能GPU。<br>显存: 至少32GB或更高，考虑到模型的大小，可能需要更大的显存。<br>CUDA核心数量: 越多越好，以支持并行处理能力。<br>内存 (RAM)<br>系统内存: 至少128GB或更高，以便能够存储模型和其他相关数据。<br>存储<br>SSD: 快速NVMe SSD用于操作系统和应用程序安装。<br>额外存储: 可能需要TB级别的存储空间来存放模型文件和其他相关数据。<br>其他组件<br>电源供应器 (PSU): 高功率且高效的电源供应器，至少850W以上。<br>冷却系统: 高效的散热解决方案，包括水冷系统。<br>主板: 支持所需CPU和GPU的高端主板，带有足够的PCI-E插槽。<br>网络连接<br>高速网络接口: 为了数据传输，可能需要10Gbps或更快的网络接口卡。<br>软件环境<br>操作系统: Linux发行版，比如Ubuntu Server，因为大多数深度学习框架都针对Linux进行了优化。<br>编程框架: PyTorch或其他支持大规模模型的框架。<br>驱动程序: 最新的GPU驱动程序以获得最佳性能。<br>请注意，<strong>上述配置是非常高端的，并且成本极高。部署这样规模的模型通常是在数据中心或云环境中进行的，而不是个人电脑。如果是在本地部署，那么这将是一个相当昂贵的投资。</strong>另外，由于模型的复杂性和计算需求，可能还需要分布式计算技术来分摊处理负载。</p>
-<h2 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h2><p>虽然不能本地部署，但可以线上体验呀（都需要魔法）</p>
-<h3 id="方式1：优先使用HuggingFace"><a href="#方式1：优先使用HuggingFace" class="headerlink" title="方式1：优先使用HuggingFace"></a>方式1：优先使用<a href="https://huggingface.co/">HuggingFace</a></h3><p>进入主页往下滑，找到“Trending on this week”→“Spaces”→“Llama3.1-405B”，点击后无需注册即可聊天，需要先调教下让它说中文。虽然加载进页面慢，但回复真的炒鸡快！<br><img src="https://github.com/user-attachments/assets/20099c67-9d6d-4b76-9eeb-50913a27405f" alt="屏幕截图_26-7-2024_17583_huggingface co"></p>
-<h3 id="方式2：使用MetaAI"><a href="#方式2：使用MetaAI" class="headerlink" title="方式2：使用MetaAI"></a>方式2：使用<a href="https://www.meta.ai/">MetaAI</a></h3><p>注册后即可使用</p>
-]]></content>
-      <categories>
-        <category>科技新闻</category>
-      </categories>
-      <tags>
-        <tag>AI纪元</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站故障说明</title>
-    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
-<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
-<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
-<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
-<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
-<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
-<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
-<p>祝好</p>
-<p>[Peter267]</p>
-<ul>
-<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
-<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
-</ul>
-]]></content>
-      <categories>
-        <category>网站公告</category>
-      </categories>
-      <tags>
-        <tag>其他</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>怎样才算见过世面？这是我听过最好的答案</title>
     <url>/2024/11/30/%E6%80%8E%E6%A0%B7%E6%89%8D%E7%AE%97%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2%EF%BC%9F%E8%BF%99%E6%98%AF%E6%88%91%E5%90%AC%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E7%AD%94%E6%A1%88/</url>
     <content><![CDATA[<blockquote>
@@ -1826,120 +1916,6 @@
       </categories>
       <tags>
         <tag>锵锵论道</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客图床新方案——自部署LightPicture</title>
-    <url>/2024/09/22/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E6%96%B0%E6%96%B9%E6%A1%88%E2%80%94%E2%80%94%E8%87%AA%E9%83%A8%E7%BD%B2LightPicture/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近我苦于寻找一个可以永久使用的图床，看了看，好像只能是自己部署，那就来吧。本期博客教大家使用小皮面板本地部署图床。</p>
-<h2 id="为什么是LightPicture"><a href="#为什么是LightPicture" class="headerlink" title="为什么是LightPicture"></a>为什么是LightPicture</h2><blockquote>
-<p>其实很想用兰空，但我不会啊</p>
-</blockquote>
-<p>LightPicture是开源免费的图床工具，界面颜值很高，同时支持多用户，使用邮箱发送验证码注册等。</p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><h3 id="Lightpicture文件"><a href="#Lightpicture文件" class="headerlink" title="Lightpicture文件"></a>Lightpicture文件</h3><p>不知道为啥，LightPicture官方下载地址没了，我把文件放在网盘里了，文末自取</p>
-<h3 id="PhpStudy"><a href="#PhpStudy" class="headerlink" title="PhpStudy"></a>PhpStudy</h3><p>您需要下载<a href="https://old.xp.cn/">PhpStudy（小皮面板）</a>，并将下载好并解压的LightPicture文件放到小皮的<code>WWW</code>文件夹下，如下图<img src="https://wmimg.com/i/1169/2024/09/66efe72bbcbd6.png" alt="image-20240921144204946.png"></p>
-<p>打开小皮，启动小皮面板，打开软件管理&#x3D;&gt;php，安装7.2~7.4版本的php，其他配置（如MySQL和Nginx）同理（Mysql版本 ≥ 5.5）<img src="https://wmimg.com/i/1169/2024/09/66efe7a3910ed.png" alt="圈出来的都可以"></p>
-<p>现在您已经准备完成，来看看怎么部署</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>打开小皮，启动MySQL和Nginx，进入网站&#x3D;&gt;创建网站</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe7e4e21e1.png" alt="image-20240921145703229.png"></p>
-<p>点击后相关配置如下<img src="https://wmimg.com/i/1169/2024/09/66efe802a588c.png" alt="image-20240921150157196.png"></p>
-<p>完成后点击确认。点击管理&#x3D;&gt;网站首页设置，填入以下内容，点击确认。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">index.html error index.html index.php</span><br></pre></td></tr></table></figure>
-
-<p>接着，我们还需要修改一些文件</p>
-<p>找到lightpicture文件夹，点击public,找到名称为<code>nginx.htaccess</code>的文件，用记事本打开，输入以下内容保存即可</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">location / &#123; </span><br><span class="line">   if (!-e $request_filename) &#123;</span><br><span class="line">   		rewrite  ^(.*)$  /index.php?s=/$1  last;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>浏览器输入<code>localhost:端口号/install</code>，进入安装界面。举个例子，我填入的端口号是<code>82</code>，我就需要在浏览器输入<code>localhost:82/install</code></p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe823dab22.png" alt="image-20240922113925332.png"></p>
-<p>在创建数据时填入您创建数据库时的<code>数据库名</code>，<code>数据库用户名</code>，<code>数据库密码</code>；<code>服务器</code>，<code>端口</code>不用设置。完成后点击确认</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe843e74bf.png" alt="image-20240922114131153.png"></p>
-<p>请记住默认管理员账号，并及时<strong>修改密码，以防被盗</strong></p>
-<ul>
-<li>默认管理员账号：<code>admin</code></li>
-<li>默认管理员密码：<code>123456</code></li>
-</ul>
-<p>点击右上角头像，修改密码，当前密码就是<code>123456</code>，如果运营，请一定设定一个<strong>强力密码</strong></p>
-<p>到现在，您已经在本地搭建了LightPicture</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe8ac3bcf7.png" alt="image-20240922114346783.png"></p>
-<p>如果您没有发布到公网的需求，仅需个人本地使用，建议在小皮面板设置开机自启，这样，您随时可以访问到网站</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe8c973f35.png" alt="image-20240922114642191.png"></p>
-<h2 id="LightPicture配置"><a href="#LightPicture配置" class="headerlink" title="LightPicture配置"></a>LightPicture配置</h2><h3 id="账户篇"><a href="#账户篇" class="headerlink" title="账户篇"></a>账户篇</h3><p>使用默认管理员账户，会导致部分功能（配置邮箱发送验证码）无法使用，所以，再注册一个管理员账户是很有必要的</p>
-<p>点击系统管理&#x3D;&gt;团队成员&#x3D;&gt;新增，按照我的样子配置就可以，很简单，记得保存</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efe8e84d801.png" alt="image-20240922115110663.png"></p>
-<p>邮箱一定要设置个能用的，角色组必须设置超级管理员，联系电话自愿</p>
-<p>接着，编辑您创建的成员，在操作栏点击编辑，勾选上<code>重置密码</code>，保存</p>
-<p>点击右上角头像，退出登录。点击右上角登录&#x2F;注册，输入新增成员时的邮箱，密码是默认密码<code>123456</code>，登录。记得<strong>修改默认密码</strong></p>
-<h3 id="存储桶篇"><a href="#存储桶篇" class="headerlink" title="存储桶篇"></a>存储桶篇</h3><p>目前市面上没有什么好的对象存储，要么要钱（这也很正常，但我没钱），要么测试域名30天有效期，要么没https访问。你以为绑定域名就能解决吗，确实是，但域名要<strong>备案</strong>，这就劝退了99％的人</p>
-<p>除付费OSS外，我从七牛和又拍中选择了<a href="https://console.upyun.com/">又拍云</a>，原因很简单，它的测试域名免费（但是仍然没有https访问）！如果您不使用又拍云，那么其他服务也大同小异</p>
-<p>账号注册和实名我就不多说了，非常简单，我们从创建服务开始</p>
-<p>进入控制台，选择创建云存储。请注意，接下来您填写的所有内容都会用到，请务必<strong>记牢</strong></p>
-<p>服务名称自愿，应用场景自愿，存储类型为标准，国内加速。新建一个操作员，记住操作员名称和密码（密码不可找回只能重置），权限全选</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efea2613005.png" alt="image-20240922130545303.png"></p>
-<p>创建服务后进入配置界面</p>
-<p>接着，打开LightPicture，系统管理&#x3D;&gt;存储桶&#x3D;&gt;新建桶。存储源选择又拍云USS。桶名称自定义，其他配置见下图</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efea43d9c41.png" alt="image-20240922135243666.png"></p>
-<p><code>OperatorName</code>和<code>OperatorPwd</code>为您创建的操作员信息，<code>Name</code>为操作员，<code>Pwd</code>为密码，如果您忘了，请看以下操作</p>
-<p>点击右上角名称&#x3D;&gt;账号管理&#x3D;&gt;操作员，找到创建服务时创建的操作员，点击编辑。操作员内容填入<code>OperatorName</code>，密码重新生成并复制，填入<code>OperatorPwd</code>，在又拍云和LightPicture的界面点击确定，尤其是又拍云，不保存的话生成的密码无效。</p>
-<p>在保存后，在LightPicture界面点击系统管理&#x3D;&gt;角色组&#x3D;&gt;编辑，存储桶选择新创建的又拍云存储桶，确定</p>
-<p>这时候，您可以在主页上传一张图片试试，成功就没问题了</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efea5bc30f1.png" alt="image-20240922140910588.png"></p>
-<h3 id="设置头像篇"><a href="#设置头像篇" class="headerlink" title="设置头像篇"></a>设置头像篇</h3><p>先把头像通过LightPicture上传，在图库找到这张照片，点击详情，设为头像即可</p>
-<h3 id="设置上传格式篇"><a href="#设置上传格式篇" class="headerlink" title="设置上传格式篇"></a>设置上传格式篇</h3><p>当我们上传一些格式不常见的图片或者其他文件时会遇到“不支持的格式”的提示，如何解决呢</p>
-<p>点击右上角头像&#x3D;&gt;个人资料&#x3D;&gt;左侧栏系统设置&#x3D;&gt;允许上传后缀中添加上您需要的后缀，用英文逗号（<code>,</code>）连接，记得保存</p>
-<h3 id="多用户篇"><a href="#多用户篇" class="headerlink" title="多用户篇"></a>多用户篇</h3><p>找到系统设置（上面有讲）勾上开放注册，把用户出示配额和上传最大尺寸改为合适的值，勾掉<code>展示存储桶</code>，<code>展示角色组</code>和<code>展示团队成员</code>，当然，你不想弄也没事，记得保存。</p>
-<p>找到邮箱配置，我以<a href="https://mail.163.com/">163邮箱</a>演示</p>
-<p>进入<a href="https://mail.163.com/">163邮箱</a>，点击设置&#x3D;&gt;常规设置&#x3D;&gt;POP3&#x2F;SMTP&#x2F;IMAP,用手机发个验证码通过验证后复制授权密码后开启服务。复制提示栏里的SMTP服务器地址（smtp.163.com）到LightPicture的SMTP服务器框里，端口输入<code>465</code>，邮箱账号为自己的邮箱，密码为刚才复制的授权密码保存后点击发送测试邮件，在新增用户时填入的邮箱里查收信息，收到说明配置成功！</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efea790413f.png" alt="image-20240922142911712.png"></p>
-<p>您可以退出当前的账号后重新注册一个，看看能不能收到验证码</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66efea94c57a0.png" alt="image-20240922143249337.png"></p>
-<p>新增一个角色组并设为注册默认</p>
-<p>点击角色组&#x3D;&gt;新增，分组名称自定义，存储桶选择又拍云的桶，分组权限勾选<code>允许其成员上传图片</code>和<code>允许其成员删除自己上传的图片</code>，勾选<code>注册默认</code>其他酌情勾选</p>
-<p>这时候，您的网站就支持了多用户</p>
-<h2 id="公开到公网"><a href="#公开到公网" class="headerlink" title="公开到公网"></a>公开到公网</h2><p>如果您想自己使用，完全不需要这步，这反而会增加风险，如果想要运营，其实也不建议你用LightPicture，兰空图床是更好的选择，如果您就想，那就继续往下看</p>
-<p>本教程使用<a href="https://www.cpolar.com/">Cpolar内网穿透</a>来使LightPicture公开到公网</p>
-<p>进入<a href="https://www.cpolar.com/">官网</a>，如果没有账号就右上角注册一个，不用实名。注册完后点击下载，选择适合自己电脑版本的Cpolar的软件，下载，下载后解压并后缀为<code>msi</code>的文件。</p>
-<p>在登陆窗口输入自己的账密登录</p>
-<p>进入后打开左侧的隧道管理&#x3D;&gt;创建隧道。隧道名称填<code>lightpicture</code>,协议为<code>http</code>，本地地址填在小皮面板配置的端口，我的是<code>82</code>。域名选择随机域名（其他都要钱），ChinaVIP,点击创建。</p>
-<p><img src="https://wmimg.com/i/1169/2024/09/66f006fb6407f.png" alt="1727006457097.png"></p>
-<p>左侧栏点击状态&#x3D;&gt;在线隧道列表，找到刚才创建的隧道，用协议为<code>https</code>的（不会被浏览器打上“不安全”的标志）到此为止，您的网站已经成功发布！</p>
-<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><h3 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h3><p>不容易啊，终于搞完了，如果你想在线体验，可以用我创建的网站，请注意，<strong>仅供体验</strong>，您上传的文件<strong>得不到永久保存</strong>！</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://53769dff.r21.vip.cpolar.cn/">
-    <div class="tag-link-tips">引用站外地址</div>
-    <div class="tag-link-bottom">
-        <div class="tag-link-left" style="background-image: url(https://wmimg.com/i/1169/2024/09/66f008f6026cc.png)">
-          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>
-        </div>
-        <div class="tag-link-right">
-            <div class="tag-link-title">在线体验LightPicture</div>
-            <div class="tag-link-sitename"> 仅供体验</div>
-        </div>
-        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
-    </div>
-    </a></div>
-
-<h3 id="获取所有文件"><a href="#获取所有文件" class="headerlink" title="获取所有文件"></a>获取所有文件</h3><p>包含LightPicture部署文件，PhpStudy(小皮面板)，Cpolar（Windows端）</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://peterwu.lanzout.com/b00uygd0fa">
-    <div class="tag-link-tips">引用站外地址</div>
-    <div class="tag-link-bottom">
-        <div class="tag-link-left" style="">
-          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
-        </div>
-        <div class="tag-link-right">
-            <div class="tag-link-title">一键获取所有文件</div>
-            <div class="tag-link-sitename"> 密码：1711</div>
-        </div>
-        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
-    </div>
-    </a></div>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
-        <tag>PHP</tag>
       </tags>
   </entry>
   <entry>
@@ -1982,6 +1958,30 @@
       </categories>
       <tags>
         <tag>电脑操作从入门到精通</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站故障说明</title>
+    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
+<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
+<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
+<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
+<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
+<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
+<p>祝好</p>
+<p>[Peter267]</p>
+<ul>
+<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
+<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>网站公告</category>
+      </categories>
+      <tags>
+        <tag>其他</tag>
       </tags>
   </entry>
 </search>
