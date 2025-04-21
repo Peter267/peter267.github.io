@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peter267.github.io/charts/index.html</loc>
+    
+    <lastmod>2025-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peter267.github.io/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</loc>
     
     <lastmod>2025-04-14</lastmod>
@@ -454,7 +463,7 @@
 
   <url>
     <loc>https://peter267.github.io/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -462,154 +471,154 @@
   
   <url>
     <loc>https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E6%B0%B4/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/Windows%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/Github/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/</loc>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/Serverless/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/Vercel/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/PHP/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E6%89%92%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -618,56 +627,56 @@
   
   <url>
     <loc>https://peter267.github.io/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/categories/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <loc>https://peter267.github.io/categories/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/categories/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/categories/%E8%BD%AC%E8%BD%BD%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peter267.github.io/categories/%E7%BD%91%E7%AB%99%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
