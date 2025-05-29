@@ -495,14 +495,7 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
-    <lastmod>2025-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
+    <loc>https://peter267.github.io/tags/%E6%B0%B4/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -516,14 +509,7 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/Github/</loc>
-    <lastmod>2025-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -537,14 +523,28 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://peter267.github.io/tags/Github/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E6%B0%B4/</loc>
+    <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -565,13 +565,6 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://peter267.github.io/tags/Serverless/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -586,7 +579,7 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/</loc>
+    <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -600,6 +593,13 @@
   </url>
   
   <url>
+    <loc>https://peter267.github.io/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -607,14 +607,14 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
+    <loc>https://peter267.github.io/tags/%E6%89%92%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://peter267.github.io/tags/%E6%89%92%E4%BB%A3%E7%A0%81/</loc>
+    <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -651,7 +651,7 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/categories/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -672,7 +672,7 @@
   </url>
   
   <url>
-    <loc>https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://peter267.github.io/categories/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
