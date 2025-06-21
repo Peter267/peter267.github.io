@@ -6,7 +6,7 @@ if (typeof fdataUser !== "undefined") {
 }
 
 var randomPostTimes = 0;
-var randomPostWorking = true;
+var randomPostWorking = false;
 var randomPostTips = [
   "钓到了绝世好文！",
   "在河边打了个喷嚏，吓跑了",
