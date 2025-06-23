@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/config/feed/atom.xsl" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Peter267</title>
   
@@ -431,9 +431,9 @@
     <category term="服务推荐" scheme="https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
-    
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
+    
+    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
     
     <category term="推荐" scheme="https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
@@ -479,9 +479,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -504,9 +504,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
