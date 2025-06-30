@@ -41,10 +41,10 @@
   
   <entry>
     <title>Motrix - 一个小而美的下载工具</title>
-    <link href="https://peter267.github.io/posts/28"/>
-    <id>https://peter267.github.io/posts/28</id>
+    <link href="https://peter267.github.io/posts/post28"/>
+    <id>https://peter267.github.io/posts/post28</id>
     <published>2025-06-08T18:37:00.000Z</published>
-    <updated>2025-06-30T09:52:21.171Z</updated>
+    <updated>2025-06-30T11:06:59.420Z</updated>
     
     <content type="html"><![CDATA[<p>说起下载器，大家首先想到的应该是IDM。但它既闭源又收费，界面还不好看。鉴于它的这些缺点，本篇文章将推荐一个<strong>开源</strong>、<strong>免费</strong>、<strong>美观</strong>，还<strong>支持BT&#x2F;磁力&#x2F;百度网盘</strong>，<strong>速度直接拉满</strong>的下载器——<strong>Motrix</strong>！</p><p><img src="https://s.motrix.app/images/screenshot-task-list-downloading-en@2x.png" alt="img"></p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://motrix.app">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://i.p-i.vip/88/20250609-6845c891b2677.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Motrix</div>            <div class="tag-link-sitename">A full-featured download manager</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>进入官网后，点击 Download，选择自己的操作系统和需要的版本下载。</p><h2 id="设置"><a href="#设置" class="headerlink" title="设置"></a>设置</h2><h3 id="基础设置"><a href="#基础设置" class="headerlink" title="基础设置"></a>基础设置</h3><p>首先来到基础设置。我来讲几个比较重要的设置。</p><ul><li>勾选“开机自动启动”，这是下面能让Motrix接管浏览器进行下载的前提。</li><li>修改“默认下载路径”为除C盘外的任何盘，否则你的C盘会爆炸！</li></ul><p>至于其他的设置项，大家酌情开关。</p><p><img src="https://i.p-i.vip/88/20250609-6845c96e77d52.png" alt="基础设置"></p><h3 id="进阶设置"><a href="#进阶设置" class="headerlink" title="进阶设置"></a>进阶设置</h3><p>进阶设置大部分是为了下面代理浏览器下载的内容。</p><p><img src="https://i.p-i.vip/88/20250609-6845cb016400f.png" alt="1749404413803.png"></p><ul><li>自动检查更新无所谓，项目已经2年没动静了。</li><li>关闭“每天自动更新Tracker服务器列表，因为对于国内的BT下载环境来说，打开毫无必要。</li><li>注意RPC设置，记住端口和密钥，待会要用。</li></ul><h2 id="代理浏览器下载"><a href="#代理浏览器下载" class="headerlink" title="代理浏览器下载"></a>代理浏览器下载</h2><p>大家最常用的肯定是用浏览器去下载各种文件，这一步就是要让Motrix来代理浏览器进行下载。</p><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.crxsoso.com/webstore/detail/mpkodccbngfoacfalldjimigbofkhgjn">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://lhimg.crxsoso.com/lDLemDDDZMH3KG3Phmj4kqS_lQctFfmJMvoTAVlRQHbHXEsmlfVdDUC2gxQoNZwDvxKPJf0xcwx6jh6N_FRaz95hQKo)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Aria2 Explorer</div>            <div class="tag-link-sitename"> 浏览器扩展</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>插件不唯一，谨以此举例。</p><h3 id="插件设置"><a href="#插件设置" class="headerlink" title="插件设置"></a>插件设置</h3><p>安装好后，理论上会自动弹出这个页面。</p><p><img src="https://i.p-i.vip/88/20250609-6845cdda4b109.png" alt="1749405142671.png"></p><p>如果没有弹出，可右键点击扩展图标 → 选项 进入设置页面。</p><p><img src="https://i.p-i.vip/88/20250609-6845ce6642559.png" alt="1749405283121.png"></p><p>请根据图示进行设置，记得点保存。</p><p><img src="https://i.p-i.vip/88/20250609-6845cf4689b47.png" alt="1749405506142.png"></p><p>到此为止，全部设置完毕。下载一个文件试一下是否被代理下载。若成功则会在下方的列表中显示。</p><p>点击扩展图标即可进入列表。</p><p><img src="https://i.p-i.vip/88/20250609-6845cfced900f.png" alt="1749405643440.png"></p>]]></content>
     
@@ -410,9 +410,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
-    
     <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
+    
+    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
@@ -502,9 +502,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -527,9 +527,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
