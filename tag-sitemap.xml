@@ -3,15 +3,29 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/%E7%99%BD%E5%AB%96/</loc>
+        <lastmod>2025-07-11T17:34:48.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E5%BE%AE%E8%BD%AF/</loc>
+        <lastmod>2025-07-11T17:34:48.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
-        <lastmod>2025-07-06T13:21:12.076Z</lastmod>
+        <lastmod>2025-07-11T13:27:23.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://peter267.github.io/tags/%E6%B0%B4/</loc>
-        <lastmod>2025-07-06T13:21:12.076Z</lastmod>
+        <lastmod>2025-07-11T13:27:23.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
