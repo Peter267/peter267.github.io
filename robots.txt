@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /config
+Disallow: /js
+Disallow: /css
+Disallow: /static
+Disallow: /anzhiyu
+Disallow: /img
+Disallow: /json
+Disallow: /lib
+
+Sitemap: https://peter267.github.io/sitemap.xml
+Sitemap: https://peter267.github.io/post-sitemap.xml
+Sitemap: https://peter267.github.io/page-sitemap.xml
+Sitemap: https://peter267.github.io/category-sitemap.xml
+Sitemap: https://peter267.github.io/tag-sitemap.xml
+Sitemap: https://peter267.github.io/baidusitemap.xml

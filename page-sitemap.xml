@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://peter267.github.io/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    
+    
+    <url>
+        <loc>https://peter267.github.io/yyms/</loc>
+        <lastmod>2025-07-11T08:18:21.734Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/link/</loc>
+        <lastmod>2025-06-23T13:58:27.053Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/zzh/</loc>
+        <lastmod>2025-06-21T07:13:26.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/fcircle/</loc>
+        <lastmod>2025-06-21T05:52:52.578Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/books/</loc>
+        <lastmod>2025-06-17T14:20:49.030Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/charts/</loc>
+        <lastmod>2025-06-15T17:54:16.189Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/demo/</loc>
+        <lastmod>2025-05-06T13:07:26.423Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/cookies/</loc>
+        <lastmod>2025-03-16T09:28:44.858Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/ysxy/</loc>
+        <lastmod>2025-03-16T09:27:39.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/gzpc/</loc>
+        <lastmod>2025-03-01T09:42:55.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/gybz/</loc>
+        <lastmod>2025-03-01T08:10:13.870Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/mzsm/</loc>
+        <lastmod>2025-02-05T02:18:33.427Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/commentsrules/</loc>
+        <lastmod>2025-01-15T06:09:43.031Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/PeterAI/</loc>
+        <lastmod>2025-01-14T09:29:33.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/categories/</loc>
+        <lastmod>2024-09-26T10:20:13.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/tags/</loc>
+        <lastmod>2024-09-26T10:16:44.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/wordScenery/</loc>
+        <lastmod>2024-09-17T12:27:29.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/dailyPhoto/</loc>
+        <lastmod>2024-09-17T12:27:23.193Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/album/</loc>
+        <lastmod>2024-09-17T12:24:24.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/music/</loc>
+        <lastmod>2024-08-08T01:05:31.636Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/bqxy/</loc>
+        <lastmod>2024-08-07T09:37:29.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/about/</loc>
+        <lastmod>2024-08-07T05:16:10.729Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/essay/</loc>
+        <lastmod>2024-08-06T06:00:13.688Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/air-conditioner/</loc>
+        <lastmod>2024-08-06T05:59:08.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://peter267.github.io/equipment/</loc>
+        <lastmod>2024-08-06T02:46:43.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
