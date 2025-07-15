@@ -16,7 +16,7 @@
   algolia: {"appId":"FI02ARA6GL","apiKey":"7390346151e22411512b4c89b28e0c72","indexName":"Blog","hits":{"per_page":6},"languages":{"input_placeholder":"输入关键词后按下回车查找","hits_empty":"找不到您查询的内容：${query}","hits_stats":"找到 ${hits} 条结果，用时 ${time} 毫秒"}},
   localSearch: undefined,
   translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简","rightMenuMsgToTraditionalChinese":"转为繁体","rightMenuMsgToSimplifiedChinese":"转为简体"},
-  noticeOutdate: {"limitDay":180,"position":"top","messagePrev":"距离上次更新已经过去了","messageNext":"天,文章的内容可能已经过时。"},
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"距离上次更新已经过去了","messageNext":"天,文章的内容可能已经过时。"},
   highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":330},
   copy: {
     success: '复制成功',
@@ -350,7 +350,7 @@ if (true) {
             color: color
           }
         },
-        data: ["如何____","AI纪元","Github","软件","水","浏览器","折腾","周记","推荐","作文"]
+        data: ["如何____","AI纪元","Github","软件","水","浏览器","折腾","周记","推荐","科普"]
       },
       yAxis: {
         name: '文章篇数',
@@ -378,7 +378,7 @@ if (true) {
       series: [{
         name: '文章篇数',
         type: 'bar',
-        data: [{"name":"如何____","value":7,"path":"tags/如何/"},{"name":"AI纪元","value":6,"path":"tags/AI纪元/"},{"name":"Github","value":6,"path":"tags/Github/"},{"name":"软件","value":4,"path":"tags/软件/"},{"name":"水","value":3,"path":"tags/水/"},{"name":"浏览器","value":3,"path":"tags/浏览器/"},{"name":"折腾","value":3,"path":"tags/折腾/"},{"name":"周记","value":2,"path":"tags/周记/"},{"name":"推荐","value":2,"path":"tags/推荐/"},{"name":"作文","value":2,"path":"tags/作文/"},{"name":"科普","value":2,"path":"tags/科普/"},{"name":"锵锵论道","value":2,"path":"tags/锵锵论道/"},{"name":"AI撰写","value":1,"path":"tags/AI撰写/"},{"name":"Windows系统","value":1,"path":"tags/Windows系统/"},{"name":"博客","value":1,"path":"tags/博客/"},{"name":"Serverless","value":1,"path":"tags/Serverless/"},{"name":"Vercel","value":1,"path":"tags/Vercel/"},{"name":"发布会","value":1,"path":"tags/发布会/"},{"name":"PHP","value":1,"path":"tags/PHP/"},{"name":"扒代码","value":1,"path":"tags/扒代码/"},{"name":"电脑操作从入门到精通","value":1,"path":"tags/电脑操作从入门到精通/"},{"name":"微软","value":1,"path":"tags/微软/"},{"name":"白嫖","value":1,"path":"tags/白嫖/"},{"name":"其他","value":1,"path":"tags/其他/"}],
+        data: [{"name":"如何____","value":7,"path":"tags/如何/"},{"name":"AI纪元","value":6,"path":"tags/AI纪元/"},{"name":"Github","value":6,"path":"tags/Github/"},{"name":"软件","value":4,"path":"tags/软件/"},{"name":"水","value":3,"path":"tags/水/"},{"name":"浏览器","value":3,"path":"tags/浏览器/"},{"name":"折腾","value":3,"path":"tags/折腾/"},{"name":"周记","value":2,"path":"tags/周记/"},{"name":"推荐","value":2,"path":"tags/推荐/"},{"name":"科普","value":2,"path":"tags/科普/"},{"name":"作文","value":2,"path":"tags/作文/"},{"name":"锵锵论道","value":2,"path":"tags/锵锵论道/"},{"name":"AI撰写","value":1,"path":"tags/AI撰写/"},{"name":"Windows系统","value":1,"path":"tags/Windows系统/"},{"name":"博客","value":1,"path":"tags/博客/"},{"name":"发布会","value":1,"path":"tags/发布会/"},{"name":"Serverless","value":1,"path":"tags/Serverless/"},{"name":"Vercel","value":1,"path":"tags/Vercel/"},{"name":"PHP","value":1,"path":"tags/PHP/"},{"name":"扒代码","value":1,"path":"tags/扒代码/"},{"name":"微软","value":1,"path":"tags/微软/"},{"name":"白嫖","value":1,"path":"tags/白嫖/"},{"name":"其他","value":1,"path":"tags/其他/"},{"name":"电脑操作从入门到精通","value":1,"path":"tags/电脑操作从入门到精通/"}],
         itemStyle: {
           borderRadius: [5, 5, 0, 0],
           color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
@@ -456,7 +456,7 @@ if (true) {
         radius: ['15%', '90%'],
         center: ['50%', '55%'],
         sort: 'desc',
-        data: [{"name":"经验分享","value":9,"path":"categories/经验分享/","id":"cmd4f9253000ro4vv1okp6n3s","parentId":"0"},{"name":"闲聊杂谈","value":7,"path":"categories/闲聊杂谈/","id":"cmd4f924m0004o4vv9wc8he0e","parentId":"0"},{"name":"软件推荐","value":4,"path":"categories/软件推荐/","id":"cmd4f92590018o4vvaujt5c2v","parentId":"0"},{"name":"服务推荐","value":4,"path":"categories/服务推荐/","id":"cmd4f925e001qo4vv87ma9945","parentId":"0"},{"name":"科技新闻","value":2,"path":"categories/科技新闻/","id":"cmd4f92560010o4vv850q4yw2","parentId":"0"},{"name":"转载文章","value":2,"path":"categories/转载文章/","id":"cmd4f92640032o4vv9voc9i4v","parentId":"0"},{"name":"科普","value":1,"path":"categories/科普/","id":"cmd4f925z002to4vvc1ukgtdd","parentId":"0"},{"name":"网站公告","value":1,"path":"categories/网站公告/","id":"cmd4f9267003jo4vv0pw26njx","parentId":"0"}],
+        data: [{"name":"经验分享","value":9,"path":"categories/经验分享/","id":"cmd4gp3d1000uc8vvbg7ogiw3","parentId":"0"},{"name":"闲聊杂谈","value":7,"path":"categories/闲聊杂谈/","id":"cmd4gp3cm0005c8vva8ile8pl","parentId":"0"},{"name":"软件推荐","value":4,"path":"categories/软件推荐/","id":"cmd4gp3d30011c8vv8tvo6w1u","parentId":"0"},{"name":"服务推荐","value":4,"path":"categories/服务推荐/","id":"cmd4gp3dd0021c8vvfvz0cz1d","parentId":"0"},{"name":"科技新闻","value":2,"path":"categories/科技新闻/","id":"cmd4gp3cy000lc8vvfyxxays9","parentId":"0"},{"name":"转载文章","value":2,"path":"categories/转载文章/","id":"cmd4gp3dl002wc8vva6xbc8fv","parentId":"0"},{"name":"科普","value":1,"path":"categories/科普/","id":"cmd4gp3dg002dc8vv6fi53dsb","parentId":"0"},{"name":"网站公告","value":1,"path":"categories/网站公告/","id":"cmd4gp3dq003cc8vv0jprhry9","parentId":"0"}],
         itemStyle: {
           borderColor: '#fff',
           borderWidth: 2,
@@ -478,7 +478,7 @@ if (true) {
           color: color,
           formatter: '{b} : {c} ({d}%)'
         },
-        data: [{"name":"经验分享","value":9,"path":"categories/经验分享/","id":"cmd4f9253000ro4vv1okp6n3s","parentId":"0"},{"name":"闲聊杂谈","value":7,"path":"categories/闲聊杂谈/","id":"cmd4f924m0004o4vv9wc8he0e","parentId":"0"},{"name":"软件推荐","value":4,"path":"categories/软件推荐/","id":"cmd4f92590018o4vvaujt5c2v","parentId":"0"},{"name":"服务推荐","value":4,"path":"categories/服务推荐/","id":"cmd4f925e001qo4vv87ma9945","parentId":"0"},{"name":"科技新闻","value":2,"path":"categories/科技新闻/","id":"cmd4f92560010o4vv850q4yw2","parentId":"0"},{"name":"转载文章","value":2,"path":"categories/转载文章/","id":"cmd4f92640032o4vv9voc9i4v","parentId":"0"},{"name":"科普","value":1,"path":"categories/科普/","id":"cmd4f925z002to4vvc1ukgtdd","parentId":"0"},{"name":"网站公告","value":1,"path":"categories/网站公告/","id":"cmd4f9267003jo4vv0pw26njx","parentId":"0"}],
+        data: [{"name":"经验分享","value":9,"path":"categories/经验分享/","id":"cmd4gp3d1000uc8vvbg7ogiw3","parentId":"0"},{"name":"闲聊杂谈","value":7,"path":"categories/闲聊杂谈/","id":"cmd4gp3cm0005c8vva8ile8pl","parentId":"0"},{"name":"软件推荐","value":4,"path":"categories/软件推荐/","id":"cmd4gp3d30011c8vv8tvo6w1u","parentId":"0"},{"name":"服务推荐","value":4,"path":"categories/服务推荐/","id":"cmd4gp3dd0021c8vvfvz0cz1d","parentId":"0"},{"name":"科技新闻","value":2,"path":"categories/科技新闻/","id":"cmd4gp3cy000lc8vvfyxxays9","parentId":"0"},{"name":"转载文章","value":2,"path":"categories/转载文章/","id":"cmd4gp3dl002wc8vva6xbc8fv","parentId":"0"},{"name":"科普","value":1,"path":"categories/科普/","id":"cmd4gp3dg002dc8vv6fi53dsb","parentId":"0"},{"name":"网站公告","value":1,"path":"categories/网站公告/","id":"cmd4gp3dq003cc8vv0jprhry9","parentId":"0"}],
         itemStyle: {
           emphasis: {
             shadowBlur: 10,
