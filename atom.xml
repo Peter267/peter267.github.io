@@ -312,7 +312,7 @@
     <link href="https://peter267.github.io/posts/post17/"/>
     <id>https://peter267.github.io/posts/post17/</id>
     <published>2024-11-17T10:37:00.000Z</published>
-    <updated>2024-11-17T10:37:00.000Z</updated>
+    <updated>2025-07-22T09:10:19.932Z</updated>
     
     <content type="html"><![CDATA[<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>最近看到了Github强制用户开启2FA验证的界面，还说如果不开启就会限制用户行为（我不知道这样理解对不对）</p><p><img src="https://wmimg.com/i/1169/2024/11/6739a3ff314fa.png" alt="Github 强制用户开启 2FA 验证"></p><p>如图所示，就只剩一天了，赶快开了吧</p><p>点击 Enable 2FA now后显示如下界面</p><p><img src="https://wmimg.com/i/1169/2024/11/6739a6be322b7.png" alt="设置2FA"></p><p>问题是，我没有手机，扫不了二维码，接不了短信（本来也发不到中国），怎么办？直到看到了一个插件——Authenticator</p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><blockquote><p>温馨提示：这是个临时的解决办法，插件一卸密码就会消失</p></blockquote><p>不知道大家有没有弹出这个页面，如果没有弹出并且想开启，进入<a href="https://github.com/">Github</a>&#x3D;&gt;点击右上角头像&#x3D;&gt;Settings&#x3D;&gt; Password and authentication&#x3D;&gt;Two-factor authentication&#x3D;&gt;Enable two-factor authentication</p><p>进入图一页面后，点击Enable 2FA now，下载<a href="https://c2.crxsoso.com/crx/blobs/AW50ZFshxyn5CNiNJJomJrwj4HNKeSVJcVdhWdO_kZk_h4YizZ06qLrOwN81-zIH0EDitbA23XVj9lsuTvV-s9CBxD5zqdTwFAG6JRH-kJ4zzR4mAj0Jkig1CKWSd3DwaGnrAMZSmuV_ckxUO4UUtxwMwzlZLOjZvhSrxA/BHGHOAMAPCDPBOHPHIGOOOADDINPKBAI_8_0_1_0.crx?ext=crx&filename=%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8%208.0.1&type=install">Authenticator</a>插件</p><p>打开插件，点击右上角的二维码标，用鼠标框选二维码区域，将显示的密码填入即可。</p><p><img src="https://wmimg.com/i/1169/2024/11/6739aad47454d.png" alt="Authenticator页面"></p><p>将这些密码保存在安全的位置即可</p><p><img src="https://wmimg.com/i/1169/2024/11/6739ab5bf0587.png" alt="下载密码"></p><p>大功告成！</p>]]></content>
     
@@ -433,9 +433,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
-    
     <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
     
   </entry>
   
