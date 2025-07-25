@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/Hexo/</loc>
+        <lastmod>2025-07-25T09:43:15.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E9%AD%94%E6%94%B9/</loc>
+        <lastmod>2025-07-25T09:43:15.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/</loc>
+        <lastmod>2025-07-25T09:43:15.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+        <lastmod>2025-07-25T09:43:15.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/Github/</loc>
         <lastmod>2025-07-22T09:10:19.932Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/</loc>
-        <lastmod>2025-02-07T06:50:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://peter267.github.io/tags/%E6%89%92%E4%BB%A3%E7%A0%81/</loc>
         <lastmod>2024-11-24T13:50:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -138,13 +159,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2024-08-22T03:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-        <lastmod>2024-08-20T10:10:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

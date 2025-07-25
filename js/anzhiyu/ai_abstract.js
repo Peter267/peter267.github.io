@@ -432,7 +432,7 @@
     if (mode === "tianli") {
       document.getElementById("ai-tag").innerHTML = "TianliGPT";
     } else {
-      document.getElementById("ai-tag").innerHTML = gptName + " GPT";
+      document.getElementById("ai-tag").innerHTML = gptName + "-Bot";
     }
   }
 })();

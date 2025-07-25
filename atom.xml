@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-07-17T09:21:49.915Z</updated>
+  <updated>2025-07-25T09:43:15.177Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安知鱼主题更改字体</title>
+    <link href="https://peter267.github.io/posts/post31/"/>
+    <id>https://peter267.github.io/posts/post31/</id>
+    <published>2025-07-25T09:45:00.000Z</published>
+    <updated>2025-07-25T09:43:15.177Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="求助"><a href="#求助" class="headerlink" title="求助"></a>求助</h2><p>最近网站换成了自建Umami统计访客信息，但是为啥还会跳转到不良网站啊~</p><p><strong>复现方式</strong>：</p><ol><li>使用浏览器，百度搜索 Peter267；</li><li>进入网站，则可能会跳转到赌博网站。</li></ol><p>如果您知道原因，欢迎使用邮箱联系<code>wujingbo12@qq.com</code>，我将感激不尽！</p><hr><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>不知道各位有没注意到，本站在上个月将字体换成了<strong>霞鹜文楷屏幕阅读版</strong>，个人感觉非常漂亮。</p><p>本篇文章，我来讲解安知鱼主题更改字体的两个方法。当然，如果你不是安知鱼主题但拥有选择网站字体和<code>Inject</code>功能，那么也能使用本教程。</p><p>本文全部以LXGW WenKai Screen（霞鹜文楷屏幕阅读版）为例进行演示，请替换成自己需要的字体！</p><h3 id="方案一"><a href="#方案一" class="headerlink" title="方案一"></a>方案一</h3><p>此方案适合后缀为<code>.ttf</code>&#x2F;<code>.otf</code>&#x2F;<code>.woff</code>&#x2F;<code>woff2 </code>等没有分包的字体文件。</p><p>我更加推荐方案二。</p><h4 id="创建CSS文件"><a href="#创建CSS文件" class="headerlink" title="创建CSS文件"></a>创建CSS文件</h4><p>在博客的<code>source/static</code>目录（<code>/static/</code>目录你可以换成其他的，但必须是<code>/source/</code>目录下）下新建一个<code>font.css</code>文件，在文件中写入下方内容。</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">@font-face</span>&#123;</span><br><span class="line">  <span class="attribute">font-family</span>: <span class="string">&#x27;LXGW WenKai Screen&#x27;</span>; </span><br><span class="line">  &lt;!-- 其中LXGW WenKai Screen是引入的字体的名称，可以自定义 --&gt;</span><br><span class="line">  <span class="attribute">font-display</span>: swap;</span><br><span class="line">  <span class="attribute">src</span>: <span class="built_in">url</span>(<span class="string">&#x27;/ttf/LXGWWenKaiScreen.ttf&#x27;</span>) <span class="built_in">format</span>(<span class="string">&quot;truetype&quot;</span>);</span><br><span class="line">  &lt;!-- url中填写自己的字体地址，我使用的是本地文件夹所以用的是相对路径，如果是外部引用的话在其中写入链接地址就好了 --&gt;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h4 id="引入CSS文件"><a href="#引入CSS文件" class="headerlink" title="引入CSS文件"></a>引入CSS文件</h4><p>在 <code>themes\anzhiyu</code> 中找到<code>_config.yml</code>文件，找到下列设置项。</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br></pre></td></tr></table></figure><p>在<code>head</code>下引入CSS文件。</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="comment"># 字体</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">href=&quot;/static/font.css&quot;</span> <span class="string">media=&quot;defer&quot;</span> <span class="string">onload=&quot;this.media=&#x27;all&#x27;&quot;&gt;</span></span><br></pre></td></tr></table></figure><p>注意：将<code>/static/font.css</code>换成自己实际的地址。</p><h4 id="更改字体"><a href="#更改字体" class="headerlink" title="更改字体"></a>更改字体</h4><p>在在 <code>themes\anzhiyu</code> 中找到<code>_config.yml</code>文件的<code>Global font settings</code>。</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Global font settings</span></span><br><span class="line"><span class="comment"># Don&#x27;t modify the following settings unless you know how they work (非必要不要修改)</span></span><br><span class="line"><span class="attr">font:</span></span><br><span class="line">  <span class="attr">global-font-size:</span> <span class="string">16px</span></span><br><span class="line">  <span class="attr">code-font-size:</span></span><br><span class="line">  <span class="attr">font-family:</span> </span><br><span class="line">  <span class="attr">code-font-family:</span> <span class="string">consolas,</span> <span class="string">Menlo,</span> <span class="string">&quot;PingFang SC&quot;</span><span class="string">,</span> <span class="string">&quot;Microsoft JhengHei&quot;</span><span class="string">,</span> <span class="string">&quot;Microsoft YaHei&quot;</span><span class="string">,</span> <span class="string">sans-serif</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Font settings for the site title and site subtitle</span></span><br><span class="line"><span class="comment"># 左上角网站名字 主页居中网站名字</span></span><br><span class="line"><span class="attr">blog_title_font:</span></span><br><span class="line">  <span class="attr">font_link:</span></span><br><span class="line">  <span class="attr">font-family:</span> </span><br></pre></td></tr></table></figure><p>将两个<code>font-family</code>都改成<code>&#39;LXGW WenKai Screen&#39;</code>。</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Global font settings</span></span><br><span class="line"><span class="comment"># Don&#x27;t modify the following settings unless you know how they work (非必要不要修改)</span></span><br><span class="line"><span class="attr">font:</span></span><br><span class="line">  <span class="attr">global-font-size:</span> <span class="string">16px</span></span><br><span class="line">  <span class="attr">code-font-size:</span></span><br><span class="line">  <span class="attr">font-family:</span> <span class="string">&#x27;LXGW WenKai Screen&#x27;</span></span><br><span class="line">  <span class="attr">code-font-family:</span> <span class="string">consolas,</span> <span class="string">Menlo,</span> <span class="string">&quot;PingFang SC&quot;</span><span class="string">,</span> <span class="string">&quot;Microsoft JhengHei&quot;</span><span class="string">,</span> <span class="string">&quot;Microsoft YaHei&quot;</span><span class="string">,</span> <span class="string">sans-serif</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Font settings for the site title and site subtitle</span></span><br><span class="line"><span class="comment"># 左上角网站名字 主页居中网站名字</span></span><br><span class="line"><span class="attr">blog_title_font:</span></span><br><span class="line">  <span class="attr">font_link:</span></span><br><span class="line">  <span class="attr">font-family:</span> <span class="string">&#x27;LXGW WenKai Screen&#x27;</span></span><br></pre></td></tr></table></figure><p><code>&#39;LXGW WenKai Screen&#39;</code>要改成你在<code>font.css</code>中设置的字体名称。</p><p>字体的修改已经全部完成，hexo三连后即可看到效果。</p><p><img src="https://i.p-i.vip/88/20250725-6882fd693a0b4.webp" alt="image-20250725114333221"></p><h3 id="方案二"><a href="#方案二" class="headerlink" title="方案二"></a>方案二</h3><p>本方案适合字体文件后缀为<code>.css</code>的分包后的字体文件。分包能使你网站字体加载速度显著提升。如果你的字体没有分包，可以使用下方网站进行分包后上传到自己的CDN上。</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://chinese-font.netlify.app/zh-cn/online-split">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://chinese-font.netlify.app/favicon.ico)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">在线字体分包器</div>            <div class="tag-link-sitename"> 免费帮助你将字体部署到网站上 - 来自中文网字计划</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h4 id="引入CSS"><a href="#引入CSS" class="headerlink" title="引入CSS"></a>引入CSS</h4><p>详细做法<a href="/posts/post31/#%E5%BC%95%E5%85%A5CSS%E6%96%87%E4%BB%B6">上文</a>已经说明，这里不再赘述。</p><p>在head下引入CSS文件</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="comment"># 字体(css文件地址换成你自己的)</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">href=&quot;https://chinese-fonts-cdn.deno.dev/packages/lywkpmydb/dist/LXGWWenKaiScreen/result.css&quot;&gt;</span></span><br></pre></td></tr></table></figure><p>这里我使用的是中文网字计划提供的免费CDN，在这里推荐给大家！</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://chinese-font.netlify.app/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://chinese-font.netlify.app/favicon.ico)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">中文网字计划</div>            <div class="tag-link-sitename"> 一套开源的、全方位的、全场景的 Web 字体解决方案。</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>这个项目里提供非常多的开源免费字体的托管服务，且速度较快，大家可以放心使用。</p><h4 id="更改字体-1"><a href="#更改字体-1" class="headerlink" title="更改字体"></a>更改字体</h4><p>详细做法<a href="/posts/post31/#%E6%9B%B4%E6%94%B9%E5%AD%97%E4%BD%93">上文</a>已经说明，这里仅说明字体名称问题。</p><p>如果你是使用中文网字计划的字体，则在我标黄位置就可以看到字体名称。</p><p><img src="https://i.p-i.vip/88/20250725-6883089c70d17.webp" alt="字体名称"></p><p>如果你使用的是其他字体，遗憾的是，我也不知道如何查看。目前已知可能可行的方法是你把css文件链接发给AI，他就会告诉你名称。</p><p><img src="https://i.p-i.vip/88/20250725-68834415cdb53.webp" alt="询问AI"></p><p>把两个<code>font-family</code>改为AI告诉你的名称，记得加单引号。</p><h3 id="大功告成"><a href="#大功告成" class="headerlink" title="大功告成"></a>大功告成</h3><p>本篇文章分享了两种更换字体的方案。方案一借鉴了其他博主的经验，方案二是我个人的探索成果。值得一提的是，方案二的字体文件适用性更广、加载更快，与当前多数网站的方案一致，推荐给你。</p><p>此外，关于是否要写博客一周年纪念文章，我还在犹豫。主要担心自己的文笔不够好，如果最终与大家见面，很可能是一篇“AI代写”的拙作😅。</p><h2 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h2><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://mnchen.cn/posts/1013.html">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://image.mnchen.cn/2023/12/mnochen.jpg)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">anzhiyu主题自定义博客字体</div>            <div class="tag-link-sitename"> 前尘小筑</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了为安知鱼（Anzhiyu）主题更换网站字体的两种具体方案。第一种方案适用于单个字体文件，通过创建并引入自定义CSS文件来实现。第二种方案则针对分包后的CSS字体文件，这种方式加载速度更快，是作者更为推荐的方法。文章以霞鹜文楷屏幕阅读版为例，详细讲解了如何修改配置文件中的字体设置，并提供了如何寻找字体名称的技巧，对想要个性化博客外观的用户非常有帮助。</summary>
+    
+    
+    
+    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="魔改" scheme="https://peter267.github.io/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="Hexo" scheme="https://peter267.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>自动获取微软积分兑换商品</title>
@@ -525,9 +552,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -550,34 +577,9 @@
     
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
     
-  </entry>
-  
-  <entry>
-    <title>如何让本地部署的大模型有个优雅的界面</title>
-    <link href="https://peter267.github.io/posts/post6/"/>
-    <id>https://peter267.github.io/posts/post6/</id>
-    <published>2024-07-31T01:00:00.000Z</published>
-    <updated>2025-02-07T06:50:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="CMD窗口聊天页面"></p><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p><h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="OpenWebUI聊天页面"></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p><h2 id="2025-2-7补充"><a href="#2025-2-7补充" class="headerlink" title="2025&#x2F;2&#x2F;7补充"></a>2025&#x2F;2&#x2F;7补充</h2><p>看到<a href="https://www.bilibili.com/video/BV1eHNpeREt6/?vd_source=4d615fafe7d9dfc43c90bfcb3b9fdcbb">这个视频</a>，这个浏览器扩展也值得推荐</p><p><a href="https://www.crxsoso.com/webstore/detail/jfgfiigpkhlkbnfnbobbkinehhfdhndo">Page Assist - 本地 AI 模型的 Web UI | Chrome扩展 - Crx搜搜</a></p><p><img src="https://wmimg.com/i/1169/2025/02/67a5a58e131dc.png" alt="Page Assist 界面"></p>]]></content>
-    
-    
-    <summary type="html">利用Docker和OpenWebUI创建优雅聊天界面：下载Docker并遵循官方指南安装及配置OpenWebUI，搭建完毕后经由端口访问并设置管理员账户。Docker的下载耗时较长。提供额外下载选项。</summary>
-    
-    
-    
-    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
-    
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
-    
-    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
