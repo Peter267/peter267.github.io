@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+        <lastmod>2025-08-02T11:03:08.904Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+        <lastmod>2025-08-02T11:03:08.904Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/Python/</loc>
+        <lastmod>2025-08-02T11:03:08.904Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E5%91%A8%E5%B9%B4%E8%AE%B0/</loc>
         <lastmod>2025-07-30T07:14:37.863Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -166,13 +187,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2024-08-22T03:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
-        <lastmod>2024-08-10T03:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
