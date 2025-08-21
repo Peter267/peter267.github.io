@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-08-02T11:03:08.904Z</updated>
+  <updated>2025-08-21T02:19:09.120Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>体验微软AI截图工具</title>
+    <link href="https://peter267.github.io/posts/post34/"/>
+    <id>https://peter267.github.io/posts/post34/</id>
+    <published>2025-08-21T02:20:00.000Z</published>
+    <updated>2025-08-21T02:19:09.120Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>昨天晚上刷B站时，发现微软做了一个AI截图工具，称其为“AI时代的智能截图工具”。这我不得体验一番？</p><iframe     src="//player.bilibili.com/player.html?bvid=BV1mqb6znEB3&autoplay=false"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     allowfullscreen="true"     style="width:100%;height:370px;"></iframe>通过视频我们可以看到，这个截图工具具有**文字提取**、**翻译**、**PPT转化**等功能。接下来我们就来实际体验一下，以及看看它和我常用的截图工具 **PixPin** 的区别。<h2 id="软件安装"><a href="#软件安装" class="headerlink" title="软件安装"></a>软件安装</h2><p>首先，这个截图工具不是单独的一个软件，而是微软电脑管家的一个小功能。所以你必须要下载微软电脑管家才能使用它。</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://pcmanager.microsoft.com">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://pcmimage.officeplus.cn/images/logo2.png?basic=_.webp)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">微软电脑管家</div>            <div class="tag-link-sitename"> 微软电脑管家官方网站</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>下载安装后，需要在设置里登录微软账户，加入预览体验计划。</p><p><img src="https://i.p-i.vip/88/20250820-68a575ae6ce98.webp" alt="加入预览体验计划"></p><p>加入体验计划后，你可能需要重启电脑才能开启AI截图功能。</p><p><img src="https://i.p-i.vip/88/20250820-68a576115ab94.webp" alt="开启智能圈选"></p><p>然后就可以尽情使用了。</p><p><img src="https://i.p-i.vip/88/20250820-68a579ae73cfc.webp" alt="操作面板"></p><h2 id="软件体验"><a href="#软件体验" class="headerlink" title="软件体验"></a>软件体验</h2><h3 id="智能复制到PPT"><a href="#智能复制到PPT" class="headerlink" title="智能复制到PPT"></a>智能复制到PPT</h3><p>当我们在网上看到好的PPT想借鉴一下时，就可以使用这个功能。我打算使用WPS里的付费PPT模板来试一下。</p><h4 id="PPT-测试-1"><a href="#PPT-测试-1" class="headerlink" title="PPT 测试 1"></a>PPT 测试 1</h4><p>首先，我打算使用这个较为简单的PPT来进行测试：</p><p><img src="https://i.p-i.vip/88/20250820-68a579db63462.webp" alt="原版"></p><p>提取结果：</p><p><img src="https://i.p-i.vip/88/20250820-68a57a3e813d4.webp" alt="结果"></p><p>我们可以看到，背景的提取效果还是比较不错的。但是字体并没有被识别，“诗”这个字直接飞了。</p><h4 id="PPT-测试-2"><a href="#PPT-测试-2" class="headerlink" title="PPT 测试 2"></a>PPT 测试 2</h4><p>接着，我又找了一张元素较多的PPT，来看看它的识别效果如何</p><p><img src="https://i.p-i.vip/88/20250820-68a57c039ced5.webp" alt="原版"></p><p>以下是识别效果</p><p><img src="https://i.p-i.vip/88/20250820-68a57c9ee129f.webp" alt="结果"></p><p>可以看到，左上角英文“ADD THE TITLE”没有被识别上；右上的靶心标志莫名被识别成了字母“G”；转文字有部分字符转换错误，这可能是原图模糊的原因。另外，它并未有将五个小图标单独出来，没有很好的分隔各个元素。</p><p><img src="https://i.p-i.vip/88/20250820-68a57df872132.gif" alt="演示"></p><h4 id="PPT-测试-3"><a href="#PPT-测试-3" class="headerlink" title="PPT 测试 3"></a>PPT 测试 3</h4><p>最后，再测试一下PPT被人物遮挡后能否正常识别。</p><p><img src="https://i.p-i.vip/88/20250821-68a68168c725e.webp" alt="测试图（由豆包生成）"></p><p>识别结果如下</p><p><img src="https://i.p-i.vip/88/20250820-68a5be1950dc9.webp" alt="结果"></p><p>可以看到只是简单截了个图，没有识别出这个图表。</p><p>另外，除了PPT，它也可以识别各类表格、菜单等，从宣传视频里就能体现出来。</p><div class="note warning modern"><p>智能复制功能经过测试，需要云端处理，所以请不要截取秘密内容。</p></div><p>小总结：确实是个很不错的功能，在一些情况下非常好用。但仍需提升识别精度与准确性。</p><h3 id="提取文字"><a href="#提取文字" class="headerlink" title="提取文字"></a>提取文字</h3><h4 id="简单文字"><a href="#简单文字" class="headerlink" title="简单文字"></a>简单文字</h4><p>这款截图工具对简单文字的识别还是<strong>非常准确</strong>的。如图所示是本博客之前转载的一篇<a href="/posts/post25/">文章</a>。</p><p><img src="https://i.p-i.vip/88/20250820-68a5bf5639427.webp" alt="测试结果"></p><p>除了所有的逗号都被识别为英文逗号之外没有什么问题。</p><h4 id="艺术字"><a href="#艺术字" class="headerlink" title="艺术字"></a>艺术字</h4><p>要是能正确识别花字或者艺术字，那就真厉害了。这是影视飓风的口号“無限進步”，来看看能不能被它准确识别。</p><p><img src="https://i.p-i.vip/88/20250820-68a5c041b8d37.webp" alt="识别结果"></p><p>它竟然真的<strong>识别出来</strong>了！！！厉害啊！但是我尝试过数次，但仅此一次成功。</p><p>同样，我使用PixPin的识别功能，也基本正确。但将繁体字“進”识别成了简体字“进”，这算不算错误呢？</p><h3 id="翻译"><a href="#翻译" class="headerlink" title="翻译"></a>翻译</h3><p><img src="https://i.p-i.vip/88/20250820-68a5c61652c2b.webp" alt="翻译结果与DeepL的对比"></p><p>经典的“微软式中文”，“轰！嚓-嚓-嚓！推推”！</p><h3 id="基础功能"><a href="#基础功能" class="headerlink" title="基础功能"></a>基础功能</h3><p>作为一个截图工具，最基本的画线、标注功能还是有的。</p><p><img src="https://i.p-i.vip/88/20250820-68a5d9dd91a15.webp" alt="基本功能"></p><p>但是，图形不支持填充、不能用调色板改颜色、不能改字体、没有贴图……这也着实令人失望。</p><h2 id="竞品对比"><a href="#竞品对比" class="headerlink" title="竞品对比"></a>竞品对比</h2><p>在体验完智能截图之后，让我们来看看它与我常用的PixPin的区别吧。</p><p><img src="https://i.p-i.vip/88/20250821-68a6764b7ba39.webp" alt="用户界面"></p><p>PixPin的功能还是比微软智能截图的功能<strong>丰富得多</strong>，上文所提到的微软截图不支持的功能它都有。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过上述测试我们不难发现，微软AI翻译是一个<strong>有炫酷AI概念但功能尚不成熟、与成熟竞品仍有明显差距的早期产品</strong>。</p><p>综上所述，这款工具目前更适合<strong>偶尔需要快速提取文字、简单翻译，且对PPT格式转换精度要求不高的轻量级用户</strong>。如果你是一名<strong>需要频繁截图、进行精细标注、贴图记录的设计师或专业人士</strong>，那么<strong>PixPin</strong>或<strong>Snipaste</strong>仍然是更强大、更可靠的选择。</p>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了博主对微软AI截图工具的体验。博主刷B站发现该工具，称其为“AI时代的智能截图工具”，具文字提取、翻译、PPT转化等功能。文章先讲需下载微软电脑管家并登录微软账户、加入预览体验计划才可使用。接着通过PPT测试，展示其智能复制到PPT功能识别精度待提升。提取文字对简单文字较准，艺术字识别不稳定。翻译有“微软式中文”问题，基础功能有限。还与PixPin对比，最后总结该工具适合轻量级用户，专业人士更适合PixPin等。</summary>
+    
+    
+    
+    <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="截图" scheme="https://peter267.github.io/tags/%E6%88%AA%E5%9B%BE/"/>
+    
+    <category term="体验" scheme="https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>Python学习笔记 01</title>
@@ -33,11 +58,11 @@
     <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="Python" scheme="https://peter267.github.io/tags/Python/"/>
     
     <category term="笔记" scheme="https://peter267.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -510,9 +535,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
-    
     <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
     
   </entry>
   
@@ -559,27 +584,6 @@
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
     <category term="推荐" scheme="https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站故障说明</title>
-    <link href="https://peter267.github.io/posts/post9/"/>
-    <id>https://peter267.github.io/posts/post9/</id>
-    <published>2024-08-22T03:45:00.000Z</published>
-    <updated>2024-08-22T03:45:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p><h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p><h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p><h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p><p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p><p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p><p>祝好</p><p>[Peter267]</p><ul><li>8月22日15:00<br>友人帐页面图片已经恢复访问</li><li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li></ul>]]></content>
-    
-    
-    <summary type="html">网站因图床服务崩塌致歉。8 月 21 日至 22 日图床问题致图片无法打开，目前已更换文章图床，其他加紧处理，将加强稳定性。</summary>
-    
-    
-    
-    <category term="网站公告" scheme="https://peter267.github.io/categories/%E7%BD%91%E7%AB%99%E5%85%AC%E5%91%8A/"/>
-    
-    
-    <category term="其他" scheme="https://peter267.github.io/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
