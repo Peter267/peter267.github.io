@@ -8822,6 +8822,177 @@ body[data-type="categories"] #tag #tag-page-tags a {
 h1.page-title + .tag-cloud-list {
   text-align: left;
 }
+.percentage-label {
+  position: absolute;
+  left: 0;
+  font-size: 14px;
+  color: var(--anzhiyu-card-bg);
+  font-weight: bold;
+  top: 10px;
+  white-space: nowrap;
+  -webkit-transition: left 0.5s linear;
+  -moz-transition: left 0.5s linear;
+  -o-transition: left 0.5s linear;
+  -ms-transition: left 0.5s linear;
+  transition: left 0.5s linear;
+  visibility: hidden;
+}
+.time-labels {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  width: 100%;
+}
+.time-labels > div {
+  font-size: 14px;
+  color: var(--anzhiyu-fontcolor);
+}
+.tenyear-timeline {
+  width: 100%;
+  background-color: var(--anzhiyu-background);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px;
+  border-radius: 0.5rem;
+  height: 2.5rem;
+}
+.progress {
+  width: 0;
+  height: 100%;
+  background-color: #91ccc5;
+  position: absolute;
+  -webkit-animation-delay: -0.1s;
+  -moz-animation-delay: -0.1s;
+  -o-animation-delay: -0.1s;
+  -ms-animation-delay: -0.1s;
+  animation-delay: -0.1s;
+  border-radius: 0.5rem;
+  -webkit-animation: renamedProgressAnimation 2s linear forwards;
+  -moz-animation: renamedProgressAnimation 2s linear forwards;
+  -o-animation: renamedProgressAnimation 2s linear forwards;
+  -ms-animation: renamedProgressAnimation 2s linear forwards;
+  animation: renamedProgressAnimation 2s linear forwards;
+}
+.past-time {
+  -webkit-animation: renamedPastTimeAnimation 3s linear forwards;
+  -moz-animation: renamedPastTimeAnimation 3s linear forwards;
+  -o-animation: renamedPastTimeAnimation 3s linear forwards;
+  -ms-animation: renamedPastTimeAnimation 3s linear forwards;
+  animation: renamedPastTimeAnimation 3s linear forwards;
+  width: 2px;
+  height: 20px;
+  position: absolute;
+  -webkit-transform-origin: left;
+  -moz-transform-origin: left;
+  -o-transform-origin: left;
+  -ms-transform-origin: left;
+  transform-origin: left;
+}
+@-moz-keyframes renamedProgressAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: var(--progress-percentage, 0);
+  }
+}
+@-webkit-keyframes renamedProgressAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: var(--progress-percentage, 0);
+  }
+}
+@-o-keyframes renamedProgressAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: var(--progress-percentage, 0);
+  }
+}
+@keyframes renamedProgressAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: var(--progress-percentage, 0);
+  }
+}
+@-moz-keyframes renamedPastTimeAnimation {
+  0% {
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(var(--past-time-percentage, 0));
+    -moz-transform: scaleX(var(--past-time-percentage, 0));
+    -o-transform: scaleX(var(--past-time-percentage, 0));
+    -ms-transform: scaleX(var(--past-time-percentage, 0));
+    transform: scaleX(var(--past-time-percentage, 0));
+  }
+}
+@-webkit-keyframes renamedPastTimeAnimation {
+  0% {
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(var(--past-time-percentage, 0));
+    -moz-transform: scaleX(var(--past-time-percentage, 0));
+    -o-transform: scaleX(var(--past-time-percentage, 0));
+    -ms-transform: scaleX(var(--past-time-percentage, 0));
+    transform: scaleX(var(--past-time-percentage, 0));
+  }
+}
+@-o-keyframes renamedPastTimeAnimation {
+  0% {
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(var(--past-time-percentage, 0));
+    -moz-transform: scaleX(var(--past-time-percentage, 0));
+    -o-transform: scaleX(var(--past-time-percentage, 0));
+    -ms-transform: scaleX(var(--past-time-percentage, 0));
+    transform: scaleX(var(--past-time-percentage, 0));
+  }
+}
+@keyframes renamedPastTimeAnimation {
+  0% {
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(var(--past-time-percentage, 0));
+    -moz-transform: scaleX(var(--past-time-percentage, 0));
+    -o-transform: scaleX(var(--past-time-percentage, 0));
+    -ms-transform: scaleX(var(--past-time-percentage, 0));
+    transform: scaleX(var(--past-time-percentage, 0));
+  }
+}
 @media screen and (min-width: 1201px) and (max-width: 768px) {
   #recent-posts>.recent-post-item {
     width: 100%;
