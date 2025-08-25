@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-08-25T06:14:49.459Z</updated>
+  <updated>2025-08-25T06:36:21.673Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Chrome 139 不支持uBlock Origin？解决方法来了！</title>
     <link href="https://peter267.github.io/posts/post35/"/>
     <id>https://peter267.github.io/posts/post35/</id>
-    <published>2025-08-25T06:20:00.000Z</published>
-    <updated>2025-08-25T06:14:49.459Z</updated>
+    <published>2025-08-25T06:34:00.000Z</published>
+    <updated>2025-08-25T06:36:21.673Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>自从<strong>Google Chrome</strong>升级到<code>139</code>版本后，很多用户遇到广告拦截器<strong>uBlock Origin</strong>被停用的问题。</p><p>原因很简单，Google Chrome在139版本已经不支持<strong>Manifest v2</strong>，转而支持<strong>Manifest v3</strong>。这就导致使用Manifest v2的uBlock Origin无法使用。本篇文章来讲解如何继续使用uBlock Origin。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><h3 id="使Chrome支持旧版Manifest"><a href="#使Chrome支持旧版Manifest" class="headerlink" title="使Chrome支持旧版Manifest"></a>使Chrome支持旧版Manifest</h3><ol><li><p>打开<strong>Chrome</strong>浏览器，地址栏输入<code>chrome://flags</code>，打开<strong>Experiments</strong>页。</p></li><li><p>搜索<code>Allow legacy extension manifest versions</code>（允许使用旧版扩展程序清单版本），设置为<strong>Enabled</strong>。</p><div class="note warning modern"><p>请注意，此选项是Google为开发者提供的过渡方案，未来可能会在某个Chrome版本中彻底移除。</p></div></li><li><p>重启浏览器</p></li></ol><p><img src="https://i.p-i.vip/88/20250824-68aae506c06c5.webp" alt="操作步骤"></p><h3 id="下载-Ublock-Origin"><a href="#下载-Ublock-Origin" class="headerlink" title="下载 Ublock Origin"></a>下载 Ublock Origin</h3><ol><li>找到Ublock Origin的GitHub仓库</li></ol><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/gorhill/uBlock">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://i.p-i.vip/88/20250824-68aae61a51021.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">uBlock Origin</div>            <div class="tag-link-sitename"> uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><ol start="2"><li><p>在侧边栏点击<strong>Releases</strong>，找到最新版本。选择名称含有<code>chromium</code>的<code>.zip</code>压缩包，下载后解压（怎么解压就不用我多说了吧）。</p><p><img src="https://i.p-i.vip/88/20250824-68aae6d87d0c8.webp" alt="选择正确版本"></p></li></ol><h3 id="安装-Ublock-Origin"><a href="#安装-Ublock-Origin" class="headerlink" title="安装 Ublock Origin"></a>安装 Ublock Origin</h3><ol><li><p>浏览器右上角三个点（Windows版本，macOS或Linux可能略有不同）&#x3D;&gt;扩展程序&#x3D;&gt;管理扩展程序&#x3D;&gt;勾选开发者模式</p><p><img src="https://i.p-i.vip/88/20250824-68aaec2c72a59.webp" alt="开启开发者模式"></p></li><li><p>将解压好的文件夹直接拖入页面即可</p></li></ol><div class="note warning modern"><p>通过此方案安装的扩展无法自动更新</p></div><h2 id="修改扩展名称"><a href="#修改扩展名称" class="headerlink" title="修改扩展名称"></a>修改扩展名称</h2><p>如果你下载的是<code>Pre-release</code>（预发布）版本，则会发现<code>Ublock Origin</code>名称加了<code>development build</code>后缀，变成了<code>uBlock Origin development build</code>。很显然这么长的名称非常不好看，可以通过修改<code>manifest.json</code>文件来编辑扩展名称。</p><ol><li><p>在解压好的文件夹中打开<code>manifest.json</code>文件</p></li><li><p>在大约第93行的位置，找到<code>name</code>字段，将值修改为<code>Ublock Origin</code>后保存即可。</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">  <span class="attr">&quot;incognito&quot;</span><span class="punctuation">:</span> <span class="string">&quot;split&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;manifest_version&quot;</span><span class="punctuation">:</span> <span class="number">2</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;minimum_chrome_version&quot;</span><span class="punctuation">:</span> <span class="string">&quot;93.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">- <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;uBlock Origin development build&quot;</span><span class="punctuation">,</span></span><br><span class="line">+ <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;uBlock Origin&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;options_ui&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;open_in_tab&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;page&quot;</span><span class="punctuation">:</span> <span class="string">&quot;dashboard.html&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span><span class="punctuation">,</span></span><br></pre></td></tr></table></figure></li></ol><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总而言之，本文提供的“曲线救国”方案可以帮助您在 Manifest v3 全面强制执行的过渡期内，继续使用强大的 uBlock Origin。</p><p>需要注意的是，这并非长久之计，因为 Chrome 未来可能会彻底移除相关支持选项。但至少在目前，这不失为一种简单有效的解决方案，让您的浏览器免受广告侵扰。（总结由AI生成）</p>]]></content>
     
@@ -58,9 +58,9 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="截图" scheme="https://peter267.github.io/tags/%E6%88%AA%E5%9B%BE/"/>
     
@@ -562,9 +562,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
-    
     <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
+    
+    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
