@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-08-21T10:28:53.287Z</updated>
+  <updated>2025-08-25T06:14:49.459Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Chrome 139 不支持uBlock Origin？解决方法来了！</title>
+    <link href="https://peter267.github.io/posts/post35/"/>
+    <id>https://peter267.github.io/posts/post35/</id>
+    <published>2025-08-25T06:20:00.000Z</published>
+    <updated>2025-08-25T06:14:49.459Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>自从<strong>Google Chrome</strong>升级到<code>139</code>版本后，很多用户遇到广告拦截器<strong>uBlock Origin</strong>被停用的问题。</p><p>原因很简单，Google Chrome在139版本已经不支持<strong>Manifest v2</strong>，转而支持<strong>Manifest v3</strong>。这就导致使用Manifest v2的uBlock Origin无法使用。本篇文章来讲解如何继续使用uBlock Origin。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><h3 id="使Chrome支持旧版Manifest"><a href="#使Chrome支持旧版Manifest" class="headerlink" title="使Chrome支持旧版Manifest"></a>使Chrome支持旧版Manifest</h3><ol><li><p>打开<strong>Chrome</strong>浏览器，地址栏输入<code>chrome://flags</code>，打开<strong>Experiments</strong>页。</p></li><li><p>搜索<code>Allow legacy extension manifest versions</code>（允许使用旧版扩展程序清单版本），设置为<strong>Enabled</strong>。</p><div class="note warning modern"><p>请注意，此选项是Google为开发者提供的过渡方案，未来可能会在某个Chrome版本中彻底移除。</p></div></li><li><p>重启浏览器</p></li></ol><p><img src="https://i.p-i.vip/88/20250824-68aae506c06c5.webp" alt="操作步骤"></p><h3 id="下载-Ublock-Origin"><a href="#下载-Ublock-Origin" class="headerlink" title="下载 Ublock Origin"></a>下载 Ublock Origin</h3><ol><li>找到Ublock Origin的GitHub仓库</li></ol><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/gorhill/uBlock">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://i.p-i.vip/88/20250824-68aae61a51021.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">uBlock Origin</div>            <div class="tag-link-sitename"> uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><ol start="2"><li><p>在侧边栏点击<strong>Releases</strong>，找到最新版本。选择名称含有<code>chromium</code>的<code>.zip</code>压缩包，下载后解压（怎么解压就不用我多说了吧）。</p><p><img src="https://i.p-i.vip/88/20250824-68aae6d87d0c8.webp" alt="选择正确版本"></p></li></ol><h3 id="安装-Ublock-Origin"><a href="#安装-Ublock-Origin" class="headerlink" title="安装 Ublock Origin"></a>安装 Ublock Origin</h3><ol><li><p>浏览器右上角三个点（Windows版本，macOS或Linux可能略有不同）&#x3D;&gt;扩展程序&#x3D;&gt;管理扩展程序&#x3D;&gt;勾选开发者模式</p><p><img src="https://i.p-i.vip/88/20250824-68aaec2c72a59.webp" alt="开启开发者模式"></p></li><li><p>将解压好的文件夹直接拖入页面即可</p></li></ol><div class="note warning modern"><p>通过此方案安装的扩展无法自动更新</p></div><h2 id="修改扩展名称"><a href="#修改扩展名称" class="headerlink" title="修改扩展名称"></a>修改扩展名称</h2><p>如果你下载的是<code>Pre-release</code>（预发布）版本，则会发现<code>Ublock Origin</code>名称加了<code>development build</code>后缀，变成了<code>uBlock Origin development build</code>。很显然这么长的名称非常不好看，可以通过修改<code>manifest.json</code>文件来编辑扩展名称。</p><ol><li><p>在解压好的文件夹中打开<code>manifest.json</code>文件</p></li><li><p>在大约第93行的位置，找到<code>name</code>字段，将值修改为<code>Ublock Origin</code>后保存即可。</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">  <span class="attr">&quot;incognito&quot;</span><span class="punctuation">:</span> <span class="string">&quot;split&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;manifest_version&quot;</span><span class="punctuation">:</span> <span class="number">2</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;minimum_chrome_version&quot;</span><span class="punctuation">:</span> <span class="string">&quot;93.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">- <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;uBlock Origin development build&quot;</span><span class="punctuation">,</span></span><br><span class="line">+ <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;uBlock Origin&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;options_ui&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;open_in_tab&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;page&quot;</span><span class="punctuation">:</span> <span class="string">&quot;dashboard.html&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span><span class="punctuation">,</span></span><br></pre></td></tr></table></figure></li></ol><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总而言之，本文提供的“曲线救国”方案可以帮助您在 Manifest v3 全面强制执行的过渡期内，继续使用强大的 uBlock Origin。</p><p>需要注意的是，这并非长久之计，因为 Chrome 未来可能会彻底移除相关支持选项。但至少在目前，这不失为一种简单有效的解决方案，让您的浏览器免受广告侵扰。（总结由AI生成）</p>]]></content>
+    
+    
+    <summary type="html">这篇文章讲解在Google Chrome升级到139版本后，因不再支持Manifest v2导致uBlock Origin停用的应对办法。首先介绍使Chrome支持旧版Manifest的步骤，包括在chrome://flags中搜索并设置选项，之后重启浏览器。接着说明下载uBlock Origin要找到其GitHub仓库，在Releases里选含chromium的zip包并解压。然后介绍安装方法，开启开发者模式后将解压文件夹拖入页面。还提到若下载预发布版本可修改manifest.json文件来修改扩展名称。总结此为过渡方案，未来或失效但当下能防广告。</summary>
+    
+    
+    
+    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="浏览器" scheme="https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="谷歌" scheme="https://peter267.github.io/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>体验微软AI截图工具</title>
     <link href="https://peter267.github.io/posts/post34/"/>
     <id>https://peter267.github.io/posts/post34/</id>
     <published>2025-08-21T02:20:00.000Z</published>
-    <updated>2025-08-21T10:28:53.287Z</updated>
+    <updated>2025-08-21T10:30:00.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>昨天晚上刷B站时，发现微软做了一个AI截图工具，称其为“AI时代的智能截图工具”。这我不得体验一番？</p><iframe     src="//player.bilibili.com/player.html?bvid=BV1mqb6znEB3&autoplay=false"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     allowfullscreen="true"     style="width:100%;height:370px;"></iframe>通过视频我们可以看到，这个截图工具具有文字提取、翻译**、**PPT转化等功能。接下来我们就来实际体验一下，以及看看它和我常用的截图工具 PixPin 的区别。<h2 id="软件安装"><a href="#软件安装" class="headerlink" title="软件安装"></a>软件安装</h2><p>首先，这个截图工具不是单独的一个软件，而是微软电脑管家的一个小功能。所以你必须要下载微软电脑管家才能使用它。</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://pcmanager.microsoft.com">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://pcmimage.officeplus.cn/images/logo2.png?basic=_.webp)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">微软电脑管家</div>            <div class="tag-link-sitename"> 微软电脑管家官方网站</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>下载安装后，需要在设置里登录微软账户，加入预览体验计划。</p><p><img src="https://i.p-i.vip/88/20250820-68a575ae6ce98.webp" alt="加入预览体验计划"></p><p>加入体验计划后，你可能需要重启电脑才能开启AI截图功能。</p><p><img src="https://i.p-i.vip/88/20250820-68a576115ab94.webp" alt="开启智能圈选"></p><p>然后就可以尽情使用了。</p><p><img src="https://i.p-i.vip/88/20250820-68a579ae73cfc.webp" alt="操作面板"></p><h2 id="软件体验"><a href="#软件体验" class="headerlink" title="软件体验"></a>软件体验</h2><h3 id="智能复制到PPT"><a href="#智能复制到PPT" class="headerlink" title="智能复制到PPT"></a>智能复制到PPT</h3><p>当我们在网上看到好的PPT想借鉴一下时，就可以使用这个功能。我打算使用WPS里的付费PPT模板来试一下。</p><h4 id="PPT-测试-1"><a href="#PPT-测试-1" class="headerlink" title="PPT 测试 1"></a>PPT 测试 1</h4><p>首先，我打算使用这个较为简单的PPT来进行测试：</p><p><img src="https://i.p-i.vip/88/20250820-68a579db63462.webp" alt="原版"></p><p>提取结果：</p><p><img src="https://i.p-i.vip/88/20250820-68a57a3e813d4.webp" alt="结果"></p><p>我们可以看到，背景的提取效果还是比较不错的。但是字体并没有被识别，“诗”这个字直接飞了。</p><h4 id="PPT-测试-2"><a href="#PPT-测试-2" class="headerlink" title="PPT 测试 2"></a>PPT 测试 2</h4><p>接着，我又找了一张元素较多的PPT，来看看它的识别效果如何</p><p><img src="https://i.p-i.vip/88/20250820-68a57c039ced5.webp" alt="原版"></p><p>以下是识别效果</p><p><img src="https://i.p-i.vip/88/20250820-68a57c9ee129f.webp" alt="结果"></p><p>可以看到，左上角英文“ADD THE TITLE”没有被识别上；右上的靶心标志莫名被识别成了字母“G”；转文字有部分字符转换错误，这可能是原图模糊的原因。另外，它并未有将五个小图标单独出来，没有很好地分隔各个元素。</p><p><img src="https://i.p-i.vip/88/20250820-68a57df872132.gif" alt="演示"></p><h4 id="PPT-测试-3"><a href="#PPT-测试-3" class="headerlink" title="PPT 测试 3"></a>PPT 测试 3</h4><p>最后，再测试一下PPT被人物遮挡后能否正常识别。</p><p><img src="https://i.p-i.vip/88/20250821-68a68168c725e.webp" alt="测试图（由豆包生成）"></p><p>识别结果如下</p><p><img src="https://i.p-i.vip/88/20250820-68a5be1950dc9.webp" alt="结果"></p><p>可以看到只是简单截了个图，没有识别出这个图表。</p><p>另外，除了PPT，它也可以识别各类表格、菜单等，从宣传视频里就能体现出来。</p><div class="note warning modern"><p>智能复制功能经过测试，需要云端处理，所以请不要截取秘密内容。</p></div><p>小总结：确实是个很不错的功能，在一些情况下非常好用。但仍需提升识别精度与准确性。</p><h3 id="提取文字"><a href="#提取文字" class="headerlink" title="提取文字"></a>提取文字</h3><h4 id="简单文字"><a href="#简单文字" class="headerlink" title="简单文字"></a>简单文字</h4><p>这款截图工具对简单文字的识别还是<strong>非常准确</strong>的。如图所示是本博客之前转载的一篇<a href="/posts/post25/">文章</a>。</p><p><img src="https://i.p-i.vip/88/20250820-68a5bf5639427.webp" alt="测试结果"></p><p>除了所有的逗号都被识别为英文逗号之外没有什么问题。</p><h4 id="艺术字"><a href="#艺术字" class="headerlink" title="艺术字"></a>艺术字</h4><p>要是能正确识别花字或者艺术字，那就真厉害了。这是影视飓风的口号“無限進步”，来看看能不能被它准确识别。</p><p><img src="https://i.p-i.vip/88/20250820-68a5c041b8d37.webp" alt="识别结果"></p><p>它竟然真的<strong>识别出来</strong>了！！！厉害啊！但是我尝试过数次，但仅此一次成功。</p><p>同样，我使用PixPin的识别功能，也基本正确。但将繁体字“進”识别成了简体字“进”，这算不算错误呢？</p><h3 id="翻译"><a href="#翻译" class="headerlink" title="翻译"></a>翻译</h3><p><img src="https://i.p-i.vip/88/20250820-68a5c61652c2b.webp" alt="翻译结果与DeepL的对比"></p><p>经典的“微软式中文”，“轰！嚓-嚓-嚓！推推”！</p><h3 id="基础功能"><a href="#基础功能" class="headerlink" title="基础功能"></a>基础功能</h3><p>作为一个截图工具，最基本的画线、标注功能还是有的。</p><p><img src="https://i.p-i.vip/88/20250820-68a5d9dd91a15.webp" alt="基本功能"></p><p>但是，图形不支持填充、不能用调色板改颜色、不能改字体、没有贴图……这也着实令人失望。</p><h2 id="竞品对比"><a href="#竞品对比" class="headerlink" title="竞品对比"></a>竞品对比</h2><p>在体验完智能截图之后，让我们来看看它与我常用的PixPin的区别吧。</p><p><img src="https://i.p-i.vip/88/20250821-68a6764b7ba39.webp" alt="用户界面"></p><p>PixPin的功能还是比微软智能截图的功能<strong>丰富得多</strong>，上文所提到的微软截图不支持的功能它都有。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过上述测试我们不难发现，微软AI截图是一个<strong>有炫酷AI概念但功能尚不成熟、与成熟竞品仍有明显差距的早期产品</strong>。</p><p>综上所述，这款工具目前更适合<strong>偶尔需要快速提取文字、简单翻译，且对PPT格式转换精度要求不高的轻量级用户</strong>。如果你是一名<strong>需要频繁截图、进行精细标注、贴图记录的设计师或专业人士</strong>，那么<strong>PixPin</strong>或<strong>Snipaste</strong>仍然是更强大、更可靠的选择。</p>]]></content>
     
@@ -34,6 +59,8 @@
     
     
     <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
     
     <category term="截图" scheme="https://peter267.github.io/tags/%E6%88%AA%E5%9B%BE/"/>
     
@@ -535,9 +562,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
-    
     <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
     
   </entry>
   
@@ -559,31 +586,6 @@
     
     
     <category term="周记" scheme="https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GithubModels：免费AI大模型</title>
-    <link href="https://peter267.github.io/posts/post10/"/>
-    <id>https://peter267.github.io/posts/post10/</id>
-    <published>2024-08-30T12:40:00.000Z</published>
-    <updated>2024-08-30T12:40:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>真写不出啥来了，凑合看吧😪</p></blockquote><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在国内，当我们想跟GPT-4o聊天时，并且还是多次的，简直是<del>想peach</del>，几乎没有什么平台能让你每天多次跟GPT聊天的，可现在，<strong>它来了</strong>！<br><img src="https://peterimg.pages.dev/file/587e048f9b4c5f7337d83.png" alt="GitHub Models Logo"></p><h2 id="申请资格"><a href="#申请资格" class="headerlink" title="申请资格"></a>申请资格</h2><p>GithubModels 是一个大模型测试平台，需要加入等待列表等待审批后使用的，如果你还没有申请，<a href="https://github.com/marketplace/models/waitlist/join">点击申请</a>，我从申请到通过花了3周左右</p><h2 id="食用"><a href="#食用" class="headerlink" title="食用"></a>食用</h2><p>好的，你已经申请成功了！现在来聊天吧，<a href="https://github.com/marketplace?type=models">点击这里</a>来聊天吧！<br><img src="https://peterimg.pages.dev/file/0bfde365f399d48428f36.png" alt="聊天页面"><br>你也可以在左侧调整模型的参数，如下<br><img src="https://peterimg.pages.dev/file/6bbbfb9b02700ab169f26.png" alt="调整模型参数"></p><h2 id="限制"><a href="#限制" class="headerlink" title="限制"></a>限制</h2><p>不同型号的模型有着不同的限制，分为Low、High、Embedding，你可以在这里查看模型的种类<br><img src="https://peterimg.pages.dev/file/4af9b9dcec36c8774537f.png" alt="模型限制"><br>相关限制如下：<br><img src="https://peterimg.pages.dev/file/c3aac4f69887a6872ac0c.png" alt="具体限制"></p>]]></content>
-    
-    
-    <summary type="html">在国内，多次与GPT-4o聊天非常困难，但现在有了解决方案——GithubModels。</summary>
-    
-    
-    
-    <category term="服务推荐" scheme="https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
-    
-    
-    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
-    
-    <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
-    
-    <category term="推荐" scheme="https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
