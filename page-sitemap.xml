@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://peter267.github.io/link/</loc>
+        <lastmod>2025-08-28T08:26:07.858Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://peter267.github.io/zzh/</loc>
         <lastmod>2025-08-26T02:01:05.530Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +30,6 @@
     <url>
         <loc>https://peter267.github.io/addlink/</loc>
         <lastmod>2025-08-26T01:49:27.021Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://peter267.github.io/link/</loc>
-        <lastmod>2025-07-28T09:21:07.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
