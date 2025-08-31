@@ -58,9 +58,9 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="截图" scheme="https://peter267.github.io/tags/%E6%88%AA%E5%9B%BE/"/>
     
@@ -562,9 +562,9 @@
     
     <category term="如何____" scheme="https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
-    
     <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
     
   </entry>
   

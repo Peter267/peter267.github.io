@@ -67,7 +67,7 @@
   "AppID": "k6TFuNBeWSqfFChooxE4N5gq-MdYXbMMI",
   "AppKEY": "Mc1ufvizHj2FHOvQzVDQQ5Lm",
   "xianzhi": true,
-  "number": 1
+  "number": 35
 };
     var url = location.host + location.pathname;
     var flag = 0;
@@ -137,7 +137,7 @@
   "AppID": "k6TFuNBeWSqfFChooxE4N5gq-MdYXbMMI",
   "AppKEY": "Mc1ufvizHj2FHOvQzVDQQ5Lm",
   "xianzhi": true,
-  "number": 1
+  "number": 35
 };
     var url = location.host + location.pathname;
     var flag = 0;
@@ -223,7 +223,7 @@
   "AppID": "k6TFuNBeWSqfFChooxE4N5gq-MdYXbMMI",
   "AppKEY": "Mc1ufvizHj2FHOvQzVDQQ5Lm",
   "xianzhi": true,
-  "number": 1
+  "number": 35
 };
   if (BLOG_LIKE_CONFIG.Backend === "Leancloud") {
     var s = document.createElement('script');
