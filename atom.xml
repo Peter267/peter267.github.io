@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-09-13T08:41:16.903Z</updated>
+  <updated>2025-09-20T15:19:16.374Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于博客类型变化的通知</title>
+    <link href="https://peter267.github.io/posts/post36/"/>
+    <id>https://peter267.github.io/posts/post36/</id>
+    <published>2025-09-20T15:30:00.000Z</published>
+    <updated>2025-09-20T15:19:16.374Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实我觉得，科技博客对我来说还是太难了，在各位大神中我就像个小白一样，还达不到教别人的水平。故经考虑，博客将变为<strong>生活类</strong>博客。</p><p>生活类博客可以记录自己的生活，让每一天都过得有意义。我可能会每周去抽时间写一篇周记，记录下这周发生的各种事等等。</p><p>另外，记录生活可以提升写作水平，对于作文堪比流水账的我来说是个提升的好机会。</p><p>当然，科技类文章还是<strong>会有一些</strong>的，但比重会降低。</p><p>那么就先这样啦，我们下周再见！</p>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了博主对博客定位的调整。博主自觉科技博客难度大，在高手面前像小白，达不到教导他人水平，因此决定将博客转变为生活类博客。生活类博客可记录生活，让日子更有意义，博主计划每周写周记。同时，记录生活有助于提升博主写作水平。不过，科技类文章仍会保留一些，只是占比会降低。</summary>
+    
+    
+    
+    <category term="网站公告" scheme="https://peter267.github.io/categories/%E7%BD%91%E7%AB%99%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="周记" scheme="https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/"/>
+    
+    <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Chrome 139 不支持uBlock Origin？解决方法来了！</title>
@@ -565,27 +588,6 @@
     <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
     
     <category term="PHP" scheme="https://peter267.github.io/tags/PHP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周记     2024.9.2-2024.9.7</title>
-    <link href="https://peter267.github.io/posts/post11/"/>
-    <id>https://peter267.github.io/posts/post11/</id>
-    <published>2024-09-10T12:00:00.000Z</published>
-    <updated>2024-09-10T12:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>开学了，没时间写技术文章了，发点周记啥的吧。两周一更</p></blockquote><p>在这意义非凡的一周，我正式地告别了那充满童真与欢笑的小学生活，满心欢喜又略带忐忑地迎来了一段崭新且未知的生活 —— 初中生活。这是人生路上的新起点，就像开启了一扇通往新世界的大门。<br>当我怀着对未来的憧憬踏入初中校园的时候，周围的一切都是那么的陌生。新的校园环境、新的老师同学，这种陌生感让我在初期感到有些难以适应，于是……<br>开学第一天，我就迟到了。<br>我前一天晚上特意定了早上的闹钟，本想着能够早早起床，早早到校。可谁知道，闹钟响了之后，我却依然沉浸在睡梦之中，没有按时起来。等我猛地惊醒，一看时间已经很晚了，顿时心急如焚。在慌慌张张出门的那一刻，我竟然忘记了戴红领巾。无奈之下，我只能在路上的小卖部买了一条，就这样，因为这一连串的意外和耽搁，我迟到了。<br>事后，我反思了自己，因为我没有做好充足的准备，没有思想周全，再包括晚起床，就导致了我的迟到。<br>这一周，虽然有波折，但也充满了希望。它让我明白，每一个挑战都是成长的机会，而每一次尝试都将引领我走向成熟。带着这份领悟，我满怀信心地迎接接下来的日子。</p><div id="zan" class="clearfix">    <div class="heart" onclick="goodplus(url, flag)"></div>    <br>    <div id="zan_text"></div></div>]]></content>
-    
-    
-    <summary type="html">告别小学，作者踏入了充满挑战的初中生活，尽管第一天迟到，但他学会了从中反思成长。</summary>
-    
-    
-    
-    <category term="闲聊杂谈" scheme="https://peter267.github.io/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="周记" scheme="https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/"/>
     
   </entry>
   
