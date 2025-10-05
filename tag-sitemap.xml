@@ -80,6 +80,13 @@
     </url>
 
     <url>
+        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+        <lastmod>2025-08-02T11:05:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
         <lastmod>2025-08-02T11:05:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +95,6 @@
 
     <url>
         <loc>https://peter267.github.io/tags/Python/</loc>
-        <lastmod>2025-08-02T11:05:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
         <lastmod>2025-08-02T11:05:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
