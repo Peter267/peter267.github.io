@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/VitePress/</loc>
+        <lastmod>2025-11-01T06:26:12.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E7%94%B5%E6%95%99%E5%A7%94/</loc>
+        <lastmod>2025-11-01T06:26:12.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/Github/</loc>
+        <lastmod>2025-11-01T06:26:12.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
+        <lastmod>2025-11-01T06:26:12.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
         <lastmod>2025-10-24T13:41:06.761Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/Github/</loc>
-        <lastmod>2025-05-18T09:51:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
         <lastmod>2025-03-08T08:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -229,13 +250,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2024-08-22T03:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
-        <lastmod>2024-07-30T01:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

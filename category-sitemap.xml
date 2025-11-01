@@ -9,6 +9,13 @@
 
 
     <url>
+        <loc>https://peter267.github.io/categories/%25E6%259C%258D%25E5%258A%25A1%25E6%258E%25A8%25E8%258D%2590/</loc>
+        <lastmod>2025-11-01T06:26:12.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/categories/%25E9%2597%25B2%25E8%2581%258A%25E6%259D%2582%25E8%25B0%2588/</loc>
         <lastmod>2025-10-24T13:41:06.761Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,13 +39,6 @@
     <url>
         <loc>https://peter267.github.io/categories/%25E8%25BD%25AF%25E4%25BB%25B6%25E6%258E%25A8%25E8%258D%2590/</loc>
         <lastmod>2025-08-21T10:30:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/categories/%25E6%259C%258D%25E5%258A%25A1%25E6%258E%25A8%25E8%258D%2590/</loc>
-        <lastmod>2025-07-11T17:51:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

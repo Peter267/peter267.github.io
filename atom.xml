@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-10-24T13:41:06.761Z</updated>
+  <updated>2025-11-01T06:26:12.184Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>🌟 CN-e-learning：电教委员的全能指南</title>
+    <link href="https://peter267.github.io/posts/post40/"/>
+    <id>https://peter267.github.io/posts/post40/</id>
+    <published>2025-11-01T06:28:00.000Z</published>
+    <updated>2025-11-01T06:26:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是11月1日，祝大家万圣节🎃快乐呀！<del>不给糖就捣蛋！！！</del><br>这是我最近这一段时间做的一个<strong>《电教委员指南》</strong>项目，隶属于<strong>智教联盟</strong>。本篇文章旨在介绍此项目。</p><h2 id="什么是-CN-e-learning？"><a href="#什么是-CN-e-learning？" class="headerlink" title="什么是 CN-e-learning？"></a>什么是 CN-e-learning？</h2><blockquote><p>无论你是刚上任的电教委员，还是想提升工作效率的 “老司机”，这个项目都能成为你 classroom tech 运维的得力助手。</p></blockquote><p>CN-e-learning 是一个专为电教委员打造的开源指南项目，汇集了全国多所学校资深电教委的实战经验。从设备故障排查到软件操作技巧，从基础维护到进阶方案，这里涵盖了课堂技术支持的方方面面。</p><p>项目采用 VitePress 构建，文档结构清晰，支持本地部署和在线查阅，让你在课间紧急时刻也能快速找到解决方案。</p><h2 id="✨-为什么值得加入？"><a href="#✨-为什么值得加入？" class="headerlink" title="✨ 为什么值得加入？"></a>✨ 为什么值得加入？</h2><h3 id="1-内容实用且专业"><a href="#1-内容实用且专业" class="headerlink" title="1. 内容实用且专业"></a>1. 内容实用且专业</h3><ul><li>由经验丰富的一线电教委编写，所有方法都经过实际课堂验证</li><li>覆盖投影仪、音响、一体机等常见教学设备的故障处理</li><li>包含 Windows 系统配置、教学软件使用等实用技巧</li></ul><h3 id="2-持续更新的知识库"><a href="#2-持续更新的知识库" class="headerlink" title="2. 持续更新的知识库"></a>2. 持续更新的知识库</h3><ul><li>定期收录新设备型号的解决方案（如最新交互式白板操作）</li><li>跟进教育信息化政策，提供合规性配置指南</li><li>汇聚多校经验，形成 “一地问题，全国经验” 的共享机制</li></ul><h3 id="3-易于参与和贡献"><a href="#3-易于参与和贡献" class="headerlink" title="3. 易于参与和贡献"></a>3. 易于参与和贡献</h3><ul><li>支持通过 PR 或 Issue 提交你的实战经验</li><li>完善的贡献指南，即使是 Markdown 新手也能快速上手</li><li>贡献者名单实时更新，你的付出会被全国同行看到</li></ul><h2 id="🚀-如何开始使用？"><a href="#🚀-如何开始使用？" class="headerlink" title="🚀 如何开始使用？"></a>🚀 如何开始使用？</h2><h3 id="在线浏览"><a href="#在线浏览" class="headerlink" title="在线浏览"></a>在线浏览</h3><p>直接访问<a href="https://cnel.smart-teach.cn/">项目文档站点</a>，或通过 <a href="https://github.com/CN-E-Learning/CN-e-learning">GitHub 仓库</a> 查看源码。</p><h3 id="本地部署"><a href="#本地部署" class="headerlink" title="本地部署"></a>本地部署</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 克隆仓库</span></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/CN-E-Learning/CN-e-learning.git </span><br><span class="line"><span class="built_in">cd</span> CN-e-learning </span><br><span class="line"></span><br><span class="line"><span class="comment"># 安装依赖</span></span><br><span class="line">npm install </span><br><span class="line"></span><br><span class="line"><span class="comment"># 启动本地服务器</span></span><br><span class="line">npm run docs:dev</span><br></pre></td></tr></table></figure><p>在浏览器访问 <code>http://localhost:5173</code> 即可离线使用完整指南。</p><h2 id="🤝-加入共建计划"><a href="#🤝-加入共建计划" class="headerlink" title="🤝 加入共建计划"></a>🤝 加入共建计划</h2><p>教育技术支持不应是孤军奋战。无论你有：</p><ul><li>某个设备的独家维修技巧</li><li>课堂软件的隐藏功能发现</li><li>甚至是对指南内容的优化建议</li></ul><p>都欢迎通过以下方式参与：</p><ol><li>提交 PR 直接完善文档</li><li>在 <a href="https://github.com/CN-E-Learning/CN-e-learning/issues">Issues</a> 分享你的经验</li><li>加入 QQ 群（982310822）交流讨论</li></ol><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>一个优秀的电教委员，能让课堂效率提升 30% 以上。CN-e-learning 正致力于让每所学校都能拥有专业的技术支持能力。</p><p>如果这个项目对你有帮助，别忘了给仓库点个 Star ⭐，让更多电教同行看到这份实用指南！</p><p><img src="https://i.p-i.vip/88/20251101-6905a37b78d46.webp" alt="网站截图"></p>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了隶属于智教联盟的《电教委员指南》项目CN-e-learning 。它是为电教委员打造的开源指南项目，汇集多校资深电教委实战经验，涵盖课堂技术支持各方面，用VitePress构建，文档结构清晰，支持本地部署与在线查阅。该项目内容实用专业，知识库持续更新，易于参与贡献。可在线浏览或本地部署使用，还欢迎大家加入共建计划，助力提升学校技术支持能力。</summary>
+    
+    
+    
+    <category term="服务推荐" scheme="https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="AI撰写" scheme="https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/"/>
+    
+    <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
+    
+    <category term="电教委" scheme="https://peter267.github.io/tags/%E7%94%B5%E6%95%99%E5%A7%94/"/>
+    
+    <category term="VitePress" scheme="https://peter267.github.io/tags/VitePress/"/>
+    
+  </entry>
   
   <entry>
     <title>捡拾幸福</title>
@@ -569,27 +596,6 @@
     <category term="水" scheme="https://peter267.github.io/tags/%E6%B0%B4/"/>
     
     <category term="博客" scheme="https://peter267.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>功成不必在我，功成必定有我</title>
-    <link href="https://peter267.github.io/posts/post15/"/>
-    <id>https://peter267.github.io/posts/post15/</id>
-    <published>2024-10-20T06:19:00.000Z</published>
-    <updated>2024-10-20T06:19:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在校运会练习走方队的过程中，我理解了“功成不必在我，功成必定有我”的真正含义。这让我懂得，一个集体的成功，靠的是每个人的小小的努力。</p><p>初次练习时，我只想着自己能走得最好。但很快发现，方队的整齐划一取决于所有人的步调一致。即使某个人做得再好，如果不能与大家协调，整个方队的队形也会受到影响。我们需要关注身边的同学，互相配合，才能让方队在运动会开幕时展现出最佳效果。</p><p>训练中，我学会了关注身边的同学，和大家保持步调一致。少了谁都不行，而我们的成功是大家共同努力得来的。</p><p>这次经历让我明白，成功不一定是做那个最闪亮的人，而是在团队中做默默贡献的一份子。即便最终的荣誉不是个人的，但只要参与其中，贡献力量，就值得骄傲。</p><p>在今后的学习和生活中，我也会继续努力，和大家一起合作，为班级、为学校做更多的贡献。我相信，每一个小小的努力，最终都会汇聚成胜利的一部分。</p><p>我会把这种精神用在更多地方，不仅是为了自己的进步，更是为了我们集体的光荣。这样，功成的路上一定会有我的一份努力。</p><p>功成不必在我，功成必定有我！</p><div id="zan" class="clearfix">    <div class="heart" onclick="goodplus(url, flag)"></div>    <br>    <div id="zan_text"></div></div>]]></content>
-    
-    
-    <summary type="html">作者在校运会方队训练中深刻理解到集体成功需要每个人的努力。他意识到只有团结一致，方队才能展现出最佳效果。</summary>
-    
-    
-    
-    <category term="闲聊杂谈" scheme="https://peter267.github.io/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="作文" scheme="https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/"/>
     
   </entry>
   
