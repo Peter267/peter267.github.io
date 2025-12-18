@@ -3,8 +3,22 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
+        <lastmod>2025-12-18T15:17:39.505Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
+        <lastmod>2025-12-18T15:17:39.505Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/</loc>
-        <lastmod>2025-12-14T12:04:15.642Z</lastmod>
+        <lastmod>2025-12-14T12:08:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -33,13 +47,6 @@
     <url>
         <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
         <lastmod>2025-11-01T06:26:12.184Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
-        <lastmod>2025-10-24T13:41:06.761Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -88,21 +95,21 @@
 
     <url>
         <loc>https://peter267.github.io/tags/%E8%B0%B7%E6%AD%8C/</loc>
-        <lastmod>2025-09-13T08:41:16.903Z</lastmod>
+        <lastmod>2025-09-13T08:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://peter267.github.io/tags/%E5%A6%82%E4%BD%95/</loc>
-        <lastmod>2025-09-13T08:41:16.903Z</lastmod>
+        <lastmod>2025-09-13T08:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
-        <lastmod>2025-09-13T08:41:16.903Z</lastmod>
+        <lastmod>2025-09-13T08:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -194,13 +201,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
         <lastmod>2025-06-08T18:37:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
-        <lastmod>2025-03-08T08:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
