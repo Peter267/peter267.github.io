@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/</loc>
+        <lastmod>2026-02-04T13:33:23.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/Serverless/</loc>
+        <lastmod>2026-02-04T13:33:23.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
         <lastmod>2025-12-20T14:00:22.162Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,14 +52,14 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
+        <loc>https://peter267.github.io/tags/Github/</loc>
         <lastmod>2025-11-01T06:26:12.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/Github/</loc>
+        <loc>https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/</loc>
         <lastmod>2025-11-01T06:26:12.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -122,14 +136,14 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
+        <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
         <lastmod>2025-08-21T10:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
+        <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
         <lastmod>2025-08-21T10:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/</loc>
-        <lastmod>2025-07-29T04:32:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://peter267.github.io/tags/%E7%99%BD%E5%AB%96/</loc>
         <lastmod>2025-07-11T17:51:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,13 +214,6 @@
 
     <url>
         <loc>https://peter267.github.io/tags/Vercel/</loc>
-        <lastmod>2025-02-22T19:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/Serverless/</loc>
         <lastmod>2025-02-22T19:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

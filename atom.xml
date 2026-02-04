@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/config/feed/atom.xsl" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Peter267</title>
   
@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2025-12-20T14:00:22.162Z</updated>
+  <updated>2026-02-04T13:33:23.683Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Zeabur部署OpenList，免费、快速且稳定</title>
+    <link href="https://peter267.github.io/posts/post43/"/>
+    <id>https://peter267.github.io/posts/post43/</id>
+    <published>2026-02-04T13:34:00.000Z</published>
+    <updated>2026-02-04T13:33:23.683Z</updated>
+    
+    <content type="html"><![CDATA[<p>告别了忙碌的学期，终于有时间静下心来摆弄那些收藏已久的项目。最近把精力主要花在了基础设施上：先是开通了 <strong>CloudflareR2</strong> 解决存储痛点，又把 <strong>Zeabur</strong> 当成了我的 Docker 实验场，先后跑通了不少好玩的服务。</p><p>今天的文章，我想重点分享一下 <strong>OpenList</strong> 的部署心得。如果你也想找一个低门槛、高效率的方式来管理你的列表应用，那么这篇基于 Zeabur 的部署指南一定不容错过。</p><h2 id="为什么选Zeabur"><a href="#为什么选Zeabur" class="headerlink" title="为什么选Zeabur"></a>为什么选Zeabur</h2><p>如果你在搜索引擎搜索“免费部署OpenList”，那么搜出来的文章一般都会教你去用<strong>ClawCloud</strong>（爪云）进行部署。实际部署后，会发现它访问极慢，还会出现<code>no healthy upstream</code>的诡异报错……</p><p>并且，由于爪云跟不上OpenList的更新，导致无法便捷地进行部署。<br><img src="https://i.p-i.vip/88/20260204-6982e6d61fbaa.webp" alt="OpenList-使用PaaS部署"></p><p>相比而言，<strong>Zeabur</strong>由<strong>国内公司</strong>运营，<strong>速度快</strong>，且和爪云一样每月提供<code>5$</code><strong>免费额度</strong>，部署OpenList完全够用。根据测试，使用Zeabur部署OpenList每月仅需<code>0.32$</code>，~~~爪云却需要<code>2.1$</code>~~~（爪云把CPU和Memory拉到最低的话仅需<code>0.3$</code>且够用）。</p><p>爪云的免费计划的新加坡和日本两个离中国近的地区非常拥挤，之前部署服务就要几十分钟，绑定自定义域名好几天才能成功。而美国、德国两个不那么拥挤的地区却离中国远，访问慢。</p><p>Zeabur的免费地区虽然只有两个（印度尼西亚 - 雅加达，美国 - 硅谷），但胜在雅加达离中国较近（对于美国），访问速度还是可以的。</p><p><img src="https://i.p-i.vip/88/20260204-6982ec94ecd8a.webp" alt="ITDOG测速Zeabur服务器"></p><div class="note info modern"><p>文章关于爪云的评价基于我半年前的体验。有趣的是，在撰稿过程中我再次进行了复测，发现其美西节点的访问速度竟反超了 Zeabur 的雅加达节点。不过，考虑到网络稳定性与部署的便捷度，Zeabur 依然是我的首选推荐。</p><p><img src="https://i.p-i.vip/88/20260204-6982ef03622cc.webp" alt="ITDOG测速ClawCloud服务器"></p></div><p>当然，Zeabur也不是哪里都好，部署服务的话需要一个<strong>电话号码</strong>。</p><h2 id="部署过程"><a href="#部署过程" class="headerlink" title="部署过程"></a>部署过程</h2><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>部署OpenList，你需要准备以下材料</p><ul><li>Zeabur账户</li><li>可接收短信的电话号码（国内即可）&#x2F;付款方式</li></ul><p>若你愿意使用Zeabur并<strong>付费</strong>，也可以点击这个按钮，我和你都可以获得<code>5$</code>的现金抵扣😀。</p><p><a href="https://zeabur.com/referral?referralCode=Peter267&utm_source=Peter267"><img src="https://zeabur.com/deployed-on-zeabur-dark.svg" alt="Deployed on Zeabur"></a></p><h3 id="从模板选择OpenList"><a href="#从模板选择OpenList" class="headerlink" title="从模板选择OpenList"></a>从模板选择OpenList</h3><p>你可以点击下方链接部署。</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://zeabur.com/zh-CN/templates/W474DZ">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://i.p-i.vip/88/20260204-6982fc097d43f.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">OpenList部署</div>            <div class="tag-link-sitename"> Zeabur</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p><img src="https://i.p-i.vip/88/20260204-6982fd1a173d8.webp" alt="OpenList模板"></p><p><img src="https://i.p-i.vip/88/20260204-6982fdcbbfbf5.webp" alt="部署OpenList"></p><p>选择完成后点击<strong>确定</strong>开始部署。免费区域可能会排队，一般3分钟即可部署完成。</p><h3 id="修改端口"><a href="#修改端口" class="headerlink" title="修改端口"></a>修改端口</h3><p>部署完成后，你可以先尝试访问你设置的域名，如果没有502报错，那么你可以跳过这一步。</p><p>如果有报错，你可以通过一键询问 Zeabur Agent来解决（我自己真的不会修，欢迎大佬评论区指点）。</p><p><img src="https://i.p-i.vip/88/20260204-698301bd7f312.webp" alt="复制提示词"></p><p><img src="https://i.p-i.vip/88/20260204-6983026bd62f7.webp" alt="询问Zeabur Agent"></p><p>AI会说这是端口问题，会主动帮你修复，点击同意即可。</p><p><img src="https://i.p-i.vip/88/20260204-698302e7681e2.webp" alt="修复问题"></p><p>稍等片刻，域名就可以正常访问了（如果还是不行就再问问AI或者重新部署）。</p><h3 id="登录"><a href="#登录" class="headerlink" title="登录"></a>登录</h3><p>进入你设置的域名</p><ul><li>用户名：<code>admin</code></li></ul><h4 id="获取密码"><a href="#获取密码" class="headerlink" title="获取密码"></a>获取密码</h4><p>进入项目主页，点击日志。</p><p><img src="https://i.p-i.vip/88/20260204-6983044ceae25.webp" alt="点击日志"></p><p>往上滑，找到最开始的日志，就可以看到密码了。</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">INFO[<span class="number">2024</span>-<span class="number">01</span>-<span class="number">01</span> <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span>] Successfully created the admin user and the initial password is: &lt;密码&gt;</span><br></pre></td></tr></table></figure><p><img src="https://i.p-i.vip/88/20260204-698304a6374ad.webp" alt="密码在日志中输出"></p><p>登录后第一时间修改账号密码，就可以享受了。</p><p><img src="https://i.p-i.vip/88/20260204-698305a9a77c4.webp" alt="OpenList"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>至此，你已经成功在 Zeabur 上搭建了一个属于自己的 OpenList。虽然在测试过程中发现各家服务商的线路质量各有千秋，但 <strong>Zeabur</strong> 凭借其出色的容器管理能力和 <strong>AI Agent</strong> 的加持，依然是目前最省心的部署方案之一。</p>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了作者在学期结束后专注于基础设施项目，重点分享OpenList的部署心得。文章对比了Zeabur和ClawCloud（爪云），指出爪云部署OpenList存在访问慢、报错、更新不及时等问题，而Zeabur由国内公司运营，速度快，有免费额度，虽需电话号码但优势明显。还详细说明了在Zeabur上部署OpenList的步骤，包括准备材料、从模板选择、修改端口、登录及获取密码等，最后总结Zeabur是省心的部署方案之一。</summary>
+    
+    
+    
+    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Serverless" scheme="https://peter267.github.io/tags/Serverless/"/>
+    
+    <category term="折腾" scheme="https://peter267.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>收藏一片风景</title>
@@ -77,9 +100,9 @@
     <category term="服务推荐" scheme="https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
-    
     <category term="AI撰写" scheme="https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/"/>
+    
+    <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
     
     <category term="电教委" scheme="https://peter267.github.io/tags/%E7%94%B5%E6%95%99%E5%A7%94/"/>
     
@@ -223,9 +246,9 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="体验" scheme="https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
     
@@ -575,27 +598,6 @@
     
     
     <category term="锵锵论道" scheme="https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何查看答案圈隐藏的答案</title>
-    <link href="https://peter267.github.io/posts/post18/"/>
-    <id>https://peter267.github.io/posts/post18/</id>
-    <published>2024-11-24T13:50:00.000Z</published>
-    <updated>2024-11-24T13:50:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<div class="note warning flat"><p>本教程不是让你抄答案用的！</p></div><h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>当我们需要对（抄）答案但找不到纸质答案时，很多人喜欢在网上搜答案，但一般搜到的是这样的</p><p><img src="https://wmimg.com/i/1169/2024/11/6742fadca9d99.png" alt="需要登录/花钱才能看"></p><p>找了很多平台，几乎没有免登录&#x2F;花钱的。但是，我看到了一个平台虽然让登录，但是能通过看看源码的方式看到答案。</p><p>答案圈（不给链接）</p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>找到自己的练习册，点击鼠标右键&#x3D;&gt;查看页面源代码</p><p><img src="https://wmimg.com/i/1169/2024/11/6742fc5e13c0a.png" alt="1732443227368.png"></p><p>代码一般在53行，大部分浏览器在左侧会标行数。</p><p><img src="https://wmimg.com/i/1169/2024/11/6743248211d47.png" alt="左侧有表明行数"></p><p>滑动条往右划，找到自己要找的答案大概的位置，这一行会有这个格式的链接，点开就能看到答案</p><p><img src="https://wmimg.com/i/1169/2024/11/674324f962909.png" alt="我标明的位置"></p><p>举个例子，把这个链接打开</p><p><a href="https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800">https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800</a></p><p>通过图片确定答案位置后在网址栏将最后的<code>!500_800</code>删掉即可放大图片</p><p><img src="https://wmimg.com/i/1169/2024/11/674327025f8fd.png" alt="演示"></p><p>这样就可以对（抄）答案了</p><div class="note warning flat"><p>本教程不是让你抄答案用的！</p></div>]]></content>
-    
-    
-    <summary type="html">文章介绍了一种无需登录或付费即可查看答案的技巧。通过查看网页源代码，找到答案链接，然后访问以查看答案。</summary>
-    
-    
-    
-    <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="扒代码" scheme="https://peter267.github.io/tags/%E6%89%92%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
