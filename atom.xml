@@ -100,9 +100,9 @@
     <category term="服务推荐" scheme="https://peter267.github.io/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="AI撰写" scheme="https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/"/>
-    
     <category term="Github" scheme="https://peter267.github.io/tags/Github/"/>
+    
+    <category term="AI撰写" scheme="https://peter267.github.io/tags/AI%E6%92%B0%E5%86%99/"/>
     
     <category term="电教委" scheme="https://peter267.github.io/tags/%E7%94%B5%E6%95%99%E5%A7%94/"/>
     
@@ -246,13 +246,13 @@
     <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
-    
     <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="体验" scheme="https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    <category term="AI纪元" scheme="https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/"/>
     
     <category term="截图" scheme="https://peter267.github.io/tags/%E6%88%AA%E5%9B%BE/"/>
+    
+    <category term="体验" scheme="https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
