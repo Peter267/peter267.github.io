@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
-        <lastmod>2025-08-21T10:30:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://peter267.github.io/tags/AI%E7%BA%AA%E5%85%83/</loc>
         <lastmod>2025-08-21T10:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +143,21 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/Python/</loc>
-        <lastmod>2025-08-02T11:05:00.000Z</lastmod>
+        <loc>https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
+        <lastmod>2025-08-21T10:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+        <lastmod>2025-08-02T11:05:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/Python/</loc>
         <lastmod>2025-08-02T11:05:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
