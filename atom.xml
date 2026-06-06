@@ -6,7 +6,7 @@
   <link href="https://peter267.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter267.github.io/"/>
-  <updated>2026-03-28T03:48:18.540Z</updated>
+  <updated>2026-06-06T17:01:16.512Z</updated>
   <id>https://peter267.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>近况（Ⅱ）</title>
+    <link href="https://peter267.github.io/posts/post45/"/>
+    <id>https://peter267.github.io/posts/post45/</id>
+    <published>2026-06-06T17:10:00.000Z</published>
+    <updated>2026-06-06T17:01:16.512Z</updated>
+    
+    <content type="html"><![CDATA[<p>距离上次更新已经过去两个多月了（确实隔了挺长时间）。在这期间，我的生活过得非常充实，发生了很多重要的大事：从紧张的<strong>月考</strong>和<strong>期中考</strong>，到令人难忘的<strong>学农</strong>时光，再到光荣地<strong>加入了共青团</strong>……在这篇文章里，我想和大家聊聊这段时间的故事。</p><h2 id="玩游戏"><a href="#玩游戏" class="headerlink" title="玩游戏"></a>玩游戏</h2><p>其实我从2020年（2年级）就开始玩游戏了，主要是疫情在家没有娱乐活动，并且获得手机的原因。最开始玩的是<strong>网易版《我的世界》</strong>，但当时啥也不会，甚至工作台都不知道是什么，只知道用TNT在地图里乱炸。炸的没意思了就退坑了。</p><p>到了 2022 年，<strong>《蛋仔派对》</strong>面世。之前看到<strong>《糖豆人：终极淘汰赛》</strong>时就很感兴趣，可惜碍于它是付费游戏一直没玩。虽然后来《糖豆人》也转为了免费，但因为《蛋仔派对》公测比它早了差不多一个月，我便顺理成章地先入坑了《蛋仔派对》。</p><p>这一玩就是2年，每天在线时长数个小时，可谓是沉迷游戏无法自拔。（你们不要学我，我现在近视度数很高）至于糖豆人，它的PC端键位记不住且我的PC性能太差，移动端手感不好（个人认为），也就不再玩了。</p><p>上了初中，由于忙于捣鼓博客，就不再玩游戏了。这个状态持续到了2025年底。当时信息课无聊，找了个<strong>网页版《我的世界》</strong>，和同学们一起联机，非常有趣。所以我又开始玩游戏了。在我的电脑上装了<strong>《我的世界》JAVA版</strong>并开了服务器，但是没人陪我玩😥。</p><p>到了<strong>2026年3月</strong>，我们同学觉得我学业压力太大，让我多玩游戏，带我入坑了<strong>《崩坏：星穹铁道》</strong>等，这也是我第一次玩二游，虽然星铁不是开放世界，角色不能跳跃，但是漂亮的角色和简单的回合制玩法、有意思的剧情依旧深深吸引着我。</p><h2 id="月考"><a href="#月考" class="headerlink" title="月考"></a>月考</h2><blockquote><p>七年级下学期没有月考啊，怎么八下又有了？！</p></blockquote><p>因为这个学期开始玩游戏了，担心学习成绩会不会下降，但结果出我所料。</p><p>汲取了<a href="https://peter267.github.io/posts/post41/#%E6%9C%88%E8%80%83">上次月考</a>的经验，本次月考特别注重心态调整，没有很努力地复习，但是结果很圆满，是有史以来考得最好的一次。</p><p>历史学科尤为值得一提，这是我首次得分90+</p><p>但是学校这次采用的是“单科单发”的模式，没有总分与总等级，但根据估算，我的班级排名大约在4-5名之间，于我而言已经非常不错了！</p><h2 id="期中"><a href="#期中" class="headerlink" title="期中"></a>期中</h2><blockquote><p>竟然连续两次考得都不错</p></blockquote><p>根据之前的经验，我从未连续两次考好过，但这次成绩的确出乎意料。</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780667507445.webp" alt="智学网成绩"></p><p>除了数学和物理外，成绩都还不错，并且再一次进入年级前30名的行列中。</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780713765565.webp" alt="表彰会"></p><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>数学错了较多的不该错的题。</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780711277604.webp" alt="数学试卷"></p><p>比如选择第七题。首先需要在需要在 $a+\frac{1}{a}&#x3D;\sqrt{7}$ 的左右两边平方。</p><p>$$\left(a+\frac{1}{a}\right)^{2}&#x3D;7$$<br>$$a^{2}+2+\frac{1}{a^{2}}&#x3D;7$$<br>$$a^{2}+\frac{1}{a^{2}}&#x3D;5$$<br>接着将$a-\frac{1}{a}$平方得$a^{2}-2+\frac{1}{a^{2}}$</p><p>将$a^{2}+\frac{1}{a^{2}}&#x3D;5$代入上式得$\left(a-\frac{1}{a}\right)^{2}&#x3D;3$</p><p>故$a-\frac{1}{a}&#x3D;\pm\sqrt{3}$，选<strong>D</strong>。</p><p>可以看到解题过程并不复杂，但考试时就是没做上来。</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780712674771.webp" alt="填空第16题"></p><p>这道题可以通过构建<strong>平面直角坐标系</strong>来解答，过程不再赘述。</p><h3 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h3><p><img src="https://s3.peter267.dpdns.org/imgs/1780713089754.webp" alt="物理多选第13题"></p><p>这道题中存在很多“坑”。</p><p>选项A“<strong>图中</strong>铝块…”：可以看到，图中铝块<strong>仅有一半体积浸入水中</strong>，很多人（包括我）算成了铝块全部浸入水中时所受的最大浮力。</p><p>选项D：<strong>溢水杯</strong>指的是图片中左侧较大的容器，由于<strong>溢水杯开始时是装满水的，将铝块浸入水中后水的高度没有变化</strong>，压强自然没变化。</p><p>排除了A、D，由于这是一道多选题，答案B、C呼之欲出。</p><h2 id="学农"><a href="#学农" class="headerlink" title="学农"></a>学农</h2><p>学校每一届八年级都会组织<strong>学农活动</strong>，今年终于轮到我们了。学农一共三天，周一去周三回。遗憾的是，周一周二一直在<strong>下雨</strong>导致我们没有下地干活。</p><blockquote><p>图片有时间补</p></blockquote><h3 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h3><p>一大早从学校出发，大概在10:30到达学农地点。学农校区建在山上，道路崎岖不平，几乎没有平路（等高线密集，坡度陡🤓）。</p><p>去了先办入住（寝室长的事与我无关），然后分配宿舍。好的是我被分配到了<strong>六人间</strong>（人数较少），但缺点就是房间极小，挤死人。对面12人间反而宽敞许多。</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780762062448.webp" alt="宿舍简图"></p><p>接着中午吃饭。食堂的饭还是很美味的，至少比我们学校食堂好吃。（味真足~）</p><p>中午午休过后就去上课（为什么学农还要上课啊？！），因为外面下雨，户外活动环节直接被取消，上课时间从<strong>15:00到17:30</strong>！（当然我睡了俩小时）</p><p>课上主要讲的是昆虫相关内容，老师还带来了<strong>真的昆虫</strong>给我们观赏，还有<strong>斗虫</strong>环节。</p><p>下课后距离吃饭还有些时间，老师（或者说导游）带着我们在学校转了一圈，见到了众多植物。沿途看到了很多<strong>桑葚</strong>，我们纷纷前去采摘，收获颇丰。</p><p>转完一圈就去吃晚饭（依旧忘不了吃饭）。吃完饭以为晚上还有活动，谁知是<strong>生物地理卷子</strong>。当然马上要会考也能理解。做完卷子后我们班组织看了会<strong>《闪灵》</strong>（晚上看恐怖片这一块）就回宿舍休息了。</p><p>因为在18:00不到就吃了晚饭，晚上22:00才睡觉，饿死了，果断吃块沙琪玛。</p><p>夜里熄灯后当然睡不着，我们一起聊天。至于聊的内容，大概可以用“八卦”来形容吧。</p><p>因为隔天还有事，在23:30就睡了。</p><h3 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h3><p>早上6:30起床后是晨练环节。说是晨练，也不过是带着你在学校转一圈，路线与第一天别无二致。</p><p>7:00吃早饭，然后回宿舍整理内务，8:30继续回教室上课。</p><p>课上讲的是关于<strong>种植蘑菇</strong>相关内容，这也是唯一有<strong>手工活动</strong>的课程。</p><p>活动就是教你如何种蘑菇（好像是<strong>平菇</strong>），具体过程我也没学会，大致就是把主料（可能是棉籽壳、木屑、玉米芯、稻草等）和<strong>石灰</strong>混在一起形成培养料，把<strong>菌种</strong>掰成小块，与<strong>培养料</strong>放在一个<strong>袋子</strong>里，袋子打结扎孔。</p><p>最后收获满满，理论上几周后就能长出蘑菇啦~</p><p>下午课程讲的是关于<strong>玉米</strong>的内容。包括玉米能干什么，如何种植等内容。</p><p>课程结束恰逢雨停，老师便带我们<strong>在学校里转一圈</strong>，给我们<strong>讲讲沿途的植物</strong>。中途又遇到了采摘桑葚的地方，我们拿起早已准备好的袋子去摘桑葚，桑葚树直接被“<strong>薅秃了</strong>”。</p><p>晚上继续做生物地理卷子……</p><p>因为第三天就是返程，比较轻松，况且车里也可以睡觉，我们便畅聊到12:30，困得不行才睡😴。至于内容，和第一天相同。</p><blockquote><p> 为什么还有我的八卦啊，关系好点怎么了</p></blockquote><h3 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h3><p>6:30起床后就直接吃早饭了，我们寝室的同学对桑葚念念不忘，一大早就偷偷去摘。</p><p>吃完饭收拾完寝室就踏上归途啦~</p><p>我们大概10:30就到了学校，多数同学直接回家了。我与他们不同，还要回班准备下午的团课考试。</p><h2 id="入团"><a href="#入团" class="headerlink" title="入团"></a>入团</h2><p>本人对政治工作、国企央企、公务员等兴趣不大，但是机会就在眼前，就被评为了入团积极分子（八年级名额每班一个）。</p><p>作为班内唯一积极分子，我对入团工作还是很上心的。认真上团课，写思想汇报……</p><p><img src="https://s3.peter267.dpdns.org/imgs/1780714354194.webp" alt="三篇思想汇报"></p><p>在2026.5.27日学农回来的下午，我参加了团课考试。很高兴以96分的成绩、年级第一名通过考试。</p><p>（由于入团相关事项尚未完成，接下来的内容尚不透露）</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>从刚上初中时一门心思捣鼓博客、和游戏“绝缘”，到如今在同学的带动下重新找到娱乐的平衡；从面对考试的紧绷，到学会调整心态拿到了历史首次90+。这两个月，我不仅身份上多了一枚共青团徽章，心态上也似乎长大了一些。</p><p>现实生活可比《我的世界》和《崩坏：星穹铁道》复杂得多，没有完美的攻略，但每一次探索都算数。接下来的日子里，希望自己能继续保持这份热忱，去迎接八年级下学期剩下的所有挑战。</p><p>下一个重要节点应该就是生地会考了，祝我好运，也祝读到这里的你一切顺利！</p>]]></content>
+    
+    
+    <summary type="html">这篇文章介绍了作者在时隔两个多月后分享的充实初二生活。在游戏方面，作者回顾了从小学至今的电竞经历，并在同学带动下入坑二游；学业上，作者调整心态后在月考与期中考均取得突破，不仅历史首破九十分，还进入年级前三十，文中还附带了解析数学和物理错题的思路。此外，文章详细叙述了为期三天、伴随采摘桑葚与制作蘑菇菌袋的趣味学农活动，以及作者作为班级唯一名额顺利通过考试并光荣入团的经历，展现了其近期的成长与对即将到来的生地会考的期许。</summary>
+    
+    
+    
+    <category term="闲聊杂谈" scheme="https://peter267.github.io/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="周记" scheme="https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/"/>
+    
+    <category term="研学" scheme="https://peter267.github.io/tags/%E7%A0%94%E5%AD%A6/"/>
+    
+    <category term="体验" scheme="https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+    <category term="游戏" scheme="https://peter267.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>最好的礼物</title>
@@ -294,11 +321,11 @@
     <category term="经验分享" scheme="https://peter267.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
     
     
+    <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
     <category term="Python" scheme="https://peter267.github.io/tags/Python/"/>
     
     <category term="笔记" scheme="https://peter267.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="科普" scheme="https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -575,29 +602,6 @@
     
     
     <category term="水" scheme="https://peter267.github.io/tags/%E6%B0%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2024年度浏览器扩展推荐</title>
-    <link href="https://peter267.github.io/posts/post20/"/>
-    <id>https://peter267.github.io/posts/post20/</id>
-    <published>2025-01-14T05:50:00.000Z</published>
-    <updated>2025-01-14T05:50:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>2024年（好像）是我第3年使用Edge浏览器了，虽然Edge最近的行为有点恶心，但依然非常喜欢用。喜欢用的原因不仅是因为Edge好用，还有插件的功劳。在这篇文章，我来介绍下我在今年（2024年）中使用的扩展。</p><hr><h2 id="广告拦截-AdGuard"><a href="#广告拦截-AdGuard" class="headerlink" title="广告拦截 - AdGuard"></a>广告拦截 - AdGuard</h2><p>这个属于浏览器必备吧，能屏蔽网站99％的广告，以及搜索引擎的广告，非常好用，免费无广告，界面美观。</p><p><img src="https://wmimg.com/i/1169/2025/01/6784dc56899b3.png" alt="AdGuard界面"></p><p>非常喜欢它的一个功能——“拦截此网站上的广告”，可以删掉网站上一些不喜欢的东西。</p><p><img src="https://wmimg.com/i/1169/2025/01/6784dd35c9e21.gif" alt="拦截广告操作过程"></p><p>吐槽一下，现在有的网站会检测这类插件，必须关闭才能继续使用。希望AdGuard加一个“隐身”模式。</p><ul><li>价格：插件免费</li><li>官网：<a href="https://adguard.com/">https://adguard.com</a></li></ul><h2 id="视频速度控制-Global-Speed"><a href="#视频速度控制-Global-Speed" class="headerlink" title="视频速度控制 - Global Speed"></a>视频速度控制 - Global Speed</h2><p>可以控制媒体的播放速度，上面AdGuard屏蔽不了的视频前广告可以拿这个加速观看，至高16倍速！</p><p><img src="https://wmimg.com/i/1169/2025/01/6784e02ea666c.png" alt="Global Speed 界面"></p><p>但是，插件的隐身模式没啥用，一些课程网站会禁止这类插件，无法倍速。所以不要想着拿这个刷课。</p><p>另外，用了这个插件会导致网页本身的倍速控制失效。</p><ul><li>价格：开源免费</li><li>官网：<a href="https://github.com/polywock/globalSpeed">https://github.com/polywock/globalSpeed</a></li></ul><h2 id="免费复制-SuperCopy"><a href="#免费复制-SuperCopy" class="headerlink" title="免费复制 - SuperCopy"></a>免费复制 - SuperCopy</h2><p>部分网站会禁止用户复制内容，当用户使用这个插件后，可以直接复制。</p><p>当然，比它更好用的是OCR识别。</p><p><img src="https://wmimg.com/i/1169/2025/01/6784e281e93f3.png" alt="SuperCopy界面"></p><p>貌似对某文库无效……</p><ul><li>价格：免费</li><li>官网：<a href="https://www.enablecopy.com/">https://www.enablecopy.com</a></li></ul><h2 id="上网时间统计-网费很贵"><a href="#上网时间统计-网费很贵" class="headerlink" title="上网时间统计 - 网费很贵"></a>上网时间统计 - 网费很贵</h2><p>之前使用的是Webtime Tracker，但是太简陋了，而且是英文的。偶然间发现一个可以统计你的上网时间的扩展。可以看到你看哪个网站最多、最少。</p><p><img src="https://wmimg.com/i/1169/2025/01/6784e3dc2d50c.png" alt="网费很贵界面"></p><p>拥有丰富的统计数据，了解自己的上网习惯。</p><p>如果你之前使用的是其他的统计的扩展，想迁移到这个，可以点击数据   管理&#x3D;&gt;导入其他插件的数据   来进行迁移。</p><p><img src="https://wmimg.com/i/1169/2025/01/6784e43eec0d0.png" alt="丰富的统计数据"></p><ul><li>价格：开源免费</li><li>官网：<a href="https://www.wfhg.cc/">https://www.wfhg.cc</a></li></ul><h2 id="网页翻译-沉浸式翻译"><a href="#网页翻译-沉浸式翻译" class="headerlink" title="网页翻译 - 沉浸式翻译"></a>网页翻译 - 沉浸式翻译</h2><p>我愿称他为最好的网页翻译扩展。可以沉浸式地浏览外文网站，支持双语对照。另外，还支持字幕翻译、文件翻译、鼠标悬停翻译等。且针对部分主流的外文网站专门优化，浏览更加高效！</p><p><img src="https://wmimg.com/i/1169/2025/01/6785cbb8202f4.png" alt="沉浸式翻译界面"></p><p>同时支持多种翻译服务，包括ChatGPT（付费）等AI翻译和DeepL等机器翻译。若使用AI翻译还支持使用“AI专家”功能，通过定制Prompt来有效的提高翻译质量。</p><p>但是，Vercel等网站如果翻译的话会报错。</p><ul><li>价格：免费，会员：¥579.6&#x2F;年，¥69&#x2F;月</li><li>官网：<a href="https://immersivetranslate.com/?via=peter267">https://immersivetranslate.com</a></li></ul><p>给沉浸式翻译打了广告~</p><h2 id="隐私书签、书签加密同步-侧边书签栏"><a href="#隐私书签、书签加密同步-侧边书签栏" class="headerlink" title="隐私书签、书签加密同步 - 侧边书签栏"></a>隐私书签、书签加密同步 - 侧边书签栏</h2><p>它可以将书签放在侧边栏，便于用户管理书签，这个功能不必多说，也不是它的核心功能。</p><p><img src="https://wmimg.com/i/1169/2025/01/6785d14c15de3.png" alt="侧边书签栏界面"></p><p>当我们想要隐藏一些收藏的网站时，这个插件可就派上用场了。</p><p>点开它上面的🔒，设置密码，就可以将一些重要的网站放到里面</p><p><img src="https://wmimg.com/i/1169/2025/01/6785da414675b.png" alt="侧边书签栏 - 隐私书签界面"></p><p>还支持新建文件夹、导入导出（付费）、加密同步（付费）等功能</p><ul><li>价格：免费，会员：¥39&#x2F;永久</li><li>官网：<a href="https://bookmarks.mengxianglong.com/">https://bookmarks.mengxianglong.com</a></li></ul><h1 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h1><p>如果你访问不了<a href="https://chromewebstore.google.com/category/extensions?hl=zh-CN">Chrome Web Store</a>和<a href="https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN">Microsoft Edge Addons</a>，可以试试<a href="https://www.crxsoso.com/">Crx搜搜 </a>，这是一个扩展商店，可以下载Chrome、Edge、Firefox的扩展。</p><p>找到要下载的扩展，点击“安装到浏览器”，此时会下载一个<code>.crx</code>文件。</p><p>以下使用Edge做演示：</p><p>点击右上角三个点 ⇒ 扩展 ⇒ 管理扩展 ⇒ 开发人员模式</p><p>将安装包拖入界面即可</p><p><img src="https://wmimg.com/i/1169/2025/01/6785e3e1f23af.png" alt="操作方法①"></p><p><img src="https://wmimg.com/i/1169/2025/01/6785e7ac1cebb.png" alt="操作方法②"></p>]]></content>
-    
-    
-    <summary type="html">2024年，用户继续使用Edge浏览器，并分享了几个实用的扩展。AdGuard能屏蔽99%的广告，免费且界面美观，其&quot;拦截此网站上的广告&quot;功能可删除不喜欢的内容，但部分网站会检测并要求关闭插件。Global Speed可控制媒体播放速度，最高达16倍速，但隐身模式无效，且会致网页本身倍速控制失效。这些扩展提升了用户的浏览体验。</summary>
-    
-    
-    
-    <category term="软件推荐" scheme="https://peter267.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
-    
-    
-    <category term="浏览器" scheme="https://peter267.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-    <category term="软件" scheme="https://peter267.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   

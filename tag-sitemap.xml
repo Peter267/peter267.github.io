@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://peter267.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+        <lastmod>2026-06-06T17:01:16.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/</loc>
+        <lastmod>2026-06-06T17:01:16.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E7%A0%94%E5%AD%A6/</loc>
+        <lastmod>2026-06-06T17:01:16.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/</loc>
+        <lastmod>2026-06-06T17:01:16.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://peter267.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
         <lastmod>2026-03-28T03:48:18.540Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +54,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E9%94%B5%E9%94%B5%E8%AE%BA%E9%81%93/</loc>
         <lastmod>2025-12-20T14:00:22.162Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E5%91%A8%E8%AE%B0/</loc>
-        <lastmod>2025-12-20T14:00:18.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -75,20 +96,6 @@
     <url>
         <loc>https://peter267.github.io/tags/%E6%B8%B8%E8%AE%B0/</loc>
         <lastmod>2025-10-19T13:10:48.239Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E4%BD%93%E9%AA%8C/</loc>
-        <lastmod>2025-10-19T13:10:48.239Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://peter267.github.io/tags/%E7%A0%94%E5%AD%A6/</loc>
-        <lastmod>2025-10-01T15:11:04.497Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -150,14 +157,14 @@
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+        <loc>https://peter267.github.io/tags/Python/</loc>
         <lastmod>2025-08-02T11:05:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://peter267.github.io/tags/Python/</loc>
+        <loc>https://peter267.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
         <lastmod>2025-08-02T11:05:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
